@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Dieses Arrangement von Blumen ist sehr zufriedenstellend"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein duftendes Bündel bestehend aus Blumen und Blättern"
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Blumenartiger Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Diessse Blumen sehen gesund ausss."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das sind mal paar bunt aussehende Blumen."
+	}
+]

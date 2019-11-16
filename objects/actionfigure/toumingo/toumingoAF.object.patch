@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Seine lange Beine erlauben es ihm, in Wasser zu stehen, um Fische zu fangen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Toumingo Figur"
+	}
+]

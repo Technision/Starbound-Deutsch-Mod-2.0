@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Aktiviert den unteren Knoten bei schwachem Licht und den oberem Knoten bei hellen Licht."}, {"op": "replace", "path": "/shortdescription", "value": "Lichtsensor"}]

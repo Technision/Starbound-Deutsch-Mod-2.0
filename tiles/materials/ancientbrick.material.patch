@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Uralter Ziegelstein"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Dieser gemeißelte Ziegel ist unermesslich alt."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Uralte gemeißelte Ziegel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Diese alten Ziegel haben die Verwüstung der Zeit überstanden."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein paar mächtig alt aussehende Ziegel"
+	}
+]

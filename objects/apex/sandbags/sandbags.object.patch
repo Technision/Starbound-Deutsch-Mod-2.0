@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Haufen Sandsäcke."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Sandsäcke"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Diese Sandsäcke sind simpel aber effektiv."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Solche schweren Säcke, wahrscheinlich gefüllt mit Sand."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Lange sssandige Sssäcke sehen schwer aus."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Der Sand im inneren formt die großen Taschen zu einer beeindruckenden Barriere."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Einige große Sandsäcke bilden eine ziemlich große Barrikade."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein Haufen Sandsäcke. Sand...Ein so vielseitiges Material."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Sandsäcke sind hoch gestapelt."
+	}
+]

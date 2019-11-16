@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Sieht aus wie Mondstein."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Schöner, glatter Mondstein."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Mondstein"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Dieser einzigartige Stein wird manchmal auf Monden gefunden."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glatter Mondsstein."
+	}
+]

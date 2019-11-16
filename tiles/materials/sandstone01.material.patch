@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Sandstein"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Sandige Sandsteinfelsssen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Dieser Sandstein besteht aus feinen Felsenpartikeln."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Sandiger ausschauender Felsen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Harter, natürlicher Sandstein."
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/paneLayout/title/value", "value": "GRAFIK"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/accept/caption", "value": "Akzeptieren"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/cancel/caption", "value": "Zurück"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/fullscreenLabel/value", "value": "VOLLBILD"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/borderlessLabel/value", "value": "RANDLOSES FENSTER"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/monochromeLabel/value", "value": "EINFARBIGE LICHTER"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/interactiveHighlightLabel/value", "value": "ZIEL HERVORHEBUNG"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/speechBubbleLabel/value", "value": "SPRECHBLASEN"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/textureLimitLabel/value", "value": "TEXTUREN LIMIT"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/resLabel/value", "value": "VOLLBILD AUFLÖSUNG"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/resValueLabel/value", "value": "Ersetz mich"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/zoomValueLabel/value", "value": "Ersetz mich"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verzaubert. Diese Plattform ist aus massivem Gold."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Gold! Es ist eine Plattform aus Gold!."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Für die wirklich reichen, eine Plattform bestehend aus Gold."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Goldene Plattform"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Goldene Plattformen. Ssssso schick."
+	}
+]

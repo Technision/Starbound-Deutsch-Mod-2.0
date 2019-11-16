@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine seltsame Waffe, die oszillierende Energiekugeln abfeuert."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ray Gun"
+	}
+]

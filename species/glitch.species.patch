@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Der Glitch wurde gebaut, um eine Zivilisation vorzutäuschen. Ein Fehler in ihrer Programmierung hat sie veranlasst früh in der Simulation hängen zu bleiben. Bis Heute sind sie unfähig ihre mittelalterlichen Werte und Glauben abzulegen."
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "GLITCH"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Glitch"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "Chrakterfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "Kopf"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "Shirt"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "Hose"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/4", "value": "Lichtfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "Detailfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "Shirtfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "Hosenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "Persönlichkeit"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Seine Hülle ist unmöglich zu durchdringen, was es knifflig machen kann.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Snaggler Figur"
+	}
+]

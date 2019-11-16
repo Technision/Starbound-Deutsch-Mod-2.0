@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Eine leuchtende Feuerblume."}, {"op": "replace", "path": "/shortdescription", "value": "Eine Feuerblume."}, {"op": "replace", "path": "/floranDescription", "value": "Brennende Blumen verwirren Floraner."}, {"op": "replace", "path": "/glitchDescription", "value": "Aussage. Eine Feuerblume."}]

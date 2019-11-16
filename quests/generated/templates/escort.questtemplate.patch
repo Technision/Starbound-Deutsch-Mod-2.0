@@ -1,0 +1,218 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "heute früh"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/4", "value": "gestern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/0", "value": "activity1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/0", "value": "über einen Traum von <activity2> zu diskutieren, den ich hatte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/1", "value": "Ideen für ein Musical über <activity2> zu sammeln"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/2", "value": "über unsere Liebe für <activity2>  zu diskutieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/12", "value": "Waldbrände"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/13", "value": "Hände"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/14", "value": "das goldene Zeitalter der Weltraumpiraterie"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/15", "value": "winzige Boote"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/0", "value": "activityfloran"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/0", "value": "glitchworry1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/0", "value": "glitchworry2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/0", "value": "Besorgt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/1", "value": "Beunruhigt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Bringe <targetNpcType> sicher zu <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Finde <questGiver>'s Freund <targetNpcType>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner's Freund ^orange;<targetNpcType>^white; sollte Floraner vorhin hier treffen, um <activityfloran>. <targetNpcType> ging womöglich verloren... letzzzter Ort, wo Floraner sie sah, war bei der ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Könntessst du Floraner helfen, <targetNpcType.pronoun.object> zzzu finden^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Besorgt. Mein Freund ^orange;<targetNpcType>^white; sollte mich vorhin treffen, um <activity1>. <targetNpcType.pronoun.capitalSubject> ging womöglich auf dem Weg hierher verloren - das letzte Mal, dass ich <targetNpcType.pronoun.object> sah, war bei der ^orange;<spawnPoint>^white; <spawnPoint.direction>.^green; Könntest du dorthin gehen und <targetNpcType.pronoun.CapitalObject> zu mir zurückbringen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "Kollege"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Keine Sorge - Ich bin mir sicher, dass <questGiver>'s Freund an einem sichereren Ort wiederkehren wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "<targetNpcType>'s Eskorte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "Eskortiere <targetNpcType> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/4", "value": "alter Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Mein Freund <targetNpcType> ist bisher noch nicht angekommen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner's Freund <targetNpcType> wird vermisssst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Besorgt. Mein Freund <targetNpcType> muss erst noch ankommen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/5", "value": "Date"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "vor nicht allzu langer Zeit"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "Vetter"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/3", "value": "Mitarbeiter"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/3", "value": "eine Tanzshow über <activity2> zu planen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/4", "value": "sich über einige von mir gemalte Bilder zu unterhalten, die von <activity2> handeln"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/5", "value": "ein Kunstwerk zu planen, welches durch <activity2> inspiriert wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/6", "value": "miteinander abzuhängen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/0", "value": "activity2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/0", "value": "Schleime"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/1", "value": "Glitch Prinzessinnen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/2", "value": "Piraten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/3", "value": "Poptops"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/3", "value": "letzte Nacht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/7", "value": "über <activity2> zu diskutieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/8", "value": "Videospiele"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/9", "value": "Comicbücher"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/10", "value": "exotische Früchte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/0", "value": "Kämpfen zzzu üben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/6", "value": "unangebrachte Hüte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/1", "value": "Jagen zzzu üben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/2", "value": "Kossstüme zzzu machen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/7", "value": "Katzen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/11", "value": "klassische Literatur"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/0", "value": "Unwohl"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/2", "value": "Panisch"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/0", "value": "Annerkennung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Danke, dassss du <targetNpcType> zzzurück zzzu Floraner gebracht hasssst! "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Erleichtert. Danke, dass du <targetNpcType> hierher zurückgebracht hast."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/1", "value": "Bekümmert."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/2", "value": "Verwirrt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/2", "value": "Ich bin mir sicher, <targetNpcType.pronoun.copulative> ist erleichtert, dich um sich zu haben!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/3", "value": "Ich weiß nicht, was ich ohne dich getan hätte!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/4", "value": "Privatessss abzzzuwickeln"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke, dass du <targetNpcType> hierher zurück gebracht hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/0", "value": "<targetNpcType.pronoun.capitalSubject> und ich sind dir sehr dankbar!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Mein Freund ^orange;<targetNpcType>^white; sollte mich vorhin treffen, um <activity1>. <targetNpcType.pronoun.capitalSubject> ging womöglich auf dem Weg hierher verloren - das letzte Mal, dass ich <targetNpcType.pronoun.object> sah, war bei der ^orange;<spawnPoint>^white; im <spawnPoint.direction>.^green; Könntest du dorthin gehen und <targetNpcType.pronoun.object> zu mir zurückbringen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/4", "value": "Skelette"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/5", "value": "Gemüseanbau"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/3", "value": "mit dem Speer zzzu üben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/1", "value": "Nimm dies als Zeichen meiner Anerkennung."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Fenstergitter"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein einfaches Gitter aus Holz."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag diesesss gitterartige Holzzz."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Inspiriert. Dieses Gitter funktioniert als Zaun oder als Fenster."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dünne Holzstreifen kreuz und quer."
+	}
+]

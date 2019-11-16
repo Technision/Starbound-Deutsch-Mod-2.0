@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/title", "value": "Mannschaftsuniform zurücksetzen?"}, {"op": "replace", "path": "/subtitle", "value": "<name>, <rank>"}, {"op": "replace", "path": "/message", "value": "\n\nBereit, deine Mannschaft wieder zur Protektoratsuniform wechseln zu lassen?"}]

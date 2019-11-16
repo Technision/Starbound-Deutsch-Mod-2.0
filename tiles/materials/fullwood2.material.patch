@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holz"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Roh und unbearbeitet. Das Holz sieht aus wie frisch aus dem Wald."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Holzzz."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neutral. Unverarbeitetes Holz."
+	}
+]

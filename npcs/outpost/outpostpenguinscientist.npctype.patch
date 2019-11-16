@@ -1,0 +1,5 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Willkommen zu Dr. Akaggys Mech Werkstatt! Ich kann Ihnen versichern, dass dies ein legitimes Geschäft ist."
+	}
+]

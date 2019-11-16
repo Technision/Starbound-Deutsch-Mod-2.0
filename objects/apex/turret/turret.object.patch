@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das beste automatisierte Geschütz."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Hi-Tech Geschütz"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Allzeit bereit zu feuern."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ich muss mich wie der Wind bewegen um vom Geschütz nicht gesehen zu werden."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Solche hellen Lassser. Möchte nicht im Sichtfeld ssssein."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Entschlossen. Ich darf nicht das Ziel werden."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Eine automatische Sicherheitswaffe. Böse Arbeit."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Eine Erinnerung an die extreme Länge, die einige von ihnen erreicht haben."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine automatisierte Waffe hat keine Seele, um sie zu kontrollieren."
+	}
+]

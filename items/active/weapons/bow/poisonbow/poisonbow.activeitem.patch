@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Gift Bogen ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Schiesst Pfeile mit tödlichem Gift."}, {"op": "replace", "path": "/shortdescription", "value": "Gift Bogen"}]

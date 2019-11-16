@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Diese Durastahlplatte wurde entworfen, um Druckschwankungen auszugleichen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine Durastahlplatte, speziell entwickelt um druckintensive Umgebungen einzufassen."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Sstarke Durasstahlplatte."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Druck-Durastahlplatte"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'Ne glänzende Durastahlplatte."
+	}
+]

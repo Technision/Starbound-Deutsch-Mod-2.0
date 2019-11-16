@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Kleine aber perfekt geformte Ziegel aus Lehm."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Einfache Zzziegel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Diese Ziegel wurden vorsichtig geformt und angeordnet."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Gut aussehendes Mauerwerk."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ziegel"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es isst und lebt im Teer. Anzeichen deuten darauf hin, dass es auch Teer ausscheidet.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Taroni Figur"
+	}
+]

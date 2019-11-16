@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "Miniknog Kriesenabneigung"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine Abschrift eines Miniknog PDA."
+	},
+	{
+		"op": "replace", "path": "/contentPages/0", "value": "DAS IST EINE MINIKNOG ÖFFENTLICHE BEKANNTMACHUNG\r\n\r\nBei allen Wasserquellen wurde ein tödlicher Erreger festgestellt.\r\nDie hart arbeitenden Ärzte der Miniknog haben bereits ein Heilmittel entdeckt.\r\nDie Impfung beinhaltet die kostenlose Registrierung für den vestigit-Evo Prozess. Dies ist nicht optional.\r\nBürger müssen sich sofort zur Impfung bei ihrem örtlichen Rathaus melden."
+	}
+]

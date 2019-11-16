@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Frisch geschnittene Bambusstängel."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Frische Bambusssstängel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Hoffnungsvoll. Die Farbe des Bambus verrät, dass er erst kürzlich gefällt wurde."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Etwas gefällter Bambus."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Bambus"
+	}
+]

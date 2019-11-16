@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine grasige Überdachung, die Schlichtheit davon ist irgendwie schön. "
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Grasblock"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein Block mit wachsenderm Gras oben drauf."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag grasige Überdachungen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Es sieht so aus als ob diese grasige Überdachung lebendes Gras besitzt."
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Ein reisender Händler issst an der ^orange;<spawnPoint>^white; <spawnPoint.direction> angekommen! ^orange;<target>^white; issst bekannt dafür, wertvolle Waren gegen ^orange;<tradedItems>^white; zu tauschen. Bitte ^green;bringe diese Sachen zu <target.pronoun.object>^white; damit Floraner seine Waren in Floraner's Laden aufstocken kann."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner hat gehört, dasss ^orange;<target> ^white;ein wandernder Händler ist und bereit issst, ^green;wünschenswerte Waren im Austausch für ^orange;<tradedItems> ^green;zu tauschen. Bringe dies zu <target.pronoun.object>^white;, an der ^orange;<spawnPoint>^white; <spawnPoint.direction> und hilf, die Bekanntheit von Floraner's Laden zu verbesssern."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Ich war nicht in der Lage <questGiver> neue Waren für <questGiver.pronoun.possessiveDet> Geschäft zu besorgen. <questGiver.pronoun.capitalSubject> hat wahrscheinlich genug."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Endlich hat Floraner <newItem> im Angebot. Floraner issst sicher, Geschäft wird bald blühen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Gib <tradedItems> an <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Bringe <questGiver> das Päckchen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Ehrgeizig. Die Auswahl an Gegenständen in meinem Geschäft ist mangelhaft. Maßnahmen müssen ergriffen werden, um das zu ändern!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Mein Geschäft wäre wohl bekannter, wenn ich mehr Dinge zum Verkaufen hätte. Ich habe einen Plan."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Zurückhaltend. Ich möchte in neue Bereiche des Handels expandieren, wirst du mir helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner will Geschäft bekannter machen und mehr Verkaufen. Floraner hat einen Plan!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner´sss Geschäft braucht mehr Dinge zzzum Verkaufen! Floraner hat einen Plan."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich habe einen Plan um die Auswahl meines Geschäfts zu erweitern. kannst du mir helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "<questGiver>'s Plan, das Lager aufzufüllen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "<questGiver>'s Handel"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Dank dir habe ich jetzt <newItem> im Sortiment! Meine Kunden werden so erfreut sein!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke! Falls du jemals neue <newItem> benötigen solltest, habe ich genügend auf Lager!"
+	}
+]

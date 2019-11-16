@@ -1,0 +1,86 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Nun, ^green; bau ein neues Haus mit deinem ^orange;<guardObject>^white; im Inneren, ^green;stelle 3 Möbelstücke auf, die ein ^orange;<tag>^white; mögen würde und ^green;hänge diese ^orange;Kolonistenurkunde ^green;auf^white;! Vergiss nicht,  ^green;eine ^orange;Lichtquelle ^green;aufzuhängen^white;! "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Alsss letztesss solltessst du ^green;ein ^orange;<guardObject> ^green;platzzzieren, ^white;zzzusammen mit ^green;3 ^orange;<tag>^green; Gegenständen.^white; Und ^green;platziere diese ^orange;Kolonistenurkunde^green; im Haus^white;. Vergissss die ^orange;Lichtquelle^white; nicht! "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich hab mich entschieden, <questGiver>'s Sicherheit nicht zu verbessern. Wenn <questGiver.pronoun.subject> <questGiver.pronoun.reflexive> nicht beschützen kann, sollte <questGiver.pronoun.subject> nicht hier wohnen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Aufgeregt. Jetzt brauchst du nur noch ^green;ein neues Haus mit deinem ^orange; <guardObject> ^green;zu bauen>^white;. Nimm 3 Möbelstücke, die ein ^orange;<tag>^white; mögen würde und ^green;hänge diese ^orange;Kolonistenurkunde ^green;auf^white;. Vergiss nicht, ^green;eine ^orange;Lichtquelle^green; aufzuhängen^white;!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Eifrig. Endlich, ^green;bau ein neues Haus mit deinem ^orange; <guardObject>^green;, platziere 3 Möbelstücke, die ein ^orange;<tag>^white; mögen würde.^green; Hänge diese ^orange;Kolonistenurkunde^green; auf^white;! Vergiss nicht, ^green;eine ^orange;Kolonistenurkunde ^green;aufzuhängen^white;!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Ich war nicht in der Lage <questGiver>'s Sicherheit zu verbessern. <questGiver.pronoun.capitalSubject> wird in Ordnung sein. Vielleicht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Mit diessser neuen Wache um sich, kann Floraner die ganze Stadt entspannen sehen. Danke für deine harte Arbeit!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Baue ein Heim für eine Wache mit:"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "1 Kolonistenurkunde"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "3 <tag> Gegenständen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/3/text", "value": "1 <guardObject> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/4/text", "value": "eine Lichtquelle"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/5/text", "value": "eine Tür"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner dachte, dassss sich jeder mit einer Wache in der Stadt sicherer fühlt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Wehrlos. Ich würde mich sicherer fühlen mit einer Wache in der Nähe. Kannst du mir helfen eine zu rekrutieren?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Verwundbar. Hier ist nicht genug Verteidigung. Eine Wache einzustellen, würde helfen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner denkst, dassss Stadt von neuer Wache profitieren würde. Hier issst Floraner's Plan..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Wir könnten mehr Verteidigung gebrauchen. Ich habe einen Plan..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Dieser letzte Schritt wird viel Arbeit werden. Du wirst ein ^green;Haus für eine Wache bauen müssen^white;.^green; Hänge diese ^orange;Kolonistenurkunde^green; auf^white;. ^green;Platziere im Haus^white; 3 ^orange;<tag> ^white;Gegenstände. Vergiss nicht die ^orange;Lichtquelle^white; und eine Tür!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan; Ich würde mich sicherer fühlen, wenn wir etwas mehr Sicherheit hätten. Kannst du mir helfen eine Wache zu rekrutieren?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Zufrieden. Ich fühle mich komplett sicher, in dem Wissen, dass unsere Wache aufpasst. ich werde dir deine unermüdlichen Anstrengungen nicht vergessen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Alles was noch fehlt, ist ^green;ein Haus mit deinem ^orange;<guardObject> ^green; zu bauen^white;. ^green;Platziere 3 Möbelstücke^white; die ein ^orange;<tag> ^white;mögen würde und ^green;häng die ^orange;Kolonistenurkunde^green; auf^white;. Vergiss nicht, ^green;eine ^orange;Lichtquelle^green;aufzuhängen^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "Sicherheit für <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Wir haben eine neue Wache! Ich fühle mich schon sicherer. Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Floraner hat nicht an dir gezzzweifelt! Floraner fühlt sich schon viel sicherer! Danke."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Ermächtigt. Ich habe nun das Vertrauen, dem Tag entgegen zu sehen, jetzt wo eine Wache an meiner Seite ist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Leerstand beseitigt! Das hat nicht lange gedauert! Danke, dass du meine Sicherheit verbessert hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "<questGiver> möchte Sicherheit"
+	}
+]

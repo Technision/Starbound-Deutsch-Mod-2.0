@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Das innere des Schnabels ist ein wirklich erschreckender Anblick.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Scaveran Figur"
+	}
+]

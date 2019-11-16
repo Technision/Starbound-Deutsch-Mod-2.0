@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Unbehauener Stein."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Rauer Stein"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Harter Rauer SStein."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Das sind gewöhnliche grobe Steine."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Nur ein Buncha Felsen."
+	}
+]

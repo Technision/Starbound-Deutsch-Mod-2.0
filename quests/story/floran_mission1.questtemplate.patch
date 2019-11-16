@@ -1,0 +1,71 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Es sieht so aus, als hättest du bereits ein paar Gegenstände gefunden, die Hinweise auf das Verbleiben des Artefakts geben. Ich werde meine Analyse beginnen, während du weiter suchst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Scanne Gegenstände^reset;, um ^orange;Floranische Hinweise^reset; zu finden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^orange;Arche^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Du bist ein fähiger Sammler von floranischen Antiquitäten! Es scheint, als hättest du bereits genügend Hinweise gesammelt, damit ich den Aufenthaltsort des Artefaktes bestimmen kann!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/text", "value": "Für die traditionelle floranische Kultur sind Jagden und ihre Jäger von großer Wichtigkeit... Ich bin sicher, dass dies Einfluss auf den Aufenthaltsort des Artefaktes hat."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Jetzt, wo du dich mit dem Untersuchen vertraut gemacht hast, ^green;müssen wir diese ^orange;Artefakte;^white; finden. Ja, die Floraner kommen zuerst... Ihre Kolonien werden wichtige ^orange;Hinweise;^reset; auf den Aufenthaltsort geben. Floraner leben heutzutage überall, aber bevorzugen noch immer die dichten ^orange;Wälder^white;, die man auf Planeten findet, die um ^orange;sanfte Sterne^white; kreisen. Viel Glück, und danke!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/2/text", "value": "Die Floraner scheren sich nicht viel um Geschichte, aber sie wertschätzen Tradition. Es ist hilfreich, sich ein Bild der Kultur zu machen."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Finde Hinweise auf das floranische Artefakt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/text", "value": "Dieses Bild stellt einen floranischen Jäger dar; die Tracht scheint fast zeremoniell zu sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/3/text", "value": "Ein Hinweis geringer Tragweite, aber dennoch relevant!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/text", "value": "Diese klebrigen Netzstrukturen sind von ungewöhnlicher Färbung und Beschaffenheit. Die Spezies, die sowas produziert, muss einzigartige Charakteristiken haben und ist möglicherweise sehr beschränkt, was den Lebensraum angeht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Hmmm, wie eigenartig... Ich muss das kreuzvergleichen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/5/text", "value": "Dies bestätigt einige meiner Spekulationen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/4/text", "value": "Gewalt regiert in der floranischen Kultur - manchmal aufrührerischer, manchmal organisierter Natur."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/text", "value": "Diese Spinndüse ist ungewöhnlich groß - was für eine Kreatur könnte solch ein Organ zustande bringen? Dies ist augenscheinlich eine geschätzte Trophäe. Ich frage mich..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/1/text", "value": "Hm, ich frage mich..."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hast es geschafft! Das war der letzte Hinweis, den wir brauchten. Ich weiß jetzt, wo sich das floranische Artefakt genau befindet."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/6/text", "value": "Interessanter Fund! Mach weiter so, du machst es prima!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/7/text", "value": "Interessant, dass sie solche Stücke so wert schätzen und auf diese Weise ausstellen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/8/text", "value": "Wie eigenartig! Aber überraschende Informationen können noch wertvoller sein, als Informationen, die man eh schon erwartete..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/9/text", "value": "Jeder Hinweis bringt uns näher!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text", "value": "Die Kreatur, zu der diese Überreste gehörten, ist hier nicht heimisch - Ich werde durch meine taxonomischen Aufzeichnungen schauen und versuchen, die wahre Herkunft und ihre Bedeutung herauszufinden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Wundervoll - Ich glaube, ich weiß jetzt, wo sich das Artefakt befinden könnte! ^#71f2f6; Komm zu mir zur Arche zurück, wenn du bereit bist^white;, ja?"
+	}
+]

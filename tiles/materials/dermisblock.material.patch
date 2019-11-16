@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine fleischige Masse mit etwas dicker, zäh aussehender Haut."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörer-Haut"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Starke Haut issst guter Schutzzz."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Die Dicke dieser Haut macht sie unglaublich stark."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Die Haut sieht zäher aus als 'n Lederstiefel."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Dieser Kupferblock hat einen deutlichen, Zahnrad ähnlichen Abdruck."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Begeistert. Ich finde die Zahnradform von diesen Blöcken angenehm."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Kupferblöcke wie Maschinen Zzzahnräder."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Kupferblöcke, die ein bisschen wie Zahnräder aussehen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kupfer Zahnrad Block"
+	}
+]

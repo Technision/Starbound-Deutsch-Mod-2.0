@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Überzeugt. Dieser Kupferzaun ist viel stabiler als der aus Holz."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ssstabiler Kupferzzzaun."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine stabiler Kupferzaun."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kupferzaun"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser Zaun ist aus Kupfer hergestellt."
+	}
+]

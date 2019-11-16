@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Bauplan für ein fortgeschrittenes Mech-Teil"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Fortgeschrittenes Mech-Teil"
+	}
+]

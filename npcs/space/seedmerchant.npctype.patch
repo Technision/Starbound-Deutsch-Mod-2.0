@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "  Samenhändler"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": " Verkauft Samen für den Ackerbau!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/merchant/start/floran/default/0", "value": "  Floran lässssst Pflanzen im Weltraum wachssssen. Floran an nicht viel Kunden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/merchant/end/floran/default/0", "value": " Hape Spassssssss im Weltraum!"
+	}
+]

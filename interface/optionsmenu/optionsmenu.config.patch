@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/paneLayout/volumeLabel/value", "value": "Lautstärke"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/sfxValueLabel/value", "value": "Ersetz mich"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/musicLabel/value", "value": "Musik"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/musicValueLabel/value", "value": "Ersetz mich"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/tutorialMessagesLabel/value", "value": "TUTORIAL NACHRICHTEN"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/allowAssetsMismatchLabel/value", "value": "ERLAUBE ASSETS UNSTIMMIGKEITEN"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/clientIPJoinableLabel/value", "value": "VERBINDEN MIT IP"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/clientP2PJoinableLabel/value", "value": "MULTIPLAYER ÜBER STEAM / DISCORD"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/backButton/caption", "value": "Zurück"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/acceptButton/caption", "value": "Annehmen"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/showKeybindings/caption", "value": "Tastenbelegung"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/showGraphics/caption", "value": "Grafik"
+	}
+]

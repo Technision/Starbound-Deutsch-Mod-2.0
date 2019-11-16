@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/artifact", "value": "Finde das ^orange;Artefakt^reset; in der ^orange;Großen Pagodenbibliothek^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^orange;Arche^reset; zurück"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Gut gemacht, das Artefakt zu retten. Sie sind mächtige Artefakte und sollten nicht in die falschen Hände geraten..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/missionRadioMessage/text", "value": "Ich habe die Koordinaten für die ^orange;Große Pagodenbibliothek^reset; erhalten. ^green;Verwende den Computer^reset;, um auf den Ort zuzugreifen."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Besorge das Hylotl-Artefakt"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Nach dem, was du gefunden hast, scheint das ^orange;Hylotl-Artefakt^reset; tief unter dem Ozean an einem Ort, das ^orange;Die Große Pagodenbibliothek^reset; genannt wird, aufbewahrt. Die Bibliothek ist uralt, ^green;sollte interessant sein, diesen Ort mal zu besuchen^reset;."
+	}
+]

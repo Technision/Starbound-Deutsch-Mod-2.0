@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Unter dieser verstärkten Hi-Tech-Platte sind Kabel verborgen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Verstärkter Tech-Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner reißßßt Verdeckung ab, zzzerfetzt Kabel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neidisch. Diese Platte verdeckt die Kabel darunter perfekt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Schicke Platte mit einigen Kabel unter ihr."
+	}
+]

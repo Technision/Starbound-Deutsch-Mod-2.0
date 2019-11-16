@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Es sieht sicher nicht so aus, als könnte dies einen Schild erzeugen."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schildgenerator"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein Schalter. Es aktiviert den Schildgenerator."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Dieser Schalter generiert einen Schild."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Sssschalter!"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Überrascht. Dieser kleine Schalter sieht nicht so mächtig aus."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Wenn ich diesen Schalter umlege, wird der Schildgenerator ein- und ausgeschaltet."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein grundlegender Schalter. Damit kann der Schildgenerator aktiviert werden."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich kann dies hier umlegen, um den Schildgenerator umzuschalten."
+	}
+]

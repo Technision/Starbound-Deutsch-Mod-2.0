@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/shortdescription", "value": "Klauenhandschuh"}, {"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Klauenhandschuh ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Nicht aus Adamantium, aber trotzdem cool."}]

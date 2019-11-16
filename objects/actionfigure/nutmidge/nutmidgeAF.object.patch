@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Die Königs Nussmücke ist die einzige, deren Kopfbüschel nicht zu Tode getreten wurde.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Nussmücke Figur"
+	}
+]

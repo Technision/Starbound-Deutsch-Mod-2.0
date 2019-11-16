@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Es scannt Fingerabdrücke und gleicht sie mit persönlichen Daten ab."}, {"op": "replace", "path": "/shortdescription", "value": "Fingerabdruckscanner"}]

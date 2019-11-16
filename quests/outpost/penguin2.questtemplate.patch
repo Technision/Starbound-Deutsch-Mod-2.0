@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Rede mit ^orange;Biggy^reset;, um zur ^orange;Testanlage^reset; zu gelangen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Biggy^reset; am ^orange;Außenposten^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Bezwinge ^orange;Schockhüpfer MK I^reset;"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Pinguin Waffentestgelände"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Biggy"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Biggy"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hast die Waffe meines Lieferanten zerstört? Fantastisch! \"Biggy's Seriöse Waffen\" ist damit wieder im Geschäft - ^green;Komm ruhig jeden Tag vorbei und schau', was ich Neues hab'^white;!"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Unter normalen Umständen würd' ich dir'n paar seltene Waffenverbesserungen andrehn', aber mein Lieferant is' durch seine ^orange;neue experimentelle Waffe^white; einfach zu abgelenkt. Wenn du 'se...sagen wir mal...für mich zerstören könntest, würd' er mich vielleicht wieder mit meinen Waffenverbesserungen beliefern! ^green; Sprich mich an, wenn du bereit bist und ich schick' dich direkt zu ihm^white;!"
+	}
+]

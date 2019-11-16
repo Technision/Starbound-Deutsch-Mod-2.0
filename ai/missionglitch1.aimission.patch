@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Es scheint, als würde das Glitch-Artefakt dem Eigentümer eines kleinen Bergfrieds auf einem einsamen Planeten gehören."
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Der Bergfried des Barons"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Besuche nochmal Den Bergfried des Barons"
+	}
+]

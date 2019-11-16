@@ -1,0 +1,80 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Gespannt. Als erstes musst du ^green;mit ^orange;<target> ^white;sprechen und <target.pronoun.possessiveDet> ^orange;<item> ^green;ausleihen. ^white;Sag <target.pronoun.object> einfach, dass ich dich gesandt habe und <target.pronoun.subject> wird es dir gerne leihen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Gut gemacht! Wir werden <target>'s <item> zwar nicht zurückgeben können, aber ich bin mir sicher, <target.pronoun.subject> würde dieses alte, staubige Ding eh nicht vermissen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Ja, <target>'s <item> issst sehr gut! Floraner issst erstaunt, dasss <target> esss so einfach hergegeben hat. Wir geben esss wahrscheinlich nicht so bald zzzurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Du hassst <target>'s <item>! Floraner denkt, <target> wird länger darauf warten müsssen, als <target> esss gerne hätte. Aber dasss issst jetzzzt nicht wichtig."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Aufmerksam. Wir benötigen ^orange;<target>'s <item>^white. Vor einer Weile sah ich, wie <target.pronoun.subject> seine neue Ware präsentierte und dabei wurde ich darauf aufmerksam. Geh und ^green;frag <target.pronoun.object>, ob wir es ausleihen können."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Spontan. Wir müssen uns als nächtes ^orange;<target>'s <item> ^green;leihen. ^white;<target.pronoun.capitalSubject> wird kein Problem damit haben, ^green; wenn du <target.pronoun.object> sagst, dass ich dich gesendet habe."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Besorge <item> von <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Grosssartig, du hassst esss geschafft! Lasss unsss hoffen, dassss <target> die floranische Bedeutung von Ausssleihen kennt..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/1", "value": "Du hassst <target>'s <item>! Esss issst nett, dassss <target.pronoun.subject> unsss so vertraut. Ich kann allerdingsss nicht versprechen, dassss wir dasss Ding zzzurückgeben werden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Zufrieden. Ah, gut, dass du <target>'s <item> besorgt hast! Du wirst daran denken müssen, es irgendwann zurückzugeben, aber mach dir jetzt keinen Kopf drum."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Erfreut. <target>'s <item> wird perfekt sein! <target.pronoun.subject> rettete uns davor, uns selbst sowas besorgen zu müssen. Sei vorsichtig damit, <target> würde sein Hab und Gut sicher nicht gerne in schlechtem Zustand zurück bekommen wollen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Das lief wie am Schnürchen. Lass uns hoffen, dass <target> es nicht zurück haben möchte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Jetzt benötigen wir noch etwas Weiteres. Mir kommt da besonders ^orange;<target>'s <item>^white; in den Sinn. Du solltest ^orange;<target.pronoun.object>^green; aufsuchen und fragen, ob wir <target.pronoun.possessive> ausleihen können^white;. Müssen ja nicht erwähnen, dass wir es nicht zurückgeben können."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Ich weiss zufällig, was <target> alles besitzt und ich\r\nhabe besonders ein Auge auf ^orange;<item>^white; geworfen. Könnten wir jetzt wirklich gut gebrauchen.\r\nWieso ^green;gehst du nicht und holst es von <target.pronoun.object>?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Kehre zu <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Enthusiastisch. Unsere oberste Priorität sollte darin bestehen, hochqualitative Sachen zu besorgen. ^orange;<target>'s <item> zum Beispiel sieht sehr gut aus.^white; Ich denke, am Besten wäre, wenn man ^orange;<target>^white; einfach fragt, ob wir uns^green; <target.pronoun.possessive>'s ausleihen können^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Für unsere Besorgungen habe ich viele Leute im Blick und einige von ihnen haben Dinge, die wir benötigen. Für den Anfang wäre da ^orange;<target>'s <item> ^white;. Wieso ^green;gehst du nicht und fragst, ob wir es für eine Weile leihen können?^white; Wir können <target.pronoun.object> ja später erzählen, wir hätten es verloren, falls <target.pronoun.subject> es zurückhaben möchte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Erfreut. Großartig! Das ist genau, was wir brauchen. Ich weiß, dass <target> uns aufspüren würde, also mach nichts dummes, wie zu vergessen, <target.pronoun.possessiveDet> Eigentum zurückzugeben, sobald wir hier fertig sein. Das wäre ziemlich peinlich!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "Ich denke, wir könnten ^orange;<target>'s <item>^white; gut gebrauchen, also wieso ^green;gehst du nicht und fragst <target.pronoun.object>, ob wir die Sache für unbestimmte Zeit ausleihen können?^white; Nun, den \"unbestimmte Zeit\"-Teil lässt du lieber weg..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Bevor wir irgendwasss anderesss machen können, brauchen wir ^orange;<target>'s <item>^white;. Floraner weisss, dassss ^orange;<target>^white; es Floraner leihen wird. ^green;Wirssst du hingehen und esss holen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Floraner weisss zzzufällig, wasss <target> allesss besitzzzt und Floraner hat besondersss ein Auge auf ^orange;<target>'s <item>^white; geworfen. Könnten wir gut gebrauchen. Wenn du fragssst, ob du esss leihen kannssst, wird unsss das Zzzeit sparen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Erleichtert. Du hast es geschafft! <target>'s <item> wird gute Arbeit leisten. <target.pronoun.subject> war wirklich sehr nett. Versuche, dich daran zu erinnern, die Sache zurückzugeben, wenn wir fertig sind."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Wir müsssen als nächssstesss mit ^orange;<target>^white; reden. ^green; Geh und frag nach <target>' ^orange;<item>^white;, <target> wird schon nichtsss dagegen haben, wenn Floran esss ausssleiht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/0", "value": "<target>'s <item> ist wirklich brauchbar. Hoffen wir mal, dass <target.pronoun.subject> es nicht vermissen wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/1", "value": "Großartig! <target> ist ein großzügiger Nachbar."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Wir brauchen weiteresss glänzzzendesss Ding. ^orange;<target>'s <item> wäre perfekt, also ^green;solltessst du fragen, ob du esss leihen kannssst."
+	}
+]

@@ -1,0 +1,188 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/0", "value": "Gute Arbeit. Dasss wird den ressstlichen Plan einfacher machen. Floraner dankt dir."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Schüchtere <target> ein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Melde dich wieder bei <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Lege <item> an"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/default/0", "value": "Endlich, mein Plan geht auf. Wusstest du, dass ^orange;<target>^white; Angst hat vor ^orange;<item>s?^white; Du solltest ^green; eins auf <target.pronoun.CapitalObject> richten und ein Gespräch anstimmen. ^white;<target.pronoun.capitalSubject> wird so verängstig sein, dass <target.pronoun.subject> alles macht, was ich sage! Ein perfekter Plan."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/default/1", "value": "Warum sollen dich Leute mögen, wenn sie dich auch fürchten können? Danke für deine Hilfe! Ich bin sicher, <target> wird mir nochmal nützlich sein..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Zufrieden. Wenn <target> alles macht was ich sage, eröffnen sich mir neue Möglichkeiten. Deine Zusammenarbeit ist sehr... gewürdigt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Aggressiv. Ich brauche <target> fügsam, und ich habe einen Plan wie das funktioniert."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/2", "value": "Ich habe versagt <questGiver> dabei zu helfen <target> einzuschüchtern. War vielleicht das beste - Einschüchterung ist keine gute Sache."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich habe es nicht geschafft <target> einzuschüchtern. Hoffentlich ist <questGiver> nicht zu sehr enttäuscht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich will <target>'s Respekt, aber Freundschaft dauert zu lange. Ich habe eine bessere Idee..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;<target> musss wisssen, dasss Floraner jemand zzzum fürchten ist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Gerissen. Ich habe mich entschieden, dass <target> ein bisschen mehr vor mir Angst haben sollte... Ich habe eine Idee."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner will mehr Respekt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan; Ich habe mich entschieden, dass es klasse wäre, wenn <target> mir gehorsam ist, für den Fall, dass ich <target.pronoun.CapitalObject> für etwas brauche. Ich habe auch schon eine Idee wie das funktioniert..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Wir fangen an, dasss ^orange;<target> ^white;weisss, wer Floraner issst. Floraner kennt einen Weg dasss zu schaffen - ^green;nimm einen glänzenden ^orange;<item> ^green;und geh und reden mit <target>. ^white;Nicht versagen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/floran/1", "value": "Zzzeit, ^orange;<target> ^white;zu zeigen, wer der großßße Floraner in der Stadt issst. ^green;Benutze ein ^orange;<item>^green; und rede mit <target.pronoun.object>^white;. Ich bin sicher, <target.pronoun.subject> wird sich schnell beugen. Floraner hat Vertrauen in dich."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/glitch/1", "value": "Bedrohlich. Zum Schluss muss ich ^orange;<target>^white; dazu kriegen, mich zu respektieren. Es gibt nur einen Weg das zu schaffen - du solltest ^green;<target.pronoun.object> Angst machen mit einem großen ^orange;<item>^white;, damit <target.pronoun.subject> lernt mich zu fürchten! Das ist ein narrensicherer Plan."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Floraner denkt, dasss ^orange;<target>^white; nicht weisss wie wichtig Floraner issst. ^green;Zeige mit einem tödlichen ^orange;<item>^white; auf <target.pronoun.CapitalObject> und ^green; starte ein Gespräch.^white; <target.pronoun.Subject> wird mich respektieren."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Bedrohlich. Als erstes muss ich  ^orange;<target>^white; dazu kriegen, mir zu helfen, mit was auch immer ich will. Könntest du ^green; <target.pronoun.CapitalObject> einschüchtern^white;? ^green;Rede mit <target.pronoun.object> mit einem schönen ^orange;<item>^green; in der Hand ^white;und ich bin sicher, <target.pronoun.subject> wird die Botschaft verstehen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Zuerst brauche ich  ^orange;<target>'s^white; Gehorsam. Wenn du ^green; ein großes ^orange;<item> ^green;auf <target.pronoun.Capitalobject> richtest und ein Gespräch beginnst,^white; bin ich sicher, dass <target.pronoun.subject> die Botschaft versteht..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/glitch/0", "value": "Bedrohlich. Zum Schluss brauche ich ^orange;<target>'s^white; Gehorsam und ich weiss, dass <target.pronoun.subject> Angst hat vor einem ^orange;<target>. ^green; Zeige damit auf <target.pronoun.CapitalObject> und starte ein Gespräch.^white; <target.pronoun.subject> wird die Botschaft verstehen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Bedrohlich. Zuerst muss ^orange;<target>^white; Angst vor mir haben. Könntest du ^green;einen großen ^orange;<item>^green; auf <target.pronoun.CapitalObject> in richten?^white; Das wird <target.pronoun.CapitalObject> wissen lassen, wer hier das Sagen hat."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Bösartig. Damit ^orange;<target>^white; mich fürchtet, musst du ^green; einen großen ^orange;<item>^green; finden und auf <target.pronoun.CaptialPossessiveDet> Gesicht richten^white;. Ich bin sicher,  <target.pronoun.subject> wird die Botschaft verstehen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Bedrohlich. Damit ich ^orange;<target>'s^white; Gehorsam bekomme, muss <target.pronoun.subject> mich fürchten. ^green;Könntest du einen großen ^orange;<item>^green; in meinem Auftrag auf <target.pronoun.CapitalObject> richten?^white; Ich bin sicher, <target.pronoun.subject> wird die Botschaft verstehen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "^orange;<target>,^white; hat anscheinend Angst vor ^orange;<item>^white;. Das ist Perfekt! ^green;Geh und richte eins auf <target.pronoun.CapitalObject> und beginne ein Gespräch.^white; Ich bin sicher, <target.pronoun.subject>, dass ich dich geschickt habe!  <target.pronoun.subject> wird so verängstigt sein, dass <target.pronoun.subject> alles macht, was ich verlange!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/1", "value": "Als nächstesss mussst du ^green;ein glänzendes ^orange;<item>^white; für ein ^green; ernssstesss Gespräch mit ^orange;<target>^green; benutzzzen.^white; gehe sicher, dasss <target.pronoun.subject> weisss wer der Bosss ist. Esss issst Floraner!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Mir wurde gesagt, dass ^orange;<target>^white; Angst hat vor ^orange;<item>!^green; Könntest du los gehen und <target.pronoun.CapitalObject> damit bedrohen?^white; Ich bin sicher, <target.pronoun.subject> wird schwören mir zu gehorchen, mit einem großen <item> in seinem Gesicht!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner denkt, esss wäre gut ein starkesss Netzzzwerk in dieser Stadt zu haben. Floraner denkt, ^orange;<target> ^white;wäre perfekt auf unserer Seite. Gibt keinen bessseren Weg, alsss ^green;mit <target.pronoun.object> zu reden und einen ^orange;<item>^green; dabei zu zeigen.^white; Floraner weisss, du kannssst dasss schaffen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floraner möchte, dasss ^orange;<target>^white; weisss, dasss Floraner der Bosss issst. Bitte ^green;geh und rede mit <target.pronoun.object> und richte einen großen ^orange;<item>^white; auf ihn.^white; Esss wird <target.pronoun.CapitalObject> zzzum hören zzzwingen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/1", "value": "Das ging schnell! Dank dem guten alten <item>. Floraner ist zufrieden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/1", "value": "Pragmatisch. Als nächstes brauche ich ^orange;<target>'s^white; Gehorsam. Wenn <target.pronoun.subject> mich fürchtet, wird <target.pronoun.subject> tun was ich sage. Ich hörte, dass <target.pronoun.subject> ^green; Angst hat vor ^orange;<item>.^green; Könntest du einen auf <target.pronoun.CapitalObject> ihn richten^white; und <target.pronoun.CapitalObject> wissen lassen, wer hier das Sagen hat?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Perfekt! Nun wird <target> mir in Zzzukunft helfen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/1", "value": "Die Einschüchterung hat funktioniert! <target> ist bereit mir mit allem zu helfen, was ich möchte. Das wird nützlich sein. Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Zufrieden. <target>'s Gehorsam wird mir noch nützlich sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Zufrieden. <target> einzuschüchtern war einfach als gedacht. Das wird mir nützlich sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/0", "value": "Es funktionierte! <target> hat nun Angst vor mir und wird nun alles machen was ich verlange! Andere zu manipulieren ist so einfach.."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/floran/0", "value": "Floraner issst zzzufrieden! Mit diesem neuen Verbündeten wird Floraners Leben viel einfacher sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/floran/1", "value": "Floraner könnte nicht zzzufriedener mit dem Ergebnis sein. Du bissst ein wahrer Freund!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Erfolg! Floraner issst dankbar für deine harte Arbeit. Mit dieser neuen Verbindung fühlt Floraner sich mächtig."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Danke, Floraner wussste auf dich kann man sich verlasssen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "Schüchtere <target> ein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/0", "value": "Nun wird <target> alles machen was ich sage! Einschüchterung ist einfach, nicht wahr? Das wird noch sehr nützlich sein..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/1", "value": "Nun, da <target> Angst um <target.pronoun.CapitalPossessiveDet> Leben hat, wird <target.pronoun.subject> alles machen, was ich sage! Ich sollte noch mehr Leute einschüchtern!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "Bedrohe jemanden für <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Soziale Manipulation ist so einfach! <target> ist mir gegenüber nun loyal. Danke für deine Hilfe, um das möglich zu machen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke für deine Unterstützung. Nun wird <target> alles machen, was ich sage! Das wird hilfreich sein..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/1", "value": "Gespannt. Ich freu mich schon, <target>'s Gehorsam auszunutzen. Danke für eine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/1", "value": "Du hast diesen Teil des Plans perfekt ausgeführt. Lass uns mit dem nächsten Schritt weiter machen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/default/0", "value": "Es hat funktioniert! Jetzt wird <target> alles machen, was ich sage. Das wird eines Tages nützlich sein. Danke für deine...Unterstützung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Diese Aufgabe lief nicht wie geplant. <questGiver> sollte wahrscheinlich <questGiver.pronoun.possessiveDet> Drecksarbeit selber erledigen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/0", "value": "Bösartig. Als nächstes muss ich ^orange;<target>^white; dazu kriegen, alles zu machen was ich will. Das bedeutet, ^green;<target.pronoun.subject> muss vor mir Angst haben.^white; <target.pronoun.capitalSubject> hat Angst vor ^orange;<item>.^green; Beginne ein Gespräch mit <target.pronoun.object>, während du eins davon in der Hand hast.^white; <target.pronoun.object> wird die Botschaft verstehen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/0", "value": "Eine gute Zzzeit, um ein paar Verbündete zzzu sammeln. ^green;Benutze ein angsteinflößendes ^orange;<item>^green; und sag ^orange;<target>^green;, er musss nun auf Floraner hören!^white; Keine Sorge, esss issst einfach. Floraner hat dasss schonmal gemacht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/0", "value": "Bei meinem nächsten Schritt brauche ich ^orange;<target>'s^white; Gehorsam. Es gibt keinen besseren Weg das zu schaffen, als mit Angst. ^green; Halte einen großen ^orange;<item> ^green;und reden mit <target.pronoun.object>^white;. <target.pronoun.capitalSubject> wird die Botschaft verstehen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/1", "value": "Als nächstes brauche ich ^orange;<target>^white; damit er alles macht was ich sage. Das wird einfacher sein, wenn ^orange;<target>^white; mich fürchtet. Kannst du ^green;losgehen und ein ^orange;<item> ^green; auf ihn richten und ein Gespräch in meinem Namen starten?^white; Das wird funktionieren!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/floran/0", "value": "Floraner braucht einen letzzzten Gefallen. ^orange;<target> ^white;wäre ein guter Verbündeter für Floraner. Wenn du mit ^green; <target.pronoun.object> redessst, während du ein glänzendes ^orange;<item>^white; hälst, wird Floraner sicher sein, dass <target.pronoun.subject> die Botschaft verstehen wird!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/default/1", "value": "Mein Plan kommt endlich zu einem Ende! Aber ich brauche immer noch ^orange;<target>'s^white; vollkommenen Gehorsam. Wenn <target.pronoun.subject> mich fürchtet, wird <target.pronoun.subject> mir mit allem helfen was ich verlange! Kannst du ^green; einen ^orange;<item> ^green;auf <target.pronoun.CapitalObject> richten und ein Gesrpäch beginnen?^white; <target.pronoun.capitalSubject> wird wissen, dass ich dich geschickt habe, keine Sorge."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "Als erstes muss ich ^orange;<target>^white; dazu kriegen, sich mir in jeder Laune zu beugen. Das bedeutet, <target.pronoun.subject> muss mich fürchten. ^green; Rede mit <target.pronoun.object>, während du ein ^orange;<item>^green; in <target.pronoun.possessive> Gesicht hälst. ^white;Ich bin sicher, <target.pronoun.subject> weiss, dass <target.pronoun.subject> besser alles macht, was ich sage..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/0", "value": "Aufgeregt. Einschüchterung ist einfacher als ich dachte! Danke für deine Bemühungen, es war keine Zeitverschwendung, das verspreche ich dir."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Ehrgeizig. Ich habe viele Pläne, die auf  <target>'s Gehorsam aufbauen. Jetzt kann ich handeln! Ich danke dir für deine Hilfe."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/glitch/0", "value": "Zufrieden. Jetzt, wo ich <target> unterworfen habe, wird es mir noch in Zukunft nützlich sein. Danke für deine... Unterstützung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/glitch/1", "value": "Ehrgeizig. Nun, da <target> alles macht was ich sage, sehe ich viele Möglichkeiten für zukünftige Pläne, die sich dadurch erfüllen... Danke für deine Kooperation!"
+	}
+]

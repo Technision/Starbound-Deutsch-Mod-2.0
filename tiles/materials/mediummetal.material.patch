@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein fester Wolframblock."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Wolframblock"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzzzende Wolframblöcke."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beobachtend. Diese Blöcke wurden aus Wolfram hergestellt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'nen paar glatt ausseh'nde Blöcke aus Wolfram."
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/artifact", "value": "Finde das ^orange;Artefakt^reset; im ^green;Jagdgebiet^reset;"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Die Hinweise, die du gesammelt hast, enthüllen, dass das ^orange;floranische Artefakt^reset; in den ^orange;zeremoniellen Jagdhöhlen^reset; verwahrt wird. Nach dem, was ich herausgefunden habe, gehe ich davon aus, dass du an einer ^green;rituellen Jagd teilnehmen musst, um es zu bekommen^reset;. Ich habe HIRN die Koordinaten gegeben, die du brauchst. Sei vorsichtig, ja?"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Exzellent, das hast du wunderbar gemacht! Wie sind ein Sechstel der Strecke gegangen. Kein Grund, zu schniefen. Und wir haben mit ^orange;Nuru^reset; jemanden, der uns helfen kann."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^green;Arche^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Hole das floranische Artefakt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/missionRadioMessage/text", "value": "Ich habe die Koordinaten der ^orange;zeremoniellen Jagdhöhlen^reset; empfangen. ^green;Benutze das Missionsfenster^reset;, um auf den Ort zuzugreifen."
+	}
+]

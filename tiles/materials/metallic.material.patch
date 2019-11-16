@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das sieht voll futuremäßig aus!"
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Hi-Tech-Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Futurisstissche Computerblöcke."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'N paar blinkende Hi-Tech-Blöcke."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Die Technologie dieser Blöcke ist mir nicht bekannt."
+	}
+]

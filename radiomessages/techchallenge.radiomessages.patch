@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/techchallenge_dash1/text", "value": "Dieser Hindernislauf erfordert die Verwendung der ^orange;Dash-Technologie^white;, die dir gegeben wurde. Um sie zu verwenden, ^#71f2f6;drücke A oder D doppelt, um schnell nach links oder rechts zu rasen^white;."
+	},
+	{
+		"op": "replace", "path": "/techchallenge_dash2/text", "value": "Diese Türen öffnen sich nur sehr kurz. Vielleicht solltest du ^#71f2f6;dich nah an der Tür positionieren^white; bevor du ^#71f2f6;den Schalter betätigst und hindurchsprintest^white;."
+	},
+	{
+		"op": "replace", "path": "/techchallenge_doublejump1/text", "value": "Um die ^orange;Impulssprungtechnologie^white; zu benutzen,^#71f2f6; drücke die Leertaste in der Luft^white;. Dadurch erhältst du einen kleinen Schub aufwärts."
+	},
+	{
+		"op": "replace", "path": "/techchallenge_morphball1/text", "value": "^#71f2f6;Drücke F, um von der ^orange;Deformationskugeltechnologie^#71f2f6; Gebrauch zu machen^white;, um in eine komprimierte Form und wieder zurück zu transformieren."
+	},
+	{
+		"op": "replace", "path": "/techchallenge_morphball2/text", "value": "Es scheint als müsstest du deine ^orange;Deformationskugel ^#71f2f6;im Sprung aktivieren^white;, um in diesen Durchgang zu gelangen."
+	},
+	{
+		"op": "replace", "path": "/techchallenge_doublejump2/text", "value": "Telemetrie deutet darauf hin, dass du, um den Sprung zu schaffen, ihn mit Hilfe der ^orange;Impulssprungtechnologie ^#71f2f6;hinauszögern musst^white; bis du auf einer Ebene mit der Kante der Zielplattform bist."
+	},
+	{
+		"op": "replace", "path": "/techchallenge_dash3/text", "value": "Diese Türen scheinen einen ^orange;sehr kurzen Timer^white; zu besitzen. Es ist löblich, dass du die Absicht besitzt, solche Frustrationen durchzuhalten."
+	},
+	{
+		"op": "replace", "path": "/techchallenge_dash4/text", "value": "Ablesungen deuten darauf hin, dass dies ^orange;kryogene Strahlfelder^white; sind. Sie sind nicht tödlich, aber jeglicher Kontakt wird deinen Fortschritt erheblich verlangsamen."
+	}
+]

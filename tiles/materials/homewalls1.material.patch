@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Sehr hübsch angemalte Ziegel."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Bemalter Ziegel"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Schön bemalte Zzziegel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Diese bemalten Ziegel sind sehr malerisch."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einige echt schön bemalte Ziegel."
+	}
+]

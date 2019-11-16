@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörter Tisch"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Ein stark beschädigter alter Tisch. Immer noch benutzbar, so weit wie Tische benutzbar sind!"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Alter Tisch zzzerfällt."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angewidert. Dieser alte Tisch ist in einem schrecklichen Zustand."
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein Wrack eines Tisches."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Dieser Tisch ist ein Stück Müll."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ein alter Tisch. Er ist in einem ziemlich schlechten Zustand."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Dieser Tisch ist alt, kaputt und unrettbare."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser Tisch ist in einem ziemlich schlechten Zustand."
+	}
+]

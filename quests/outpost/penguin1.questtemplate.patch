@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zum ^orange;Barkeeper^reset; beim ^orange;Außenposten^reset; zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Bezwinge ^orange;Dreadwing^reset; "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Sprich mit dem ^orange;Barkeeper^reset;, um ^orange;Dreadwing^reset; aufzusuchen."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Würdeste mir aushelfen, ja? Das Geschäft läuft leider nicht mehr so pralle, seit all' meine Stammkunden auf'er Flucht vor ^orange;Dreadwing^white; und seiner Bande Ganoven sind! Könntest du ihn für mich ^green;aufsuchen und bezwingen^white;? Sprich mich wieder an, wenn du bereit bist, ich schicke dich dann direkt zu ihm!"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Dreadwing, der Pinguin "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Barkeeper"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Barkeeper"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hast ihn für mich beseitigt? Danke, jetzt kann das Geschäft wieder losgehen! ^green; Sprich mich wieder an, wenn du eine ^orange;Dublone^green; haben möchtest, um einen Pinguin-Söldner anzuheuern^white;"
+	}
+]

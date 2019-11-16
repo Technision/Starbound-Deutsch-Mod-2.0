@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Asphalt"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Klebriger Asssphalt riecht nach Teer."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angewidert. Bücher lassen darauf schließen, dass der ästhetische Wert von Asphalt bei unter 2% liegt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein Gemisch aus klebrigem Öl und Steinen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein billiges, aber effektives Baumaterial."
+	}
+]

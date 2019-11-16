@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein ekelerregender Haufen Abwasser. Herzallerliebst."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ungeklärtes Abwasser"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran isst von sstinkendem Abwassser angeekelt."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Zurückgeworfen. Der Gestank dieses Abwassers ist überwältigend."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Für mich sieht's wie Abwasser aus. Riecht wie 'nen Plumsklo in der Sonne."
+	}
+]

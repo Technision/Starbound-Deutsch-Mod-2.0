@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein /'ODER'/ Schalter. Erlaubt Ihnen mehrere individuelle Eingänge."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "ODER-Schalter"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ein /'ODER'/ Schalter. Erlaubt Ihnen mehrere Individuelle Eingänge."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Zufrieden. Ein /'ODER'/ Schalter. Erlaubt Ihnen mehrere individuelle Eingänge."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Blütenblatt Block"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Süß riechende, dunkle Blätter und Blumen."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag blumige Blumen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Diese Blätter riechen nach Erde und Blumen."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Da wachsen einige ganz schöne Blumen."
+	}
+]

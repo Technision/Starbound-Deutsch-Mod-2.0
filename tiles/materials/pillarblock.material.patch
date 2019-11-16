@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Säulenblock"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine alt aussehende Steinsäule."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Steinsäule ist sehr alt."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erstaunt. Ich glaube, diese Steinsäule ist sehr alt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das ist eine alt aussehende Steinsäule."
+	}
+]

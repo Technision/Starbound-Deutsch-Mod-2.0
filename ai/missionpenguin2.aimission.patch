@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Biggy, der Waffenmeister, braucht deine Hilfe."
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Waffen-Testgelände"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Besuche nochmal das Waffen-Testgelände"
+	}
+]

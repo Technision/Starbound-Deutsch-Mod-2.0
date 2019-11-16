@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/glitchDescription", "value": "Aussage. Eine Blume, heimisch in Dschungelregionen."}, {"op": "replace", "path": "/description", "value": "Eine exotische Dschungelblume."}, {"op": "replace", "path": "/shortdescription", "value": "Eine Dschungelblume."}, {"op": "replace", "path": "/floranDescription", "value": "Blume erinnert Floraner an Zzzuhause."}]

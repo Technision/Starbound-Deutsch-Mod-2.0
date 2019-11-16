@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörte Turbinen"
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Zwei zerstörte Turbinen. Sie quietschen."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Wackelige alte Maschinen."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Zwei Turbinen sollten zusammen arbeiten. Jetzt funktioniert keine mehr. "
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein Paar Turbinen. Sie sehen aus, als ob sie zusammenbrechen."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Diese alten Turbinen stehen gerade so noch."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Die Hylotl benutzen solche Turbinen um Strom zu erzeugen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Sie sind so staubig, als wären sie schon ewig hier."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Ein Paar zerstörter Turbinen, bedeckt mit Staub."
+	}
+]

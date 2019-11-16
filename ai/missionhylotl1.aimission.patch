@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Die Große Pagodenbibliothek"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Besuche nochmal die Große Pagodenbibliothek"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Es wurde berechnet, dass dieser alte Inselkomplex die ungefähre Position des Hylotl-Artefaktes ist."
+	}
+]

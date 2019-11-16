@@ -1,0 +1,71 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Aufgeregt. Na endlich, könntest du ^green;den ^orange;<object>^green; irgendwo in meinem Haus unterbringen? ^white;Du solltest ^green;etwas mehr Platz schaffen^white;, wenn nötig."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Das ist es! Es sieht dort einfach perfekt aus! Hab' vielen Dank für all deine Mühen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Alles klar, ich denke, ^orange;<object>^white; ist genau das, was noch gefehlt hat! ^green;Könntest du einen Platz dafür in meinem Heim finden, wo es hinpassen könnte?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Ein ^orange;<object>^white; issst genau dasss, was mein Zzzuhause braucht! ^green;Bitte tu esss irgendwo hierhin."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich bin beim Verbessern der Dekoration von <questGiver>'s Zuhause gescheitert. Es hätte womöglich sowieso mies ausgesehen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Erweitere <questGiver>'s Haus mit <object>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Aufmerksam. Ich habe beschlossen, dass mein Heim verbesserungswürdig ist - kannst du assistieren?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich habe einen Plan, wie ich mein Heim rausputzen kann, aber ich kann das alles nicht alleine schaffen. Kannst du mir dabei zu Hilfe gehen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner hat Idee von neuem Möbelstück für Zzzuhause im Kopf. Lasss sie unsss wahr machen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Ich habe dabei versagt, <questGiver> dabei zu helfen, ein paar Verbesserungen für sein Heim zu machen. Ich bin mir sicher,  <questGiver.pronoun.subject> wird's auch ohne meine Hilfe schaffen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Verlegen. Mein Heim könnte einige neue Dekorationen vertragen... vielleicht könntest du mir helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraners Zzzuhause issst zzzu einschläfernd. Lasss esss unsss heller machen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Es fühlt sich hier noch immer nicht, wie Zuhause an, es fehlt noch irgend etwas. Könntest du mir aushelfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Eifrig. Wir sind beinahe fertig! Alles, was du jetzt noch tun musst, ist, ^orange;<object>^green; irgendwo in meinem Heim zu platzieren^white;!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Floraner sehr glücklich damit. Floraner's neuesss <object> sieht dort gut ausss."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Überglücklich. Ein <object> hebt wirklich das Ambiente, findest du nicht auch? Danke, dass du mir geholfen hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Ein <object> hilft wirklich, mein Heim erstrahlen zzzu lassen! Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Ich denke, das wird gehen! Alles, was noch zu tun ist, ist ^orange;<object> ^green; ein schönes Plätzchen dafür zu finden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "Für <questGiver> umdekorieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Viel besser! Es sieht genau so aus, wie ich es mir vorgestellt hatte. Vielen Dank und fühl dich jederzeit eingeladen, um dein Werk zu bewundern!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "<questGiver>'s Hausrenovierung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Erfreut. Ich glaube, das Hinzufügen von <object> ist genau das, was meinem Heim noch gefehlt hat."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Endlich hat Floraner ^orange;<object>^white;, wie Floraner esss wollte. Es wird gut ausssschauen, in Floraners Zzzuhause, also bitte ^green;stelle esss hier drinnen irgendwo hin."
+	}
+]

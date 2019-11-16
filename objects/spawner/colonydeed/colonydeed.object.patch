@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Platziere es in einem geschlossenem Gebäude mit mindestens einer Tür und einer Lichtquelle und jemand wird dann einziehen!"}, {"op": "replace", "path": "/shortdescription", "value": "^yellow;Kolonistenurkunde"}]

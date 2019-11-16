@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Diese Stämme passen eng zusammen und eignen sich gut zum Bauen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein Holzstamm. Gut zum bauen einfacher Strukturen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holzstamm"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran liebt Mauer ausss Holzsstämmen."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Is' nich' ungewöhnlich, Stämme wie den in Hütten zu finden."
+	}
+]

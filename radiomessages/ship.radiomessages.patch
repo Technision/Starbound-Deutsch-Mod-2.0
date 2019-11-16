@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/gainedCrewMember/text", "value": "Du hast dein erstes Mannschaftsmitglied gefunden! Sprich mit mir auf dem Schiff, um Besatzungsmitglieder zu verwalten und deren Status zu überwachen."
+	},
+	{
+		"op": "replace", "path": "/crewLimit/text", "value": "Dein Schiff kann nicht mehr Mannschaftsmitglieder tragen. Finde entweder einen Weg, dein Schiff zu vergrößern, oder entlasse einige Mitarbeiter über das Terminal auf deinem Schiff."
+	},
+	{
+		"op": "replace", "path": "/activeCrewLimit/text", "value": "Du hast das Limit deiner Mannschaftsmitglieder, die du mitnehmen kannst, erreicht. Setze ein paar auf dem Schiff ab, um deine Mannschaft weiter zu expandieren."
+	}
+]

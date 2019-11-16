@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Süßer, sonderbarer Schlickerstein!"
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Süßigkeiten-Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Sssüsssigkeit issst bunt gessstreift."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Begeistert. Dies scheint ein gigantisches Stück Süßgkeit zu sein."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein großes altes Stück Kandiszucker."
+	}
+]

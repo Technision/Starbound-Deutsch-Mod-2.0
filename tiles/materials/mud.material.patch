@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Sieht aus, wie Buncha Schlamm."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Dicker, klebriger Schlamm."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schlamm"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag sschlammige Sauerei."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angeekelt. Dieser Schlamm ist dick und klebrig."
+	}
+]

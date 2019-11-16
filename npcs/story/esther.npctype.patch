@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Ich bin hier, wann immer du mich brauchst. Ganz besonders, wenn du gerne einen Minz-Summkäfer magst."}, {"op": "replace", "path": "/scriptConfig/dialog/arkOpened/default/default/0", "value": "Der Ark ist offen! Du weißt, was dich erwartet."}]

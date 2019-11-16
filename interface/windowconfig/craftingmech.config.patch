@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "  Mech Teile Herstellung"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "  Stelle neue Teile für deinen eigenen Modularen Mech her."
+	},
+	{
+		"op": "replace", "path": "/paneLayout/lblSchematics/value", "value": "^#b9b5b2;BLAUPAUSEN"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/lblProducttitle/value", "value": "^#b9b5b2;PRODUKT"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/btnCraft/caption", "value": "Herstellen"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/btnStopCraft/caption", "value": "Stoppen"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/lblProduct/value", "value": "MATERIALIEN VERFÜGBAR"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/filter/hint", "value": "Suchen"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value", "value": "Ersetz mich"
+	}
+]

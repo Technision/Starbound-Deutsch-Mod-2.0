@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es braut eine Toxische Paste in seinem Gehäuse, hergestellt aus fermentiertem Obst.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Pteropod Figur"
+	}
+]

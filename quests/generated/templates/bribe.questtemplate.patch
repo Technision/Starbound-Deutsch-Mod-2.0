@@ -1,0 +1,113 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/0", "value": "Duldet. Die folgende Sache, die ich gern dir überlassen würde:  gib ^orange;<target> ^white;ein ganz besonderes etwas. ^green;Ich brauche <target.pronoun.CapitalObject>, um das ^orange;<gift>^green; zu erhalten,^white; um den Plan fortzusetzen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/0", "value": "Zufrieden. Also hat <target> das kleine Präsent angenommen? Der Plan läuft besser, als ich erwartete."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Alles, was noch zu tun ist, ist ^orange;<target>^white; mit diesem ^orange;<gift>^white; hier ^green;zu bestechen^white;. Ich weiß zufällig, dass <target.pronoun.subject> es gerne haben möchte. Es ist ethisch vollkommen in Ordnung - ehrlich!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Jetzzzt können wir endlich zum wichtigen Teil des Plansss kommen. Floraner weisss, dasss ^orange;<target>^white; schon lange neidisch auf Floraner's ^orange;<gift>^white; ist. ^green;Wenn du ^orange;<target>^green; Floraner's ^orange;<gift>^green; gibssst, steht <target.pronoun.subject> in Floraner's Schuld."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Gespannt. Alles läuft hierauf hinaus. ^green;Beschenke ^orange;<target>^green;mit diesem ^orange;<gift>^white;. Falls  <target.pronoun.subject> fragen sollte, es definitiv keine Bestechung..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "hocherfreut. <target> hat das Präsent angenommen? Das ist perfekt! Wenn ich jemals einen Gefallen einfordern muss, weiß ich, wer mir noch was schuldet. Ich kann einfach nicht fassen, dass du es für eine Bestechung gehalten hattest!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Bedenklich. Ich würde gerne klarstellen, dass es sich auf keinen Fall um eine Bestechung jeglicher Art handelt. Ich weiß nichtmal, was das Wort bedeutet. Alles, was ich von dir verlange, ist ^orange;<target>^green; etwas zu übergeben, um <target.pronoun.CapitalObject> zu überreden, zu meinem Gunsten zu handeln..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Ich möchte gerne die Gunst von <target> gewinnen und ich weiß auch schon, wie ich das anstelle..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Verschwörerisch. Ich bin auf der Suche nach einem zuverlässsigen Weg, <target> an mich zu verschulden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Endlich kommt mein Plan zustande! ^green; Nimm dieses ^orange;<gift>^green; und gib es^white;, in meinem Auftrag, an ^orange;<target>^white;. <target.pronoun.capitalSubject> wird für meine gütige Bestechung in meiner Schuld stehen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floraner hat nachgeforscht und herausssgefunden, dasss ^orange;<target>^white; ein ^orange;<gift>^white; für den persönlichen Bedarf benötigt. Floraner denkt, dasss wenn wir <target> die Sache geben, <target> unsss im Gegenzzzug helfen wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Gib <gift> an <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/addToHouseObjective/text", "value": "Plaziere <gift> in <target>'s Heim"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Wenn wir <target> ein Geschenk geben, issst Floraner sicher, dasss <target.pronoun.subject> sich unsss gegenüber schuldig fühlen wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Oh nein! Ich habe dabei versagt, die Bestechung an <target> zu liefern. Vielleicht bin ich für solche fadenscheinigen Geschäfte einfach nicht aus dem richtigen Holz geschnitzt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Manipulativ. Ich würde es schätzen, wenn <target> zu meinem Gunsten handeln würde. Hilf mir, <target.pronoun.CaptialObject> dazu zu verführen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich möchte, dass <target> mir einen Gefallen schuldet... Ich habe da einen Plan..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/0", "value": "Perfekt! Jetzzzt wird <target> sich unsss gegenüber schuldig fühlen. Zzzu gutem Grund! Floraner issst zufrieden mit dem Ergebnisss."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/0", "value": "Als nächstes muss ich ^orange;<target>^green; auf meine Seite ziehen^white; und wie der Zufall es will, ^green;würde <target.pronoun.subject> es geradezu lieben, dieses kleine ^orange;<gift>^green; hier anzunehmen!^white; Ist das Bestechung? Sicher, aber ich denke nicht, dass es <target.pronoun.CapitalObject> kümmern wird..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/1", "value": "Was hälst du von Bestechung? Ich denke mal, wenn du hingingst und <target> dieses kleine ^orange;<gift>^green; mit meinen Grüßen überreichen ^white;würdest, würde <target.pronoun.subject> mir einen Gefallen schulden! Kannst du das für mich erledigen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/1", "value": "Ja, Floran issst froh, dasss <target> sein Geschenk angenommen hat. Jetzt nur noch schauen, wie wir die Angelegenheit zzzu unserem Nutzzzen verwenden können..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/1", "value": "Floraner hörte von einem Freund einesss Freundesss, dassss ^orange;<target>'s^white; grösssster Wunsch dieser kleine Gegenstand hier issst. Lasss unssss dasss zzzu unserem Vorteil nutzzzen. ^green;Überbringe esss an <target.pronoun.CapitalObject>^white; und <target.pronoun.subject> wird sich unsss gegenüber sicher schuldig fühlen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/0", "value": "Floraner hörte, dass ^orange;<target>^white; schon lange nach einem ^orange;<gift>^white; sucht. So ein Glück für <target.pronoun.CapitalObject>, dassss wir sowasss haben! Wenn <target.pronoun.subject> esss von unsss erhält, issst Floraner sicher, dasss <target.pronoun.subject> dazu geneigt issst, unsss zzzu helfen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Erleichtert. Also nahm <target.pronoun.subject> das <gift> einfach an? Ohne nachzuhaken? Und ich dachte, es wäre schwieriger, <target> auf meine Seite zu bringen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "<target> schuldet mir jetzt einen Gefallen! Das war leichter, als gedacht. Danke, dass du mir bei meinem genialen Plan geholfen hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Erfolg! <target> schuldet Floraner einen Gefallen, dafür, dasss er so einen freundlichen Nachbar hat. Floraner wird diesen Gefallen ganzzz sicher gut einsetzzzen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/1", "value": "Nervös. Als nächstes benötige ich die Gunst von <target> - ^green; Könntest du versuchen, <target.pronoun.CapitalObject> mit diesem kleinen ^orange;<gift>^green; zu Bestechen^white;? Das sollte hoffentlich klappen..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Mein Plan hat funktioniert! Bestechung ist zu einfach. Jetzt kann ich <target> zur Hilfe auffordern, wann immer ich <target.pronoun.CapitalObject> brauche. Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Du hassst esss geschafft! <target> steckt jetzzzt tief in unserer Schuld!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/1", "value": "Paranoid. Du sagst also, dass <target> die Bestechung angenommen hat? Okay...ja das ist okay. Ich denke, dass wir das Richtige getan haben..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "<questGiver> versucht eine Bestechung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "Besteche <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/2", "value": "<questGivers>'s Agenda"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/1", "value": "Wow, Bestechen ist einfach! Ist nützlich, dass <target> mir einen Gefallen schuldet."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/0", "value": "<target> hat die Bestechung angenommen? Großartig! Dies wird für meinen Plan hilfreich sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner möchte, dasss <target> uns etwasss schuldet. Floraner hat einen genialen Plan."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich habe es nicht geschafft, <target> die Bestechung zu bringen. Vielleicht sollte <questGiver> <questGiver.pronoun.possessiveDet> schmutziges Geschäft sowieso <questGiver.pronoun.reflexive> erledigen?"
+	}
+]

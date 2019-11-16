@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Perfekte Schädlingsbekämpfung."}, {"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Pollenpumpe ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Pollenpumpe"}]

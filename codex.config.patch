@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/defaultItemConfig/category", "value": "Kodex"
+	},
+	{
+		"op": "replace", "path": "/messages/learned", "value": "Kodex zum Journal hinzugefügt!"
+	},
+	{
+		"op": "replace", "path": "/messages/alreadyKnown", "value": "Kodex bereits bekannt."
+	}
+]

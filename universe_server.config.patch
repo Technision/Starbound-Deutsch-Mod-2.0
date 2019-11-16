@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/connectionTimeout", "value": 360000
+	},
+	{
+		"op": "replace", "path": "/serverAssetsMismatchMessage", "value": "Der Server verweigert die Verbindung von Clients mit nicht passendem Inhalt"
+	},
+	{
+		"op": "replace", "path": "/clientAssetsMismatchMessage", "value": "Inhaltesfehler zwischen Client und Server und die Override Option wurde nicht gesetzt"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Zufrieden. Diese glatte Moderne Plattform ist attraktiv und robust."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Hergestellt aus einem modernem Material, fühlt sich glatt an."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Moderne Plattform"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glatte Moderne Plattformen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine faszinierende Metallplattform."
+	}
+]

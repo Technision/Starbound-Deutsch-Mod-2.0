@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Stein so Pech Schwarz wie der Schatten."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Sschattenhafte sschwarze Ssteine"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Faszinierend. Dieser dunkle Block scheint das Licht um sich zu absorbieren."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schatten Stein"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Mächtig aussehender dunkler Stein."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Steinplattform"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine aus Stein gemeißelte Plattform."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Stein in Plattformen gemeißelt."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Diese Plattform wurde aus massivem Stein gemeißelt."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Muss ewig gedauert haben, um diese Steinplattformen zu meißeln."
+	}
+]

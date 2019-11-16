@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Der Miniknog-Stützpunkt"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Esther ist zu dem Schluss gekommen, dass diese Basis der Ort des Apex Artefaktes ist."
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Besuche nochmal den Miniknog-Stützpunkt."
+	}
+]

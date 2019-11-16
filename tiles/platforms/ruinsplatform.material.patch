@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ruinenplattform"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Alarmiert. Diese alte Holzplattform ist strukturell unsicher."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Am besten ich achte auf mich, denn diese alte Plattform sieht brüchig aus."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine alte, staubige Holzplattform. Sieht brüchig aus."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Modrig und Unsssicher. Floraner Genehmigt."
+	}
+]

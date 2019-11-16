@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Außenpostenwand"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Wandmaterial, welches häufig in Weltraum-Außenposten verwandt wird."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vertraut. Ich habe dieses Material zuvor in Weltraum-Außenposten verbaut gesehen."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'Ne Art von Außenposten-Wand."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Außenpossten-Wand auss hartem Metall."
+	}
+]

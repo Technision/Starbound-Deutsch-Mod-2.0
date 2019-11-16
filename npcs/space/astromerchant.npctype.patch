@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "  Astro Händler"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "  Verkauft Astro Möbel!"
+	}
+]

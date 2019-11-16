@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ziegel, gemeißelt aus schattenhaftem Stein."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schattenziegel."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Robuste schwarze Zzziegel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Scharfsinnig. Diese Ziegel sind aus sehr strapazierfähigem Material."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein paar Ziegel aus dunklem Stein."
+	}
+]

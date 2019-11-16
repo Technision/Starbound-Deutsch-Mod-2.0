@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path" : "/description", "value": "Das Etikett sagt, \"Eine uralte Spezies, die agil und schelmisch ist. Sie haben einen intelligenten Blick im Auge.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Monopus Figur"
+	}
+]

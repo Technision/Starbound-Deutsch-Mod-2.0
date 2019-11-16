@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine Sammlung fest verpackter Knochen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ein Bündel Knochen"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Knochen!"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Entsetzlich. Knochen verschiedenster Art zusammen gewürfelt. "
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein Haufen Knochen. Wer braucht das!"
+	}
+]

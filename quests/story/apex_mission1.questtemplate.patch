@@ -1,0 +1,71 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Ich denke, wir sollten unsere Jagd nach dem ^orange;Apex-Artefakt^reset; beginnen. Die Apex können üblicherweise auf ^orange;eisigen Planeten^reset;gefunden werden, die ^orange;gefrorene Sterne^reset; umkreisen. Diese stellen also ^green;die besten Orte dar, um nach ^orange;Hinweisen^green; zu suchen, die wir brauchen^reset;. Pack dich warm ein, ja? Und denke daran: Die Apex sind momentan in Aufruhrstimmung, sei also auf der Hut!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Es sieht so aus, als hättest du bereits ein paar Hinweise gefunden, die in Richtung Aufenthaltsort des Artefaktes führen. Ich werde sie analysieren, während du nach weiteren Hinweisen suchst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^orange;Arche^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Scanne Gegenstände^reset;, um ^orange;Apex-Hinweise^reset; zu finden."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hast alle Hinweise gefunden, die wir brauchen, um das Apex-Artefakt zu finden! Brilliant - wir sind schon so weit gekommen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/2/text", "value": "Nur weiter so, dies ist alles enorm hilfreich!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/1/text", "value": "Interessant. Dies wird definitiv einen Einfluss an meinen Nachforschungen haben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/5/text", "value": "Hm, ich frage mich..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Ich glaube, ich weiß, wo das Apex-Artefakt ist! ^#71f2f6;Suche mich bei der Arche auf, wenn du bereit bist^white;, ja? Dann werde ich mehr erzählen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/minidronerack/text", "value": "Ausgezeichneter Fund! Die Datenbank der Drohne ist vollgestopft mit nützlichen Informationen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Du hast es gut drauf, Apex-Antiquitäten zu sammeln! Es sieht so aus, als hättest du bereits genügend Hinweise gesammelt, damit ich den Aufenthaltsort des Artefaktes bestimmen kann!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/8/text", "value": "Auch der noch so kleinste Hinweis kann helfen, die größten Geheimnisse des Universums zu lüften."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/7/text", "value": "Wie sonderbar! Aber solch überraschenden Informationen können sich als noch wertvoller herausstellen, als bereits erwartete Informationen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/9/text", "value": "Dieser Hinweis deutet auf versteckte Informationen hin."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/text", "value": "Dieser Zeitungsausschnitt ist voll mit Betrügereien und Propaganda, aber ich glaube, unter den vielen Lügen verstecken sich auch nützliche Informationen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/3/text", "value": "Ein Hinweis geringer Tragweite, aber dennoch relevant!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/text", "value": "Diese Puppe ist eigentlich eine Spionage-Kamera... Die Miniknog kontrollieren jeden Bereich des Lebens und der Kultur der Apex. Ich werde versuchen, das Signal der Kamera zurück zu verfolgen... Danke, dass du sie gefunden hast."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/6/text", "value": "Dies bestätigt einige Spekulationen, die ich anführte!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/4/text", "value": "Exzellent - alles, was du findest trägt dazu bei, eine Theorie aufzustellen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/text", "value": "Hmm, diese Karte weist auf mögliche Aufenthaltsorte von Big Ape hin. Ich kann gut verstehen, dass die Miniknog ihre wichtigsten Sachen gut erreichbar halten. Ich denke, dass dies ein sehr nützlicher Hinweis darstellt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Hmmm, wie merkwürdig... Ich muss nach Querverweisen suchen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/text", "value": "Dies ist ein nützlicher Fund! Ich bin mir sicher, dass einige der Informationen das Artefakt betreffen."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Finde Hinweise, um das Apex-Artefakt aufzuspüren."
+	}
+]

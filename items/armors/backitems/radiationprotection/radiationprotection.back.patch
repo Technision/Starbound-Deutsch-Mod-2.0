@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Diese Verbesserung fügt Strahlungsneutralisierung zu deinem EPP hinzu. Benutze es auf Planeten mit ^red;hohen Strahlungsstufen^reset;."}, {"op": "replace", "path": "/shortdescription", "value": "Strahlungs EPP Verbesserung"}]

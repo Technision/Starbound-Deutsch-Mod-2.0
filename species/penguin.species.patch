@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/charGenTextLabels/4", "value": "HUT"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "MUSTER"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "FARBE 1"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "FARBE 2"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "SCHNABELFARBE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "SHIRT"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "SHIRTFARBE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "PINGUIN"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "PERSÖNLICHKEIT"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "HUTFARBE"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Ich weiß nicht, was hier hin soll"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Pinguin"
+	}
+]

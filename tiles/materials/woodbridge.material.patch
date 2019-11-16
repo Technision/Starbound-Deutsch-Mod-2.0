@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Altesss Holzzz issst robussst."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich würd' wetten, das Holz hier ist verdammt alt."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holzbrückenblock"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Dieses Holz ächzt mit seinem Alter."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Das Holz ist sehr alt und knarrt im Wind."
+	}
+]

@@ -1,0 +1,275 @@
+[
+	{
+		"op": "replace", "path": "/planetTypeToDescription/moon/1", "value": "Dieser ^#949493;Mond^white; erlaubt kein Leben und besitzt ^red;keine Atmosphäre^white;. Treibstoff gibt es allerdings in Hülle und Fülle - Scans zeigen, dass er sich unterhalb der Mondoberfläche befindet."
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/0", "value": "Ungefährlich"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/1", "value": "Mittelschwer"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/2", "value": "Riskant"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/3", "value": "Gefährlich"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/4", "value": "Extrem"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/5", "value": "Unvorstellbar"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/6", "value": "Unwirklich"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/7", "value": "***"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/8", "value": "***"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/default/9", "value": "***"
+	},
+	{
+		"op": "replace", "path": "/threatLevelToText/moon/0", "value": "Unbekannt"
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/ancientgateway/0", "value": "Ein ^#571cff;Uraltes Tor^white; mit unbekannter Herkunft; ein Gebäude mit großer geheimnisvollen Kraft."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/arctic/1", "value": "Das Transporter Ziel ist ^red;immens kalt^white;. Eine kleine Insel in einem ^#00ffe4;gefrorenen Ozean^white;. Es besteht eine Chance von 0.025%, dass du irrtümlich ins Wasser teleportiert wirst, um dort erbärmlich zu erfrieren."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/arctic/2", "value": "Ein Ort mit ^red;gefährlich niedrigen Temperaturen^white;. Es gibt hier nur wenige Tiere und kein bisschen pflanzliches Leben - nur verlassene Inseln in einem ^#00ffe4;gefrorenen Ozean^white;."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/midnight/1", "value": "Diese ^#e11212;finstere^white; Welt ist ^red;gefährlich kalt^white;. Fremdartige Schattenwesen lungern hier, versteckt in der nie endenden Nacht."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/garden/2", "value": "Die Messwerte zeigen, dass der Landeplatz nicht ungemütlich ist - die Gegend ist sicher und reich an Flora und Fauna. Ein ^#76fe68;üppiger^white; und einladender Ort."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/jungle/0", "value": "Der Zielort liegt im dichten ^red;Dschungel^white;. Eine ganze Menagerie erstaunlicher Kreaturen leben neben der üppigen Vegetation. Wirklich eine Schande, wegen der ^red;tödlich hohen Strahlungswerte^white;."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/ocean/0", "value": "Ein Planet der tiefen ^#008aff;Ozeane^white; und kleinen Inseln. Meine Messwerte zeigen, dass es aquatisches Leben im Überfluss gibt und dass die Inselchen an der Oberfläche extrem anschaulich sind."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/barren/1", "value": "Dieser Planet ist ^#999966;unfruchtbar und bringt kein Leben irgendeiner Art hervor. Es gibt dort absolut nichts..."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/ocean/1", "value": "Ein mit ^#008aff;Ozean^white; bedeckter Planet mit verstreuten Inseln, auf denen es vor Leben wuselt. Meine Messwerte zeigen, dass es ein großes Ausmaß an Aktivität in den Tiefen der Gewässer gibt."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/ocean/2", "value": "Schwimmende Wüsteninseln verteilen sich über die Oberfläche dieses ^#008aff;Ozean^white;Planeten. Die Umwelt bietet tropisches Ambiente."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/barren/0", "value": "Dieser Ort ist ^#999966;kahl und tot. Die Messwerte zeigen, dass es hier nichts gibt. Ein öder, öder Ort."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/tundra/2", "value": "^red;Die Temperaturen am Zielort sind gefährlich niedrig^white;. Die Gegend ist ^#61ffe3;gefroren^white; und wird nur von Flora und Fauna bewohnt, die extrem widerstandsfähig gegenüber Kälte ist."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/jungle/2", "value": "^red;Hohe Strahlungswerte^white; machen aus diesem ^#12a003;Dschungel^white;gebiet eine extrem feindselige Umgebung und die Fauna ist ähnlich ungemütlich gestimmt."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/desert/0", "value": "Es gibt hier nur wenig Flora, aber grundsätzlich ist Leben möglich. Es gibt ebenfalls einen Überfluss an Sand. Einfach gesagt, es ist eine ^#e6c801;Wüste^white;. "
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/jungle/1", "value": "Ein ^#12a003;Dschungel^white;artiger Landeplatz, von dichter Flora und vielfältiger Fauna bewohnt. Die Gegend ist reich an Ressourcen, aber ^red;phänomenal hoch verstrahlt^white;."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/snow/0", "value": "Dieser kühle Landeplatz ist ^#69f1fd;Schnee^white;beladen. Verschiedene Bäume wachsen hier und verschiedenartige Tiere gedeien inmitten der kalten Bedingungen. Ein exzellenter Ort, um Schneebälle zu machen."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/desert/1", "value": "Eine ^#e6c801;Wüsten^white;gegend, die von Kakteen und verschiedenen kleinen Kleintieren bewohnt wird. Ein relativ sicherer Landeplatz, solange man die Sandstürme meidet."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/desert/2", "value": "Sand. Die Messwerte zeigen Sand. Und auch ein paar Kakteen...aber hauptsächlich Sand. Nach den vorliegenden Daten spekuliere ich darauf, dass der Zielort in einer ^#e6c801;Wüste^white; liegt."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/snow/1", "value": "Der Zielort ist kalt, aber nicht gefährlich kalt. ^#69f1fd;Schnee^white; bedeckt die Gegend und Schneestürme sind möglich. Eine Mütze und Handschuhe sind durchaus empfehlenswert."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/snow/2", "value": "Dieser Ort ist relativ kühl und der Boden wird von einer dicken ^#69f1fd;Schnee^white;decke überzogen. Meine Sensoren zeigen, dass dort irgendwelche Viecher durch die weiche Schneedecke huschen."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/asteroids/2", "value": "Ein Haufen ^#d7711e;Asteroiden, der einer elliptischen Bahn folgt. Messungen ergaben, dass ^red;es hier keine Athmosphäre^white; gibt. Oder irgendwas Anderes..."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/forest/0", "value": "Dicht durch Bäume und anderer Flora bewachsen, ist dieser ^#15ce02;bewaldete^white; Zielort sehr lebensfreundlich und gestattet verschiedenartigste Lebensformen - dich inklusive."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/forest/1", "value": "Zahlreiche Laubbäume wachsen an dieser  ^#15ce02;^white;gegend. Die umgebung ist für Leben geeignet, meine Datenbank zeigt an, dass du Waldkreaturen begegnen kannst."
+	},
+	{
+		"op": "replace", "path": "/guiConfig/windowtitle/title", "value": "Navigationskonsole"
+	},
+	{
+		"op": "replace", "path": "/planetTypeLabel/text", "value": "Landeplatzanalyse"
+	},
+	{
+		"op": "replace", "path": "/oreText/text", "value": "Geländeanalyse"
+	},
+	{
+		"op": "replace", "path": "/threatLevelText/label/text", "value": "Bedrohung"
+	},
+	{
+		"op": "replace", "path": "/dayLengthText/value/text", "value": "<value> Sols"
+	},
+	{
+		"op": "replace", "path": "/guiConfig/windowtitle/subtitle", "value": "^#9b5b2; Zielort auswählen"
+	},
+	{
+		"op": "replace", "path": "/dayLengthText/label/text", "value": "Tageszyklus"
+	},
+	{
+		"op": "replace", "path": "/sizeText/label/text", "value": "Planetengröße"
+	},
+	{
+		"op": "replace", "path": "/sizeText/value/text", "value": "<value> Sektoren"
+	},
+	{
+		"op": "replace", "path": "/guiConfig/goToMyShip/caption", "value": "ZEIGE SCHIFFSPOSITION"
+	},
+	{
+		"op": "replace", "path": "/guiConfig/goToQuest/caption", "value": "ZEIGE QUESTPOSITION"
+	},
+	{
+		"op": "replace", "path": "/starmapTypeDescription/orangestar", "value": "Gemäßigter Stern"
+	},
+	{
+		"op": "replace", "path": "/satelliteNameEmptyText", "value": "< kein Planet ausgewählt >"
+	},
+	{
+		"op": "replace", "path": "/starmapTypeDescription/whitestar", "value": "Sanfter Stern"
+	},
+	{
+		"op": "replace", "path": "/guiConfig/addBookmark/caption", "value": "FAVORITEN HINZUFÜGEN / BEARBEITEN"
+	},
+	{
+		"op": "replace", "path": "/guiConfig/showBookmarkList/caption", "value": "FAVORITEN"
+	},
+	{
+		"op": "replace", "path": "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value", "value": "Planetenname"
+	},
+	{
+		"op": "replace", "path": "/ftlOfflineText/text", "value": "HYPERANTRIEB AUS"
+	},
+	{
+		"op": "replace", "path": "/starmapTypeDescription/default", "value": "Geheimnisvoller Stern"
+	},
+	{
+		"op": "replace", "path": "/weatherText/text", "value": "Wetter"
+	},
+	{
+		"op": "replace", "path": "/starmapTypeDescription/bluestar", "value": "Gefrorener Stern"
+	},
+	{
+		"op": "replace", "path": "/starmapTypeDescription/yellowstar", "value": "Radioaktiver Stern"
+	},
+	{
+		"op": "replace", "path": "/guiConfig/bookmarkListLabel/value", "value": "^shadow;FAVORITEN"
+	},
+	{
+		"op": "replace", "path": "/starmapTypeDescription/redstar", "value": "Feuriger Stern"
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/garden/0", "value": "^#76fe68;Üppiges^white; Vorgebirge zeichnet diesen Zielort aus. Flora und Fauna sind beide reichlich vorhanden. Ein Transporter-Ziel unermesslicher Sicherheit."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/garden/1", "value": "Das Teleporter-Ziel befindet sich in einer friedlichen Gegend mit großer Artenvielfalt. Es gibt hier brauchbare Ressourcen. Ein ^#76fe68;üppiger^white; und freundlicher Ort."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/toxic/2", "value": "Dies ist ein ^#06ff00;toxischer^white; ^red;verstrahlter^white; Planet. Die schädlichen Ozeane sind todbringend giftig... Darf ich darauf hinweisen, dass auch noch andere Ziele vorhanden sind?"
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/magma/0", "value": "Dieser ^red;gefährlich heiße^white; Planet besteht hauptsächlich aus ^#ff1818;Magma^white;. Vergiss nicht: Dein unnachgiebiger Forscherdrang ist zwar bemerkenswert, aber nicht feuerfest."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/midnight/0", "value": "Dies ist eine ^#e11212;finstere^white; Welt, auf der die Sonne niemals aufgeht. Die Oberfläche ist ^red;gefährlich kalt^white;. Du solltest dich mental und auch körperlich gut vorbereiten, bevor du hier landest."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/asteroids/1", "value": "Ein lebensloser, durch den Raum driftender Ring aus ^#d7711e;Asteroiden ^red;ohne Athmosphäre^white;, der durch einen entfernten Stern am Platz gehalten wird... Ein netter Ort, um ein Haus zu bauen."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/savannah/2", "value": "Der Landeplatz ist in einer Gegend bestehend aus ^#ffe21d;trockenem Weideland^white; gelegen. Bäume und Sträucher wachsen nur vereinzelt in der Hitze. Ein Staubiger Ort mit weiten, flachen Aussichten."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/scorchedcity/0", "value": "Der Landeplatz ist ^#b24301;verbranntes^white; Brachland. Die Atmosphären-^red;Temperatur ist gefährlich hoch^white;. Es ist schon beeindruckend mutig von dir, diesen Ort als Ziel zu erwägen."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/volcanic/0", "value": "Der ^#e11212;vulkanische^white; Landeplatz ist ^red;katastrophal heiß^white;. Wenn du möchtest, kann ich errechnen, wie wahrscheinlich man sofort in Flammen aufgeht, nachdem man sich herunter teleportiert hat..."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/scorchedcity/2", "value": "DIe Landezone ist durch die ^red;intensive Hitze der Planetenoberfläche^#b24301; verbrannt^white;. Nur ein paar wenige unempfindliche Individuen bleiben hier - möglicherweise einfach nur aus Gewohnheit."
+	},
+	{
+		"op": "replace", "path": "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value", "value": "Favoriten Name"
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/toxic/1", "value": "Dieser ^red;hoch radioaktive^white; Planet ist eine giftige Wildnis, die von verstrahlten Lebensformen bewohnt wird. Seine leuchtende Oberfläche ist ^#06ff00;toxisch^white;. Ein wenig einladendes Ziel."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/alien/1", "value": "Die Gegend beim Zielort besteht aus kurioser Flora, agressiver Fauna und ^red;unerträglich hoher Strahlung^white; Die Bewohner sind stark ^#7800ff;mutiert^white;."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/savannah/0", "value": "Der Zielort befindet sich im ^#ffe21d;trockenen Weideland^white;, welches heiß und anffällig für Sandstürme ist. Es ist weder besonders gemütlich, noch besonders gefährlich."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/arctic/0", "value": "^red;Temperaturen am Zielort sind gefährlich niedrig.^white;Du wirst auf eine kleine, von ^#00ffe4;gefrorenem Ozean^white; umgebene Insel teleportiert. Ich empfehle wärmstens einen Schal."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/midnight/2", "value": "Scans zeigen, dass die Oberfläche ^#e11212;dunkel^white; ist. Eigentlich zeigen die Scans nur wenig Anderes, außer der  vielen Dunkelheit. Wie auch immer, ich vermute, dass die Oberfläche ^red;gefährlich kalt^white; sein wird."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/moon/0", "value": "Ein einsamer ^#949493;Mond^red; ohne atembare Atmosphäre^white;. Im Himmel die Sterne, unter der Erde der Treibstoff. Wahrscheinlichkeit, sich einsam und verlassen zu fühlen: 92%."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/moon/2", "value": "Dieser leere ^#949493;Mond^white; besitzt ^red;keine atembare Atmosphäre^white;, es existieren aber unterirdische Höhlen, die reichlich Seen an Treibstoff beinhalten. In der Summe: Nützlich, aber nicht verlockend."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/tundra/0", "value": "Ein ^#61ffe3;frostiger Ort, geformt aus Eis - die Eisschichten gehen weit runter. Schneestürme sind üblich und ^red;die Temperaturen gefährlich niedrig^white;."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/tundra/1", "value": "Diser ^red;gefährlich kalte^white; Landeplatz ist hart^#61ffe3;gefroren^white;. Hohe Wahrscheinlichkeit, sich aus Versehen tiefzukühlen. Schütze dich vor der Kälte."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/volcanic/1", "value": "^#e11212;Vulkanische^white; Aktivität verwüstet diesen Planeten und das Transporter-Ziel liegt in einer besonders heftigen Gegend. Die ^red;Temperatur liegt weit jenseits normaler Werte, die man überleben könnte^white;."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/volcanic/2", "value": "Der Transporter-Zielort befindet sich auf ^#e11212;vulkanischem^white; Terrain und ist ^red;vorzüglich beheizt^white;. Dein Interesse für diesen Ort spiegelt definitiv deine furchtlose Hartnäckigkeit wieder."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/scorchedcity/1", "value": "Das Transporter-Ziel ist ^#b24301;verbrannt^white; und wüst. Die Überlebenschancen sind durch die ^red;fatal hohen Temperaturen^white; sehr gering. Es leben Leute in der Gegend, aber ich kann nicht ausmachen, wieso."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/savannah/1", "value": "Dieses Gegend besteht aus ^#ffe21d;trockenem Weideland^white; und wird vereinzelt durch Bäume bewachsen. Es ist hier nicht allzu unwirtlich - Messwerte zeigen immerhin an, dass dort ein Hase herumhoppelt."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/toxic/0", "value": "Dieser Planet ist ^#06ff00;toxisch^white; - Die Luft ist faulig und die Ozeane giftig. ^red;Die Strahlung überschreitet sichere Werte^white; um den Faktor Zigtausend."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/asteroids/0", "value": "Ein kahler Haufen ^#d7711e;Asteroiden^white; Die Messwerte zeigen, dass ^red;es hier weder eine Atmosphäre^white;, noch Leben gibt. Nur endloses Nichts mit viel Platz zum Bauen."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/forest/2", "value": "Das Teleporter-Ziel für diesen Planeten befindet sich in einem ^#15ce02;Wald^white;. Die Messwerte zeigen an, dass diese bewaldete Gegend relativ friedlich ist."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/alien/0", "value": "Dies ist ein etwas riskanter Zielort - ^red;Strahlungswerte sind extrem hoch^white;. Indes kann die ^#7800ff;mutierte^white; Oberfläche als düstere Absonderlichkeit beschrieben werden."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/alien/2", "value": "Der Zielort des Teleporters ist liegt in einer ^#7800ff;mutierten^white; Landschaft. Die ^red;hohen Strahlungswerte^white; erschaffen ein schädliche Umweltbedingungen. Ich rate davon ab, schwimmen zu gehen."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/barren/2", "value": "Die Messwerte zeigen, dass der Zielort ungewöhnliche Farbtöne hervorbringt. Und auch, dass es eine ziemlich ^#999966;kahle^white; Gegend ist, die zum Bauen geeignet wäre."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/magma/1", "value": "Die Planetenoberfläche ist ^red;gefährlich heiß^white;. Nur wenige Kreaturen fristen hier zwischen den weiten Ozeanen aus ^#ff1818;Magma^white; ihr Dasein."
+	},
+	{
+		"op": "replace", "path": "/planetTypeToDescription/magma/2", "value": "Das Transporter-Ziel befindet sich auf einer kleinen, isolierten Insel inmitten von ^#ff1818;Magma^white; Dass du diesen ^red;sengend heißen^white; Planeten besuchen möchtest, spricht Bände über deine Standhaftigkeit."
+	}
+]

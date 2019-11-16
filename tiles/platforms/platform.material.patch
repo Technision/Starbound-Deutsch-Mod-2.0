@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holzplattform"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine wenig besondere Plattform aus Holz."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Bekannt. Dies ist eine einfache Holzplattform."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Nur 'ne Plattform aus Holz."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Einfache Plattformen auss Holzz."
+	}
+]

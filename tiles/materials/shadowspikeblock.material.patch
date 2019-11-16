@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Dieser Block besteht aus unbekanntem Material."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein mit Stacheln versehener Block aus einem schattenhaften Material."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Dunkle Blöcke sschwarz wie die Nacht."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Die Blöcke sind dunkler als 'ne mondlose Nacht."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schatten-Stachelblock"
+	}
+]

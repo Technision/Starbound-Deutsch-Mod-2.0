@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erstaunt. Dieses Holz wurde von einem meisterlichen Handwerker bearbeitet."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Fachmännisch verziertes Holz."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag sspeziell behandeltess Holz."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das Holz sieht aus, als wär's mit was behandelt worden."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Verziertes Holz"
+	}
+]

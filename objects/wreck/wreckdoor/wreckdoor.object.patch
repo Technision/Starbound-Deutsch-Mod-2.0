@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörte Tür"
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Eine rostige alte Tür. Sehr schwer."
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine verroste Tür, die sich gerade öffnete."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Diese Tür ist schwer und gerostet."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Schwere Türen lassen sich schwer öffnen."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Rost macht diese Tür kaputt."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Eine alter verrostete Tür. Sehr schwer."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Diese Tür war einst sicher."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dies war möglicherweise einmal sicher, bevor die Scharniere verrosteten."
+	}
+]

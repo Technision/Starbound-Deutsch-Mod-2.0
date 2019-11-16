@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Wurde diese Rune von einer Rasse geschaffen, die sich selbst vor den Hylotl ausbreiteten? "
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Uralte Runen... Diese zzzeigt Lebenssspartikel."
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Diese Rune ist eindeutig Uralt, aber weist auf wissenschaftliches Verständnis hin."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Das ist ein fortschrittliches Symbol für so eine alte Rune. Es sieht aus wie ein Atom."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Es gibt keine Möglichkeit, dass diese Rune avianischer Herkunft ist, zu wissenschaftlich."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Respektvoll. Eine Rune, die das grundlegende Element von organischem Leben darstellt."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine Uralte Rune, die den grundlegenden Baustein von organischem Leben symbolisiert."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Bestandteil Rune"}, {"op": "replace", "path": "/novakidDescription", "value": "Eine alte Rune, sie zeigt die Bausteine des Lebens."
+	}
+]

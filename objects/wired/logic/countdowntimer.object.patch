@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Timer, der für eine bestimmte Dauer aktiv ist."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Countdown-Timer"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ein Timer, der für eine bessstimmte Dauer aktiv issst."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Ein Timer, der für eine bestimmte Dauer aktiv ist."
+	}
+]

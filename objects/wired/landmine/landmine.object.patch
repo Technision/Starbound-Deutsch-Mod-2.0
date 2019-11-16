@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Achte auf deinen Schritt, das sieht explosiv aus!"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Militärische Landmine"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine Landmine, sie könnte noch aktiv sein."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Oh oh! Ich möchte nicht darauf treten."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Achte auf deinen Sssschritt!"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vorsichtig. Eine aktive Landmine, Ich sollte lieber vorsichtig sein."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ich möchte es nicht riskieren, das Ding könnte trotzdem losgehen."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Landminen, kleiner als Seeminen, aber immer noch tödlich."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieses Ding könnte noch wehtun!"
+	}
+]

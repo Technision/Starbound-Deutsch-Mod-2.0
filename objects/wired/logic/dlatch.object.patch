@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine Klinke. Kann zum Speichern eines Drahtzustandes verwendet werden."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Klinke"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Eine Klinke. Kann zum Ssspeichern eines Drahtzussstandes verwendet werden."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Faszinierend. Eine Klinke. Kann zum Speichern eines Drahtzustandes verwendet werden."
+	}
+]

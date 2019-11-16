@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Eine chemische Reaktion in seinem Bauch, stellt einen toxischen heißen Atem her.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Smoglin Figur"
+	}
+]

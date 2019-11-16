@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner versteht keine Symbole."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Der Stein ist von kleinen Schriftzeichen überzogen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Ich weiß nicht, was diese Schriftzeichen bedeuten."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einige alt aussehende Symbole."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Glyphenstein"
+	}
+]

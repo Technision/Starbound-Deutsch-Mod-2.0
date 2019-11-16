@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Ein angenehmer Busch."}, {"op": "replace", "path": "/shortdescription", "value": "Ein angenehmer Busch."}, {"op": "replace", "path": "/floranDescription", "value": "Busch!"}, {"op": "replace", "path": "/glitchDescription", "value": "Aussage. Ein angenehmer Busch."}]

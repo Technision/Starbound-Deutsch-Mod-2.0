@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran liebt Schleim!"
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schleimklumpen"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Dicker Schleim.  Es wackelt, wenn man es anstupst."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Zögernd. Dieser Schleim sieht klebrig aus."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser Schleim ist ein scheußlich aussehendes' Zeug."
+	}
+]

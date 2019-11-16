@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein süßer kleiner Sprengstoff, der einen ernsten Schlag bringt!"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "WALL-B"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Dies sieht klein aus, aber beinhaltet eine große Explosion."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Dieses kleine Ding kann eine große Explosion beinhalten."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Diesss beinhaltet einen großen Boom!"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vorsichtig. Dies sieht zwar klein aus, aber ist sehr kraftvoll!"
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Dieses Ding kann zur explosion gebracht werden!"
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein nützliches Sicherheitsgerät. Wenn du Explosionen magst."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieses kleine Ding hier, kann einen Höllenknall verursachen!"
+	}
+]

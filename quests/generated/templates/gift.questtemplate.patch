@@ -1,0 +1,110 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Das einzige, was jetzt noch zu erledigen wäre, ist das ^orange;<gift>^green; zu überbringen.^white; Kannst du es für mich zu <target> bringen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/1", "value": "Wer mag kein neues ^orange;<gift>^white;? Ich hoffe, ^orange;<target>^white; weiss all die schwere Arbeit zu schätzen, die ich dich machen ließ. ^green; Kannst du es zu <target.pronoun.object> bringen? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/1", "value": "Gut gemacht! Möglicherweise issst <gift> etwasss ungewöhnlich für eine Trophäe, aber ich freue mich, dassss <target.pronoun.subject> es mag!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/1", "value": "Überglücklich. Dank dir verstehen <target> und ich uns noch besser, weil das Geschenk bei <target.pronoun.object> angekommen ist. Ich werde nicht vergessen, wie verlässlich du bist!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/1", "value": "Konzentriert. Als nächstes muss ich ^green^; die Gunst von ^orange;<taget> gewinnen^white;. Ich weiß, dass <target.pronoun.subject> ^orange;<gift>^white; gerne haben würde. ^green; Könntest du es für mich zu <target.pronoun.object> bringen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/0", "value": "Begeistert. Als nächstes muss ich ^green; die Freundschaft von ^orange;<target> ^green;gewinnen. ^White; Kannst du <target.pronoun.object> das ^orange;<gift>^white; als Geschenk überreichen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Jetzt müssen wir das ^orange;<gift>^white; zu ^orange;<target>^White; bringen. Magst du es zu <target.pronoun.object> bringen? Ich hoffe <target.pronoun.subject> hat noch keins."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner denkt, dassss ^orange;<target>^white; diesesss letzte Teil gefällt!\r\n^orange;<gift>^white; issst perfekt. Esss erinnert Floraner sehr an <target.pronoun.CapitalObject>. Floraner issst nicht schüchtern....aber könntessst du esss vielleicht zu <target.pronoun.object> ^green;bringen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Nervös. Könntest du zum Schluss noch das ^orange;<gift>^green; zu ^orange;<target> ^green;bringen^white;? Ich hoffe, <target.pronoun.subject> mag es!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich hab´s vermasselt <questGiver> zu helfen, das Geschenk zu <target> bringen. Vielleicht kann <questGiver.pronoun.subject> lernen, sich Freunde nicht zu erkaufen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/addToHouseObjective/text", "value": "Platziere <gift> in <target>'s Zuhause"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Gib <gift> an <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Ich hab´s vermasselt <questGiver> zu helfen, die Gunst von <taget> zu gewinnen. Vielleicht sollte <questGiver.pronoun.capitalSubject> mal versuchen Freunde ohne meine Hilfe zu gewinnen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^Cyan; Floraner mag <target>´s Duft. Floraner möchte <target.pronoun.CaptialObject> öfter in der Nähe haben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Eifrig. Wir sind fast fertig! Alles was du jetzt noch machen musst, ist ^orange;<gift>^white; zu ^orange;<target>^green;zu bringen^white;. Das war´s dann!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^Cyan; Ich versuche meinen Freund zu beeindrucken. Ich weiß auch schon wie, aber ich brauche Deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^Cyan; Ich möchte ordentlich Eindruck schinden. Bitte hilf mir bei etwas, das <target> aus den Socken haut!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^Cyan; Hoffnungsvoll. Ich möchte die Gunst von <target> gewinnen und ich weiß auch schon wie das funktionieren könnte. Würdest du mir helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^Cyan; Floraner will einen Partner für die Jagd. Floraner denkt, <target> issst eine gute Wahl!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Nun zum Schlussss. Um ^orange;<target>^white; zu imponieren, wäre eine Jagdtrophäe gut! Floraner hat leider keine. Dieser ^orange;<gift>^white; müsssste passssen. Kannssst du esss zzzu <target.pronoun.object>^green; bringen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan; Hoffnungsvoll. Ich möchte, dass mich <target> noch mehr mag. Kannst du mir helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/0", "value": "Ich denke, ^orange;<gift>^white; ist das perfekte Geschenk. ^green;Kannst du es zu ^orange;<target>^green; bringen^white;? Sag <target.pronoun.object>, dass es von mir ist!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/0", "value": "Floraner sehr zzzufrieden. <gift> issst etwasss, dasss <target> mag!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Jubelnd. Das Geschenk wurde übergeben! Danke dir, dass Du mir bei meinem Plan geholfen hast. Ich schätze das sehr."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Möglicherweise möchte <target> von Zeit zu Zeit ein neues <gift> haben. <target.pronoun.capitalSubject> liebte es und kann mir nicht genug danken. Danke für Deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "<taget> mag das Geschenk? Ich erwarte keine Gegenleistung. Es fühlt sich gut an, einem Freund etwas zu schenken, das er mag!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Danke! Floraner weisss <target> mag die Jagdtrophäe und Floraner hat jetzzzt einen Jagdkumpel. Floraner wird für morgen eine Jagd ansetzzzen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/1", "value": "Hurra! Jetzt können <target> und ich beste Freunde werden! Zeit rauszufinden, was <target.pronoun.subject> als nächstes bekommen sollte..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "<questGiver> der Schenkende"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "Hilf <questGiver>, das Geschenk zu liefern."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/0", "value": "Entzückt. Scheint so, als mag <target> das Geschenk! Danke für deine Unterstützung. Ich weiss das sehr zu schätzen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Zufrieden.<target> mag mein Geschenk! Danke für deine Hilfe auf meiner Suche nach Freundschaft."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/0", "value": "Alsss nächstesss, Floraner denkt, ^orange;<target> ^white; könnte ein Geschenk gebrauchen. ^orange;<gift> ^white; issst perfekt! Floraner hat vor nichtsss Angssst! Aber .... ^green; könntessst du esss zzzu <target.pronoun.object>^green; bringen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "<target> mag dasss Geschenk sehr! Jetzzzt wird <target.pronoun.subject> viel Zzzeit mit Floraner verbringen und Floraner kann <target.pronoun.CapitalPossessive> Geruch immer wieder schnuppern. Vielen Dank!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/0", "value": "Sieht so aus, als wenn <target> das <gift> gefällt. Ich bin so ein guter Geber! Gut, natürlich dank Deiner Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/1", "value": "Okay, jetzzzt lassss unsss ^orange;<target> eine Jagdtrophäe ^green;bringen^white;. Floraner hat Floraner's letzzzte Jagdtrophäe aufgegessssen. ^orange;<gift> ^white; wird esss wieder richten. Floraner denkt, dassss <target.pronoun.subject> beindruckt sein wird."
+	}
+]

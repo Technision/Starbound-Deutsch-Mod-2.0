@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "BZZZZZZZZZZT, auha."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Tesla Stacheln"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Apex Falle. Ich sollte es besser nicht anfassen."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Wenn nur ich darüber fliegen könnte."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag keine leuchtende Maschinen."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Ängstlich. Hier scheint es genug Strom zu geben, um meine Schaltkreise vollständig zu braten."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Oh oh, sieht gefährlich aus."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ähnliche Geräte werden defensiv unter Wasser eingesetzt. Der Hylotl baut Gräben aus Stromströmungen als Abschreckung durch Eindringlinge."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich habe keine Lust, fiesen Ruck zu bekommen. Lenke besser weg."
+	}
+]

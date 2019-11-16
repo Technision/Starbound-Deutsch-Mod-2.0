@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt,  \"Seine Vorfahren lebten früher im Meer. Es mag klein aussehen, aber es hat einen großen Biss.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Lilodon Figur"
+	}
+]

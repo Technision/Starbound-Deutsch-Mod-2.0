@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Wenn es seine Augen schließt, wird er immun gegen angriffe, wenn es in eine andere Ebene der Existenz eintrifft.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Spookit Figur"
+	}
+]

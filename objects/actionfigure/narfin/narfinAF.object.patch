@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path" : "/description", "value": "Das Etikett sagt, \"Er nutzt seine Hörner, um einen Partner anzuziehen. Die Lichtshows während der Paarungszeit sind spektakulär.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Narfin Figur"
+	}
+]

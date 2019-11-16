@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "^green;Das Antlitz eines Jägers"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Sie hält sogar einen Speer - Nuru wird sie lieben! Ich kann dir nicht genug danken!"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Ähm, es stellt sich heraus, dass Floraner nicht sehr an Museen interessiert sind. Ich sprach über meine Pläne und Nuru fragte mich, was denn ein \"Mesu-um\" wäre... ^green;Wenn du mir eine ^orange;Floranische Statue^green; bringen^white; könntest, aus einem Floranischen Dorf oder einer ihrer Jagdgründe, müsste es das Museum doch ein wenig reizvoller für sie machen?"
+	}
+]

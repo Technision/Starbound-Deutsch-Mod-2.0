@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Glas-Block"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ich kann mein Spiegelbild sehen."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner sieht hübsch im Glasss ausss."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Ich kann deutlich durch dieses transparente Glas sehen."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich kann klar durch's Glas auf die andere Seite schauen. "
+	}
+]

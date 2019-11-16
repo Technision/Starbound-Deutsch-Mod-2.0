@@ -1,0 +1,25 @@
+[
+	{
+		"op": "replace", "path": "/paneLayout/copylinklabel/value", "value": "KOPIERE MOD-LINK"},
+	{
+		"op": "replace", "path": "/paneLayout/modauthorlabel/value", "value": "AUTOR"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/modversionlabel/value", "value": "VERSION"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "^#b9b5b2;Aktuell geladene Datenquellen"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/linklabel/value", "value": "MOD-SEITE ÖFFNEN"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/selectmodlabel/value", "value": "Mod auswählen"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/lblDescription/value", "value": "Beschreibung"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Mods"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "HYLOTL"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "Flossenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "Hosenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Hylotl"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "Hautfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "Flossen"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "Shirt"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "Hose"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/4", "value": "Kiemenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "Shirtfarbe"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Die friedvollen Hylotl legen großen Wert auf Tradition und sind begabte Künstler. Ursprünglich lebten sie an Land, doch ihre ruhige Natur machte sie zur leichten Beute der Floraner, sodass sie sich unter die Wellen flüchteten, wo sie nun leben."
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "Persönlichkeit"
+	}
+]

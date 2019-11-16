@@ -1,0 +1,74 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Erfreut. Ich bin immer wieder überrascht, wie schnell neue Heime bezogen werden - ich vermute, die Nachfrage ist ziemlich hoch, da draußen! Danke für deine Hilfe."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Wir haben zwar alle Möbel zusammengesucht, aber das eigentliche Haus fehlt noch! ^green;Baue ein Haus und statte es mit ^orange;<furnitureSet>^green; aus.^white; Vergiss nicht, ebenfalls eine ^orange;Kolonistenurkunde^white; zu platzieren!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Ich war nicht in der Lage, <questGiver> einen neuen Freund zu besorgen. <questGiver.pronoun.capitalSubject> hat möglicherweise eh schon genug Freunde."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Freies Zimmer ist bezogen! Das hat ja nicht lange gedauert! Danke für die Hilfe, mein soziales Umfeld zu erweitern."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Baue ein Zuhause mit:"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "1 Kolonistenurkunde"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner denkt, wir könnten mal wieder ein wenig frischesss Blut hier bei unsss gebrauchen. Floraner hat einen Plan!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Ich liebe es, Freunde zu gewinnen. Hilf mir, ein Zuhause einzurichten, das einen neuen Nachbar anlockt!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich bin einsam und könnte jemanden zum Reden gebrauchen. Könntest du mir helfen, den Freund zu finden, den ich suche?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich war nicht in der Lage, <questGiver> einen neuen Freund zu besorgen. Ich bin mir sicher, dass <questGiver.pronoun.subject> darüber hinwegkommen wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Einsam. Ich habe entschieden, dass ich von einem neuen Freund profitieren würde - und du bist genau die richtige Person, die mir helfen kann!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Selbstanalytisch. Ich bin zu dem Schluss gekommen, dass mich ein neuer Freund glücklicher machen würde. Könntest du dabei helfen, einen auf mich aufmerksam zu machen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner möchte mehr Gesellschaft. Lasss unsss dasss umsetzzzen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Begeistert. Als Letztes ^green;baust du ein neues Zuhause^white und ^green;möblierst es mit ^orange;<furnitureSet>.^white; Vergiss nicht, eine ^orange;Kolonistenurkunde^white; zu platzieren!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Zum Abschlusss, ^green;baue eine Behausung und dekoriere sie mit ^orange;<furnitureSet>^white;! Stelle sicher, dassss du zzzusätzzzlich auch ^green;eine ^orange;Kolonistenurkunde^green; platzzzierst^white;. Floraner hofft, neuer Freund mag die Jagd..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Nun ^green;baue ein Zzzuhause und statte esss mit ^orange;<furnitureSet>^green; und der ^orange;Kolonistenurkunde^green; ausss^white;. Floraner hofft neuer Freund mag Geschenke..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Aufgeregt. Alles, was du jetzt noch machen musst, ist ^green;ein Zuhause mit ^orange;<furnitureSet>^green; zu bauen und eine ^orange;Kolonistenurkunde^green; darin zu platzieren^white;! Ich werde in kürzester Zeit einen neuen Freund gewinnen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Entzückt. Ich habe einen neuen Freund, mit dem ich mich bekannt machen kann - ich bin sicher, dass er ein wunderbarer Kamerad sein wird. Danke, dass du dies möglich gemacht hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Es hat geklappt! Floraner hat glitzzzernden neuen Freund. Floraner schätzzzt deine Hilfe sehr."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Du halfssst Floraner einen neuen Freund zzzu finden! Floraner issst sehr dankbar."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Zu guter Letzt, ^green;platziere ^orange;<furnitureSet>^green; in einem Haus.^white; Vergiss nicht, eine ^orange;Kolonistenurkunde^green; zu platzieren^white;, wenn du fertig bist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "Ein neuer Freund für <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "<questGiver>'s neuer Freund."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Erfolg! Endlich habe ich einen neuen Nachbar! Dieser Ort wird manchmal ziemlich einsam, es ist schön, jemanden zum Reden zu haben."
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"op": "replace" "path": "/1/up", "value": "Ist das ein Scherz?"
+	},
+	{
+		"op": "replace" "path": "/1/down", "value": "Machs gut grausame Welt"
+	},
+	{
+		"op": "replace" "path": "/5/up", "value": "Ich werde sterben wenn ich nicht mehr kriege"
+	},
+	{
+		"op": "replace" "path": "/5/down", "value": "Ich sehe ein Licht"
+	},
+	{
+		"op": "replace" "path": "/10/up", "value": "Mehr, mehr! Ich brauche mehr!"
+	},
+	{
+		"op": "replace" "path": "/10/down", "value": "Ich kann kaum stehen."
+	},
+	{
+		"op": "replace" "path": "/15/up", "value": "Muss mehr essen finden!"
+	},
+	{
+		"op": "replace" "path": "/15/down", "value": "Ich kann es nicht länger bringen!"
+	},
+	{
+		"op": "replace" "path": "/25/up", "value": "Ich brauche mehr!"
+	},
+	{
+		"op": "replace" "path": "/25/down", "value": "Sooooo Hungrig..."
+	},
+	{
+		"op": "replace" "path": "/50/up", "value": "Ich bin hungrig"
+	},
+	{
+		"op": "replace" "path": "/50/down", "value": "Hunger bekommen"
+	},
+	{
+		"op": "replace" "path": "/75/up", "value": "Ein bisschen besser"
+	},
+	{
+		"op": "replace" "path": "/75/down", "value": "hick"
+	},
+	{
+		"op": "replace" "path": "/99/up", "value": "Mmm, Ich bin voll!"
+	},
+	{
+		"op": "replace" "path": "/99/down", "value": "Mmm, Ich bin voll!"
+	},
+	{
+		"op": "replace" "path": "/100/up", "value": "Mmm, Ich bin voll!"
+	},
+	{
+		"op": "replace" "path": "/100/down", "value": "Mmm, Ich bin voll!"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erstaunt. Die Dichte dieser Wolke könnte mein Gewicht tragen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine Wolke, fest genug darauf zu wandern."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Wolke"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Wolke issst so flauschig!"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Wolke hier ist aus wirklich festem, flauschigem Stoff."
+	}
+]

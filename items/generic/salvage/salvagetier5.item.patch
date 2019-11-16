@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Diese Komponente könnte nützlich sein für das herstellen von fortgeschrittenen Mech Teile."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Geborgener Proton-Limiter"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Pulsierende Hirnmasse... Ich frage mich, ob es nachdenkt."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Gehirne"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner möchte schwammigesss Gehirn erstechen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Alarmiert. Gibt es dort Hirnaktivität in diesem Material?"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Etwas fleischige Hirnmasse."
+	}
+]

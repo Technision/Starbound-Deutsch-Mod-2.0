@@ -1,0 +1,71 @@
+[
+	{
+		"op": "replace", "path": "/pickupflag/text", "value": "Ich kann den Schiffstransporter so umstellen, dass er direkt an die Stelle dieser Flagge teleportiert. Plaziere und interagiere mit der Flagge, um ihr einen Namen zu geben."
+	},
+	{
+		"op": "replace", "path": "/fuel/text", "value": "Erchius-Treibstoff für deinen Hyperantrieb kann auf Monden abgebaut werden. Es sollte aber bedacht werden, dass seit der Zerstörung der Erde, alle gescannten Monde sehr seltsame, unangenehme und unkenntliche Werte liefern."
+	},
+	{
+		"op": "replace", "path": "/pickupplantfibre/text", "value": "Du hast einige Pflanzenfasern entdeckt. Diese können bei einem Webstuhl in nützliche Stoffe gewebt werden."
+	},
+	{
+		"op": "replace", "path": "/pickupcorefrag/text", "value": "Du hast ein Kernfragment entdeckt! Sie sind nützliche Objekte. Ich schätze, dass du mindestens 20 davon brauchen wirst."
+	},
+	{
+		"op": "replace", "path": "/full/text", "value": "Ich sehe, dass du ausreichend isst! Mit einem vollen Magen wird sich dein Körper langsam regenerieren und sich heilen."
+	},
+	{
+		"op": "replace", "path": "/pickupcapturepod/text", "value": "Du hast eine Einfangkapsel erhalten. Du kannst darin ein Monster fangen, wenn seine Lebenspunkte niedrig genug sind. Wirf es einfach auf ein Monster um es zu fangen. Gefangene Monster werden zahm."
+	},
+	{
+		"op": "replace", "path": "/pickupbow/text", "value": "Du hast einen Bogen erhalten. Ein Monster hiermit zu überwältigen erhöht deine Chance, Fleisch und seltene Materialien zu bekommen, signifikant."
+	},
+	{
+		"op": "replace", "path": "/hungry/text", "value": "Die Schwäche, die du fühlst, wird wahrscheinlich durch deinen Hunger ausgelöst. Du solltest etwas essbares finden, um deine Körperfunktionen aufrecht zu erhalten."
+	},
+	{
+		"op": "replace", "path": "/pickupore/text", "value": "Du hast etwas Erz entdeckt. Erze können in Barren geschmolzen werden, indem du einen Schmelzofen verwendest. Barren sind zur Herstellung einer vielzahl an Ausrüstung nützlich, die deine Überlebenschancen eventuell erhöhen."
+	},
+	{
+		"op": "replace", "path": "/naturalcave1/text", "value": "Ich empfange große Zahlen von Lebewesen in dieser Mine. Solltest du die Absicht haben darin nach Kernfragmenten zu suchen, empfehle ich, dich ausreichend zu bewaffnen."
+	},
+	{
+		"op": "replace", "path": "/pickupdye/text", "value": "Du hast Färbemittel gefunden. Mit diesem kannst du deine Kleidung nach belieben einfärben. Du kannst eine Farbe auf jedes Rüstungs- oder Kleidungsteil mittels Rechtsklick anwenden."
+	},
+	{
+		"op": "replace", "path": "/pickupcampfire/text", "value": "Sieht aus, als hättest du Feuer entdeckt. Meine Datenbank sagt mir, dass du die 714 Milliardste Person bist die das geschafft hat. Gut gemacht! Du kannst mit Feuer Nahrung kochen."
+	},
+	{
+		"op": "replace", "path": "/starving/text", "value": "Du verhungerst! Es ist selbstverständlich, dass du dir sofort etwas zu essen besorgst und es konsumierst."
+	},
+	{
+		"op": "replace", "path": "/naturalcave2/text", "value": "Wenn du deinen persönlichen Kampffertigkeiten nicht traust, wäre es eine Alternative sich näher an den Planetenkern zu graben und dort die nötigen Kernfragmente zu suchen."
+	},
+	{
+		"op": "replace", "path": "/pickupaugment/text", "value": "Du hast gerade eine Verbesserung gefunden. Diese Module können eine Reihe von Vorteilen bringen. Du kannst es mit Rechtsklick in deinem Einfluss Protektions Pack (EPP) installieren."
+	},
+	{
+		"op": "replace", "path": "/challengedoor/text", "value": "Diese Tür bringt dich zu einem Herausforderungsraum, den du vielleicht durchqueren möchtest. Ich applaudiere deiner tollkühnen Einstellung."
+	},
+	{
+		"op": "replace", "path": "/pickupcollar/text", "value": "Du hast ein Halsband gefunden. Wenn es von einem gezähmten Monster getragen wird, kann es viele nützliche Vorteile bringen. Du kannst es mittels Rechtsklick zu einer vollen Fangkapsel hinzufügen."
+	},
+	{
+		"op": "replace", "path": "/pickuplogblock/text", "value": "Du hast etwas Holz gefunden. Meine Datenbank sagt, das es ein Material mit vielen großartigen Eigenschaften ist. Ich schlage vor, du haust noch ein paar Bäume um und schaust dann einmal in das Handwerksmenü."
+	},
+	{
+		"op": "replace", "path": "/pickupepp/text", "value": "Du hast ein Einfluss Protektions Pack (EPP) erhalten. Dieses Gerät erlaubt es dem Nutzer, in sonst lebensfeindlichen Umgebungen zu überleben. Du kannst EPPs auch mit Verbesserungen ausrüsten."
+	},
+	{
+		"op": "replace", "path": "/pickupseed/text", "value": "Wie ich sehe, hast du ein paar Samen entdeckt. Ich schlag vor, du pflanzt es in etwas umgegrabener Erde ein und wässerst sie bis sie wachsen. Du kannst die nötigen Werkzeuge an einer Gärtner Werkbank herstellen."
+	},
+	{
+		"op": "replace", "path": "/pickupinventorstable/text", "value": "Hast du gerade einen Erfindertisch gebaut? Ich schätze deine Überlebenschancen sind gerade gestiegen...um 7,2%."
+	},
+	{
+		"op": "replace", "path": "/pickupcoal/text", "value": "Du hast Kohle entdeckt! Du kannst mit Kohle Fackeln herstellen. Die Chance von tödlichen Vorfällen steigt nachts dramatisch an. Schau in das Handwerksmenü."
+	},
+	{
+		"op": "replace", "path": "/pickupmanipulatormodule/text", "value": "Du hast ein Manipulator Modul gefunden. Mit genug davon kannst du deinen Materie-Manipulator, über das Zugriffsmenü an der rechten Werkzeugleiste, aufrüsten."
+	}
+]

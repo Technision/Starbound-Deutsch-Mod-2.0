@@ -1,0 +1,395 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Töte <enemy>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Zurück zu <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floran hörte einige  <enemy> <earlier>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Ups, ich war keine Hilfe für <questGiver>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Ich hatte <earlier> eine Begegnung mit einigen <enemy>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "erkunde das Gebiet"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "Einige lohnendswerte <enemy>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "personal"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "erweitere meinen emotionalen Horizont"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "ging zu einem Spaziergang <personal>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "hat einen Ausflug gemacht zu <personal>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Besorgt. Ich hatte <earlier> eine Begegnung mit ein paar <enemy>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner hatte <earlier> eine Begegnung mit ein paar <enemy>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich habe <earlier> einige <enemy> gehört."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "Sinige <enemy> zum drum kümmern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Ich <activity> <earlier>, als ^orange;<enemy>^white; <crime1>. Ich fühle mich <reaction> und <justice1>. Es geschah in der Nähe der ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Könntest du <request>^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "machte einen kleinen Ausflug zu <personal>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Angespannt. Ich habe <earlier> einige <enemy> gehört."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/3", "value": "entfloh meinen Sorgen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/4", "value": "verbrannte ein paar Kalorien"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/5", "value": "versuchte mich an einen seltsamen Traum zu erinnern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/6", "value": "versuchte ein schwieriges mathematisches Problem zu lösen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/7", "value": "kam über eine kürzliche Trennung hinweg"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/8", "value": "dehnte meine Beine"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/2", "value": "diese Woche"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Ich <overheard> einige ^orange;<enemy>^white; die <earlier> in der Nähe der ^orange;<spawnPoint>^white; waren. <doubt> aber ich denke sie waren am <discussing> <discussion>. ^green;Könntest du los und <investigate>^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "activity"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/1", "value": "Ich schätze, ich konnte <questGiver> nicht helfen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/3", "value": "joggte zu <personal>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/1", "value": "nicht lange her"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Einige ^orange;<enemy>^white; jagten Floraner während Floraner <earlier> <floranmotivation> war. Floraner <floransuspiciou>, aber Floraner <floranexcuse>. Es passsierte an der ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;kannst du <request> für Floraner^white;? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/3", "value": "letzte Nacht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/4", "value": "gestern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/0", "value": "crime1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/1", "value": "Blut"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/2", "value": "zurückzahlen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/3", "value": "rächen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/2", "value": "sie los werden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/0", "value": "Anerkennung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/2", "value": "tauchte auf und <crime2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/0", "value": "Ich bin beeindruckt! Vielen Dank!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/0", "value": "crime2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/3", "value": "nahm meine <crime3>, ohne dass ich es merkte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/4", "value": "stahl meine <crime3> mit vorgehaltener Waffe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/5", "value": "verhörte mich"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/0", "value": "crime3"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/6", "value": "zwang mich mich gezogener Waffe zu tanzen und lachte dabei"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/0", "value": "Socken"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/1", "value": "Rucksack"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/3", "value": "Kleingeld"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/4", "value": "Geldbörse"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/6", "value": "Mittagessen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/5", "value": "Erspartes"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/0", "value": "reaction"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/0", "value": "erniedrigt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/2", "value": "ziemlich verärgert"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/0", "value": "justice1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/0", "value": "request"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/0", "value": "lass sie zahlen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/1", "value": "sortiere sie aus"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/2", "value": "Du hast geholfen diesen Planet ein bisschen sicherer zu machen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/3", "value": "Danke! ich bin sicher, dass es ihnen nicht gut geht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/0", "value": "überfiel mich und <crime2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/1", "value": "kam aus dem Nichts und <crime2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/4", "value": "Danke dir! ich hoffe, dieses Geschenk ist genug, um das wieder gut zu machen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/0", "value": "überhörte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/1", "value": "beobachtete"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/0", "value": "ich liege vielleicht falsch"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/0", "value": "diskutieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/0", "value": "zweifel"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/1", "value": "ich bin nicht sicher"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/2", "value": "ich kann es nicht gewiss sagen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/0", "value": "diskutieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/1", "value": "reden über"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/0", "value": "Diskussion"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/0", "value": "Waffen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/1", "value": "Wissenschaft"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/2", "value": "geheime Pläne"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/3", "value": "ihre Gefühle"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/4", "value": "zukünftige Verbrechen die sie planten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/5", "value": "eine böse Handlung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/6", "value": "zukünftige Geschäftsmöglichkeiten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/7", "value": "historische Literatur"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/8", "value": "ihre Kochtechniken"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/0", "value": "untersuchen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/1/0", "value": "untersuchen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/1/1", "value": "sieh dir das an"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/1/2", "value": "schaue hinein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/0", "value": "floranmotivation"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/0", "value": "nach Essen suchen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/1", "value": "nach Verstecken suchen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/3", "value": "spazzzieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/2", "value": "versuchte hinterhältig zzzu sein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/4", "value": "über Sachen nachdenken"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/5", "value": "spazzzieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/0", "value": "dachte, sie haben nichtsss gutesss im Kopf"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/1", "value": "issst missstrauisch"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/3", "value": "denkt, wir sind wahrscheinlich in Gefahr"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/4", "value": "traut ihnen nicht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/0", "value": "hat keine Jagdwaffen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/2", "value": "issst zu nervösss"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Du hassst dich um die <enemy> gekümmert? Floraner schätzzzt deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Dankbar. Du hast dich um die <enemy> gekümmert? <appreciation> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Du hast dich um die <enemy> gekümmert? <appreciation> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Erleichtert. Hast du herausgefunden, was die <enemy> vor hatten? <appreciation>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner sah ^orange;<enemy>^white;, während Floraner <earlier> <floranmotivation> war. Sie waren an der ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floraner <floransuspicious> - ^green;Könntest du das untersuchen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/1", "value": "Ich fühle mich schon viel sicherer, danke dir! Nimm dieses Geschenk für deine Hilfe."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/0", "value": "nahm mein <crime3>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/1", "value": "stahl mein <crime3>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/2", "value": "zwang mich, mein <crime3> herauszugeben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/0", "value": "brauche <justice2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/1", "value": "verlange <justice2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/0", "value": "justice"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/0", "value": "floransuspicious "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/1", "value": "denkt, du kannssst dasss besssser"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/2", "value": "will <justice2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/0", "value": "justice2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/0", "value": "floranexcuse "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Finde die <spawnPoint>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "denke nach über Leben und so"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/1", "value": "ziemlich verlegen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/5", "value": "Danke! Ich fühle mich schon weniger nervös."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/0", "value": "overheard"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/2", "value": "issst nervösss wegen ihnen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/3", "value": "issst nicht bereit zzzum Kämpfen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Du hassst dich um die <enemy> gekümmert? Danke dir! Floaner hätte esss machen können, wenn Floraner Waffen hätte..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Hast du herausgefunden, was die <enemy> vor hatten? <appreciation> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Beunruhigt. Ich <activity> <earlier>, als ^orange;<enemy>^white; <crime1>. Ich fühle mich <reaction> und <justice1>. Es geschah nahe der ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Könntest du <request>^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Besorgt. Ich hörte ein paar ^orange;<enemy>^white; die <earlier> an der ^orange;<spawnPoint>^white; waren. <doubt> aber ich denke sie <discussing> <discussion>. ^green;Könntest du gehen und das untersuchen^white;?"
+	}
+]

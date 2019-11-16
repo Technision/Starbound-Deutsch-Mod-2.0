@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine robuste, verstärkte Schiene."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kompositschiene"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzzzende Metallschienen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einige stabil aussehende Schienen, kann's kaum erwarten, auf ihnen zu fahr'n."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Das Material, aus dem diese Schiene gemacht ist, macht sie sehr robust."
+	}
+]

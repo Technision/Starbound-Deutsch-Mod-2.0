@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Bei Stürmen bindet es sich an Bäumen, um nicht weggeblasen zu werden.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Paratil Figur"
+	}
+]

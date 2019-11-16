@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/panels/26/text", "value": "Heute, im Namen des Friedens, heißen wir unsere neuesten Landsleute willkommen und überreichen jedem von ihnen unser bestes Werkzeug..."
+	},
+	{
+		"op": "replace", "path": "/panels/27/text", "value": "Den ^orange;Materie Manipulator^white;."
+	},
+	{
+		"op": "replace", "path": "/panels/28/text", "value": "Huh? Was war das?"
+	},
+	{
+		"op": "replace", "path": "/panels/30/text", "value": "Was- Was zum..."
+	},
+	{
+		"op": "replace", "path": "/panels/33/text", "value": "Du, Absolvent! Nimm den Manipulator und renn! Bring dich in Sicherheit!"
+	},
+	{
+		"op": "replace", "path": "/panels/23/text", "value": "Meine lieben Beschützer... Heute versammeln wir uns, um das Wachsen des Protektorats zu bezeugen."
+	},
+	{
+		"op": "replace", "path": "/panels/24/text", "value": "Seit über 500 Jahren stehen wir stolz hier auf der Erde und bringen Rassen aller Art im Namen des Friedens zusammen."
+	},
+	{
+		"op": "replace", "path": "/panels/25/text", "value": "Unsere Aufgabe: Unsere Kameraden zu beschützen; jene zu unterstützen, unterbringen und bilden, die unsere Hilfe suchen; und Einklang zwischen denen zu fördern, die danach streben."
+	}
+]

@@ -1,0 +1,158 @@
+[
+	{
+		"op": "replace", "path": "/lunarbase06a/text", "value": "Verschwinde! Du bist nicht hilfreich."
+	},
+	{
+		"op": "replace", "path": "/avianmission02/text", "value": "Die Informationen die ich besitze sagen aus, dass der Tempel zu alt wäre um so ein Tödliches Sicherheitssystem zu verwenden... Rekalibriere Andeutung- und Informationsparameter."
+	},
+	{
+		"op": "replace", "path": "/lunarbase04/text", "value": "Erchius Messungen haben 94 Rad erreicht. Du bist in Gefahr. Dein Risiko-Zustand beträgt zurzeit 14,607 Morts."
+	},
+	{
+		"op": "replace", "path": "/lunarbase01/text", "value": "Alle Lebenszeichen sind in einer extremen Tiefe unter der Oberfläche. Die Messungen sind... schwer zu definieren. Außerdem: Herzlichen Glückwunsch für deinen Mut."
+	},
+	{
+		"op": "replace", "path": "/lunarbase06/text", "value": "Erchius Messungen haben 101 Rad erreicht. Dein derzeitiger Risiko-Zustand ist 18,472 Morts..."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-arrived/text", "value": "Messungen zeigen, dass diese Struktur wie ein Planet aussieht - In Wirklichkeit ein riesiger Organismus."
+	},
+	{
+		"op": "replace", "path": "/floranmission101/text", "value": "Diese Ruinen sind antik und für die Floraner heilig. Messungen zeigen, dass sie auch finster und bedrohlich sind."
+	},
+	{
+		"op": "replace", "path": "/apexmission06a/text", "value": "Big Ape ist wirklich ein sehr gefährlicher Gegner."
+	},
+	{
+		"op": "replace", "path": "/hylotlmission03a/text", "value": "Ich hab von diesen Kultisten gehört, aber ich weiß nur sehr wenig über sie... ich frage mich ob...? Wer weiß das schon?"
+	},
+	{
+		"op": "replace", "path": "/apexmission05/text", "value": "Da sind merkwürdige Lebenszeichen in den Tiefen des Labors."
+	},
+	{
+		"op": "replace", "path": "/lunarbase07/text", "value": "Normale Waffen haben eine 0% Chance den Erchius Kristall zu verwunden. Du musst eine andere Art von Angriff zu finden."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-bossroom/text", "value": "Du hast das Herz des Zerstörers erreicht. Du musst es zerstören."
+	},
+	{
+		"op": "replace", "path": "/floranmission106/text", "value": "Beweise zeigen das diese Lebewesen nicht ausgewachsen sind; es ist sehr warscheinlich, dass sie grade erst geschlüpft sind, was bedeutet das du in ein Nest gestolpert bist."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-destruction3/text", "value": "Sag ihnen doch nicht was sie zu tun haben, Fischstäbchen! Sie haben schon viel schwerere Situationen gemeistert!"
+	},
+	{
+		"op": "replace", "path": "/lunarbase04a/text", "value": "Tut mir leid wegen der KI, Liebling."
+	},
+	{
+		"op": "replace", "path": "/avianmission01/text", "value": "Am besten wäre es, wenn du einen Weg findest während er schläft, Liebling. Wir wollen ja nicht, dass er sich sorgen macht."
+	},
+	{
+		"op": "replace", "path": "/apexmission03a/text", "value": "Sieht so aus, als könnten wir einen positiven Einfluss auf den Rebellenangriff gegen die Unterdrückung haben. Wuundervoll! Jedes bisschen hilft."
+	},
+	{
+		"op": "replace", "path": "/floranmission102/text", "value": "Bio-Messungen zeigen viele Lebenszeichen in diesen Tunneln. 97% Feindlich. Ich bin über ihre Tapferkeit erstaunt."
+	},
+	{
+		"op": "replace", "path": "/hylotlmission01/text", "value": "Diese Insel ist das Zuhause der \"Grand Pagoda Bibliothek\""
+	},
+	{
+		"op": "replace", "path": "/apexmission02/text", "value": "Messungen zeigen, dass dieses Gebäude schwer verteidigt wird von stark bewaffneten Wachen, welche auf jeder Ebene patroullieren."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-arrived3/text", "value": "Vorsichtig da unten! Jede der Kreaturen und Substanzen denen du begegnen wirst, sind feindlich..."
+	},
+	{
+		"op": "replace", "path": "/lunarbase03/text", "value": "Ich erkenne Chemische Erchius Signaturen und Menschliche DNA in diesen Lebensformen. Hohe Warscheinlichkeit von Verhaltensschwankungen. "
+	},
+	{
+		"op": "replace", "path": "/apexmission01/text", "value": "Sieht so aus als hätten wir uns einem Rebellenangriff gegen Miniknog angeschlossen. Ich glaube, es ist Vorteilhaft für uns beide, Liebling."
+	},
+	{
+		"op": "replace", "path": "/floranmission105/text", "value": "Diese Substanz ist organisch. Analyse ist nicht eindeutig, aber es bräuchte eine ziemlich große Kreatur, um so viel Materie zu produzieren."
+	},
+	{
+		"op": "replace", "path": "/lunarbase02/text", "value": "Es sieht so aus als wäre eine Vollsperrung aktiv. Du musst einen Weg finden die Energie wiederherzustellen. Bitte sei Vorsichtig, was das Licht angeht."
+	},
+	{
+		"op": "replace", "path": "/apexmission06/text", "value": "Dies ist ein gut gebautes Schloss der Miniknog... Ich weiß du bist immer sehr vorsichtig, aber dieses mal solltest du extra Vorsichtig sein..."
+	},
+	{
+		"op": "replace", "path": "/glitchmission01a/text", "value": "Er hat vielleicht ein paar Schrauben locker, Liebling, aber er ist nicht gefährlich. "
+	},
+	{
+		"op": "replace", "path": "/lunarbase08/text", "value": "Gut gemacht!"
+	},
+	{
+		"op": "replace", "path": "/lunarbase08a/text", "value": "Es ist genug Erchius da, um das Schiff vollständig zu reparieren."
+	},
+	{
+		"op": "replace", "path": "/hylotlmission02/text", "value": "Aktueller Außendruck beträgt 15 quash. Scans zeigen, dass diese Struktur 80 quash standhalten kann. Überlebenschance - erstaunlich hoch."
+	},
+	{
+		"op": "replace", "path": "/apexmission04a/text", "value": "Ich applaudiere zu deiner Hartnäckigkeit bei der Verfolgung komplexer Ziele."
+	},
+	{
+		"op": "replace", "path": "/floranmission103/text", "value": "Was für ein entschlossener Floraner! Erinnert mich an mein früheres ich, auch wenn ich ein paar weniger Blätter hatte."
+	},
+	{
+		"op": "replace", "path": "/avianmission03/text", "value": "Aufteilung des Weges entdeckt. Ich schlage vor, weder den linken noch den rechten Weg zu gehen. Dies jedoch ist keine Option."
+	},
+	{
+		"op": "replace", "path": "/apexmission02a/text", "value": "Meine Scanner haben grade einen weiteren Wächter entdeckt... und noch einen."
+	},
+	{
+		"op": "replace", "path": "/avianmission05/text", "value": "Du musst es MEIDEN! Du kannst es nicht erstechen, geschweige denn erschießen! Du musst einfach nur hoffen das es dich nicht bemerkt."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-destruction2/text", "value": "Es wird gleich explodieren! Raus hier!"
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-bottom2/text", "value": "HIRN hat recht, unter deinen Füßen ist eine Leere; eine große Lücke zwischen dir und der zentralen Struktur vom Zerstörer. Du musst einen sicheren Weg herunter finden."
+	},
+	{
+		"op": "replace", "path": "/hylotlmission03/text", "value": "Du erreichst nun das Erdgeschoss. Meine Scans sind beeinflusst, aber ich könnte deinen Risiko-Zustand errechnen."
+	},
+	{
+		"op": "replace", "path": "/apexmission03/text", "value": "Dies ist eine verknüpfte Schaltung: Mit der Senkung dieser Barrikade hat eine andere eine Etage weiter unten das selbe getan."
+	},
+	{
+		"op": "replace", "path": "/hylotlmission04/text", "value": "Diese Frau... Ihre Stimme... Kann es sein, nach all der Zeit?"
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-destruction1/text", "value": "Du hast es geschafft! ...Aber etwas stimmt nicht. Der Zerstörer... seine Struktur ist instabil!"
+	},
+	{
+		"op": "replace", "path": "/hylotlmission03b/text", "value": "Hab keine Angst! Bewaffnete Fremdlinge sssind voll deine Spezzzialität."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-bossroom2/text", "value": "Möge Kluex dich leiten."
+	},
+	{
+		"op": "replace", "path": "/avianmission06/text", "value": "Dieser Ort ist ziemlich heimig... Ohne die abscheulichen Stacheln natürlich. Offensichtlich..."
+	},
+	{
+		"op": "replace", "path": "/floranmission104/text", "value": "Was auch immer diese Floraner vorhaben, es ist auf jeden Fall sehr wichtig für sie. Die sind ja schlimmer, als ich bei einer Käferjagd! Sei vorsichtig, Liebling."
+	},
+	{
+		"op": "replace", "path": "/glitchmission01/text", "value": "Diese Festung gehört zu einem Glitch, der als der Baron bekannt ist. Er ist ein zurückgezogener Held und nach dem, was man hört, ein wenig... Exzentrisch..."
+	},
+	{
+		"op": "replace", "path": "/lunarbase05/text", "value": "Sieh sie dir an: Der zu lange Kontakt mit den Erchius Kristallen hat ihre Gen-Struktur komplett zerstört! Sie haben ihre Menschlichkeit fast komplett verloren."
+	},
+	{
+		"op": "replace", "path": "/hylotlmission05/text", "value": "Ich habe die Daten analysiert und bin zum Entschluss gekommen, dass es unmöglich ist diesen Raum lebend zu erreichen. Herzlichen Glückwunsch zu deiner Beharrlichkeit und Ausdauer!"
+	},
+	{
+		"op": "replace", "path": "/avianmission04/text", "value": "Ich. Hasse. Feuer."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-arrived2/text", "value": "Du stehst auf dem Zerstörer, Liebling. Du kannst auf seiner Oberfläche nicht viel Schaden anrichten - du must dich weiter nach unten arbeiten."
+	},
+	{
+		"op": "replace", "path": "/tentaclemission-bottom/text", "value": "Messungen zeigen, dass eine riesige Kluft unter dir ist, welche eine extreme Tiefe aufweist. Ich rate dir, nicht zu Tode zu fallen."
+	},
+	{
+		"op": "replace", "path": "/apexmission04/text", "value": "Da ist eine weitere Barrikade, durch einen Generator geschützt. Ich glaube, wenn du die Schutzschilder abschaltest, kannst du den Strom deaktivieren und somit die Barrikade vernichten."
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es greift jeden an, das ihn überrascht und er ist leicht zu überraschen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Snuffish Figur"
+	}
+]

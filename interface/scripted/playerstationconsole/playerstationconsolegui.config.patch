@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/gui/windowtitle/title", value": " Raumstation Konsole"
+	},
+	{
+		"op": "replace", "path": "/gui/windowtitle/subtitle", value": " Kontrolliere dein Raumstationssystem"
+	},
+	{
+		"op": "replace", "path": "/gui/lblGravity/value", value": "GRAVITATION"
+	},
+	{
+		"op": "replace", "path": "/gui/lblHideExpansionsSlots/value", value": "VERSTECKE ERWEITERUNGS PLÄTZE"
+	}
+]

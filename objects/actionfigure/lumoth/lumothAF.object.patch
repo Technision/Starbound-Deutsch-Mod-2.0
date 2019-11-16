@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path" : "/description", "value": "Das Etikett sagt, \"Die Birne bleibt nur beleuchtet, während der Lumoth mir den Flügeln schlägt.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Lumoth Figur"
+	}
+]

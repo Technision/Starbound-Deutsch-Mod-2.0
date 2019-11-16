@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/completionText", "value": "Hab' de Pinguine schon losgeschickt, um den finalen Ausbau zu machen. Ich danke für deine Vertrauen."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Diese Schiffslizenz ist.... in Ordnung...wahrscheinlich. ^green; Bringe Pinguin Pete ^orange;10 Upgrade Module^reset;, um dein Schiff aufzurüsten."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/conditions/0/description", "value": "Finde ^orange;<itemName>^reset;: ^green;<current> / <required>^reset; "
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green; Unehrliche Kondor Schiffsverbesserung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Pinguin Pete"
+	}
+]

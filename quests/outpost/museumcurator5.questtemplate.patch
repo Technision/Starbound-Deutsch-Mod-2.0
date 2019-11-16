@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Mein Museum ist fast komplett! Und ich denke, Nuru gewöhnt sich langsam an den Gedanken. Ich hörte von einem interessanten Gegenstand, den man ^orange;Alter Fernseher^white; nennt und der gut in die Menschen-Ausstellung passen würde. ^green;Könntest du mir einen besorgen^white;? Sie sind in menschlichen Lagern weit verbreitet, aber auch in anderen Gegenden nichts Ungewöhnliches."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Neue Töne"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Wunderbar! Es ist so liebenswürdig von dir, all diese Dinge für mich zu sammeln. Nur noch ein Ausstellungsstück übrig!"
+	}
+]

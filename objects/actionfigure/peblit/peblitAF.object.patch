@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Wegen der Größe seines Kopfes gegenüber seines Körpers, kann er nicht lange rennen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Peblit Figur"
+	}
+]

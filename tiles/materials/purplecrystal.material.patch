@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Hübscher purpurner Kristall."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Ehrfurcht gebietend. Licht zuckt durch diesen purpurnen Kristall."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser purpurne Kristall sieht schick aus."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Licht scheint in diesen purpurnen Kristallen zu tanzen."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Purpurner Kristallblock."
+	}
+]

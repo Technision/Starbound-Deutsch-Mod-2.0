@@ -1,0 +1,389 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/8", "value": "die einzige Kopie von <belonging2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/0", "value": "die eine kleine lokale Not verursachen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Floraner schätzzzt die Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Finde die <spawnPoint>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Töte die <monster>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Zurück zu <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner hörte, es gibt eine Gruppe von wilden ^orange;<monster>^white;, die <loiteringfloran>. Floraner würde sie jagen, aber Floraner <excusefloran>. Sie sind an der ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;Könntest du <revengefloran> für Floraner^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/0", "value": "aßen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/1", "value": "zerstörten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "Monster"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Besorgt. Einige Bestien haben mir Angst gemacht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Besorgt. Ich bin zu besorgt von hier zu gehen, nachdem <rumours> eine Gruppe von <wild> ^orange;<monster>^white; <loitering>. Ich hörte, sie wurden zuletzt an der ^orange;<spawnPoint>^white;<spawnPoint.direction> gesehen. ^green;Könntest du <revenge2> für mich^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "verärgert"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Ich bin <upset> und brauche deine Hilfe! Eine <group> von <wild> ^orange<monster>^white; <ambushed> mich während ich unterwegs <exploring> war und <belonging1> <ate>! Das passierte an der ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;Könntest du dahin und <revenge1> ^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Besorgt. Ich bin <upset> und brauche deine Hilfe! Eine <group> von <wild> ^orange<monster>^white; <ambushed> mich während ich unterwegs <exploring> war und <belonging1> <ate>! Das passierte an der ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;Könntest du dahin und <revenge1> ^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/2", "value": "runiniert"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Ich habe zu viel Angst um von hier zu verschwinden, nachdem gerüchteweise eine Gruppe von <wild> ^orange;<monster>^white; <loitering>. Ich hörte, sie wurden zuletzt gesehen an der ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green; Könntest du <revenge2> für mich^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "Monster"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "einige <monster> aussortieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Ups, ich konnte <questGiver> nicht helfen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "Um ein paar <monster> kümmern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "verärgert"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "wütend"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "bestürzt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/3", "value": "beunruhigt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/4", "value": "bekümmert"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/0", "value": "Gruppe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/0", "value": "Rudel"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/2", "value": "Horde"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/0", "value": "wild"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/0", "value": "wilde"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/1", "value": "wütend"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/2", "value": "bösartig"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/3", "value": "frech"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/4", "value": "ausgehungert"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/5", "value": "grausam"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/6", "value": "wild"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/7", "value": "grimmig"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/8", "value": "wahnsinnig"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/0", "value": "überfielen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/0", "value": "überfielen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/1", "value": "heranschlichen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/2", "value": "ansprangen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/3", "value": "jagten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/4", "value": "verfolgten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/5", "value": "belästigten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/0", "value": "erkunden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/0", "value": "erkunden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/2", "value": "joggen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/3", "value": "campen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/4", "value": "wandern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/0", "value": "aß"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/1", "value": "Gruppe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/2", "value": "mein Sandwich"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/3", "value": "meine Schuhe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/4", "value": "mein Rucksack voll mit Snacks"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/6", "value": "meine billige Uhr"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/7", "value": "das Manuskript für meinen Roman"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/9", "value": "<belonging2> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/10", "value": "ein altes Familienerbstück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/0", "value": "belonging1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/0", "value": "mein Buch"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/1", "value": "mein Mittagessen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/5", "value": "meine Brieftasche"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/0", "value": "belonging2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/0", "value": "mein unfertiger Roman"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/2", "value": "mein hausgemachtes Album"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/3", "value": "meine persönliche Gedichtsammlung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/1", "value": "nicht lange her"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/2", "value": "vor ein paar Stunden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/3", "value": "letzte Nacht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/4", "value": "gestern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/0", "value": "revenge1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/1", "value": "halte sie auf"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/2", "value": "erteile ihnen eine Lektion"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/3", "value": "verschmutzte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/3", "value": "lass sie bezahlen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/1", "value": "werde sie los"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/2", "value": "erledige sie alle leise"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/4", "value": "sie kräftig vertreiben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/3", "value": "erteile ihnen eine Lektion"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/0", "value": "jage sie"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/0", "value": "revengefloran "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/1", "value": "töte sie alle"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/2", "value": "ersteche sie"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/0", "value": "Gerüchte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/1", "value": "herausfinden über"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/2", "value": "alle das Gerede über"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/3", "value": "knapp vermieden "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/4", "value": "knapp entkommen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/0", "value": "herumlungern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/2", "value": "die die Knöchel von Leuten beißen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/3", "value": "die ein bisschen Aufruhr verursachen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/4", "value": "die ständig Leute anstarren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/0", "value": "loiteringfloran"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/1/0", "value": "Leute angreifen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/1/2", "value": "viel Lärm machen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/1/3", "value": "versuchen Leute zu esssen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/1", "value": "die die Leute Nachtsss nicht schlafen lasssen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/15/1/1", "value": "Leuten Angst machen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/0", "value": "excusefloran"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/0", "value": "vergaßßß Waffen zu machen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/2", "value": "fühlt sich faul"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/3", "value": "denkt, du kannssst dasss besssser"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/0", "value": "appreciation1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/0", "value": "Diese <monster> werden kein Problem mehr sein, da sie tot sind! Ha ha ha."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/1", "value": "Du bist diese <monster> los?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/17/1/2", "value": "Oh, du hast die <monster> besiegt?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/0", "value": "appreciation2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/1", "value": "Ich schätze, dass du das für mich getan hast. Bitte nimm dieses Geschenk an."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/2", "value": "ich hoffe dieses Geschenk ist genug für die Zeit, die du dich meinem Problem widmetest."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/3", "value": "Danke! Ich schätze deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/4", "value": "Ich werde besser schlafen, nachdem du es hier ein bisschen sicherer gemacht hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/5", "value": "Danke! Du hast es hier so viel sicherer gemacht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/18/1/0", "value": "Danke für die Hilfe, ich hoffe diese Belohnung ist okay!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Zufrieden. <appreciation1> <appreciation2> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "<appreciation1> <appreciation2> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/0", "value": "revenge2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/0", "value": "sie aussortieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan; Ich brauche Hilfe bei einem riesen Problem."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner hat etwasss für dich, um dasss du dich kümmern musssst..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/1", "value": "meine Memoiren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/5", "value": "die den Leuten einen Schrecken versetzen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/1", "value": "laufen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/0", "value": "räche mich"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/0", "value": "hörte Gerüchte über"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/16/1/1", "value": "fühlt sich momentan nicht gut genug zzzum Jagen"
+	}
+]

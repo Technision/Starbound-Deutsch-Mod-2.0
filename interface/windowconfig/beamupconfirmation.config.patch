@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/message", "value": "Das Verlassen dieser Mission wird deinen Fortschritt zurücksetzen. Bist du sicher, dass du Teleportieren willst?"}, {"op": "replace", "path": "/title", "value": "Mission verlassen"}, {"op": "replace", "path": "/subtitle", "value": "Teleportiere dich zurück zu deinem Schiff "}]

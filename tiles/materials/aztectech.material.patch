@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Avianischer Tech-Block"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein fortschrittliches, synthetisches, avianisches Material."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Mit seltsamen Markierungen versehene Ziegel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Begeistert. Diese Blöcke bestehen aus einem unbekannten, künstlichen Material."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Stabil aussehende Steine, überall mit Symbolen versehen."
+	}
+]

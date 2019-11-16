@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein elektrisch geladenes Plasma Feld. Es reagiert auf Geräusche."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Plasma Scheibe"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Mehr Apex Ausürstung. Experiment oder Glück, wer weiß?"
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Is das elektrisch? Avianer nutzen die Kristallresonanz, um unsere Technologie anzutreiben."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Käfigbeleuchtung. Keine Gefahr für den Floraner."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Ängstlich. Dieses Gerät nutzt viele Millionen Volt."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Eines dieser verrückten Plasma Sachen."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein solches Gerät hat wahrscheinlich einen unheilvollen Zweck."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich kann das nicht zu lange anschauen."
+	}
+]

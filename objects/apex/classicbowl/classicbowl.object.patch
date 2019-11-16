@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine feine Porzellanschüssel."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Klassische Schüssel"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine feine Porzellanschüssel. Die Apex geben in der Regel Schüsseln aus Kunststoff."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Avianer essen traditionell nur von Tellern."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner versucht essssssen zu essen, frisch vom töten."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Boshaft. Der Klang einer geworfenen Schüssel ist sehr zufriedenstellend."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ziemlich schickes Geschirr."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Die Hylotl sind auch Meister des feinen Porzellans."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese hübsche Schüssel, so sauber, das ich mich sehen kann."
+	}
+]

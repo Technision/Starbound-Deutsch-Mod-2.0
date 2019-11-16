@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "  Letheia Händler"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "  Verkauft Raum Möbel!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/merchant/tout/hylotl/default/0", "value": "Willkomen bei der Letheia Konzern Verbruacher Filiale!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0", "value": "Willkomen bei der Letheia Konzern Verbruacher Filiale, wie kann ich dir Helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0", "value": "Merke: \"Warum das Leben ohne Letheia leben?\""
+	}
+]

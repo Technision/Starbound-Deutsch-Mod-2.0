@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Steuert starke Blitzbolzen, indem sie ionisierte Wege durch die Luft erzeugen."}, {"op": "replace", "path": "/shortdescription", "value": "Teslastab"}, {"op": "replace", "path": "/altAbility/name", "value": "Kugelblitz"}]

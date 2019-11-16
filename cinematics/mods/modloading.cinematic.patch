@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/panels/2/text", "value": "AKTUALISIERE MODS"
+	},
+	{
+		"op": "replace", "path": "/panels/3/text", "value": "Wow, du hast wirklich viele Mods zu aktualisieren, nicht wahr?"
+	},
+	{
+		"op": "replace", "path": "/panels/5/text", "value": "Mach vielleicht einen Spaziergang?"
+	},
+	{
+		"op": "replace", "path": "/panels/6/text", "value": "Frag mich nicht, ich bin nur ein Häschen."
+	},
+	{
+		"op": "replace", "path": "/panels/4/text", "value": "Das dauert eine Weile. Vielleicht möchtest du eine Tasse Tee haben?"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Diese Schienen sind ein bisschen lädiert, aber funktionsfähig."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Rostige Schiene"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Rossstige Metallschienen."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Besorgt. Diese Schienen sehen benutzt und rostig aus."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einige rostig aussehende Schienen, kann's kaum erwarten, auf ihnen zu fahr'n."
+	}
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Ein Standard Helm für Miniknog Soldaten."}, {"op": "replace", "path": "/shortdescription", "value": "Miniknog Helm"}]

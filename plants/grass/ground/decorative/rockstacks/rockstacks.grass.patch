@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Ein Steinhaufen."}, {"op": "replace", "path": "/floranDescription", "value": "Steine."}, {"op": "replace", "path": "/shortdescription", "value": "Ein Steinhaufen."}, {"op": "replace", "path": "/glitchDescription", "value": "Aussage. Ein Steinhaufen."}]

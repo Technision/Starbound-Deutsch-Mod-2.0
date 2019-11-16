@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aussage. Glas."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Glasblock"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ich kann meine Reflexion sehen... sie ist abscheulich!"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner sieht hübsch aus in Glasss."
+	}
+]

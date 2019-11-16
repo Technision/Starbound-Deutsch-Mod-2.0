@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Verpackte Erde"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Amüsiert. Diese Ziegelsteine ​​sind einfach verpackte und geformter Erde."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Weich aussehende Ziegelsteine ​​aus Erde"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Erde verpackt in kleine Ziegelsteine ."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ziegelssteine ​​aus verschmutzter Erde"
+	}
+]

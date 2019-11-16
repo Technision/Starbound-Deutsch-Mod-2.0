@@ -1,0 +1,71 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/7/text", "value": "Wo würden die Avianer aus ferner Vergangenheit wohl etwas Wertvolles aufbewahren? Entschuldige, ich denke nur laut!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/1/text", "value": "Interessant. Dies wird mit Sicherheit bedeutend für meine Nachforschungen sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Scanne Gegenstände^reset;, um ^orange;avianische Hinweise^reset; zu finden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^orange;Arche^reset; zurück"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Mit dem letzten Hinweis haben wir alles, was wir benötigen, um das avianische Artefakt zu finden! Danke für all die harte Arbeit."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Finde Hinweise auf den Ort des avianischen Artefakts"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/3/text", "value": "Nur ein kleiner Hinweis, aber dennoch wichtig!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/9/text", "value": "Dieser Hinweis deutet auf verborgene Informationen hin."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Hmmm, wie spannend... Ich muss das überprüfen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/4/text", "value": "Das ist ausgezeichnet, alles was du findest trägt dazu bei, eine Theorie aufzustellen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/2/text", "value": "Die Avianer haben ein faszinierendes Verhältnis zu ihrem Gott. Diese kleinen Hinweise deuten auf eine größere Wahrheit hin. "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/5/text", "value": "Die Vergangenheit ist voll von Geheimnissen, die nur danach schreien, gelüftet zu werden. Guter Fund!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Ich scheint, als hättest du bereits einige Gegenstände gefunden, die Hinweise auf den Verbleib des Artefakts geben. Ich werde meine Untersuchungen beginnen, während du nach Weiteren suchst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text", "value": "Eine ungewöhnliche Abbildung von Kluex, und die begleitende Beschreibung ist wunderlich und vielversprechend!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Du bist ein ausgezeichneter Sammler avianischer Antiquitäten! Sieht so aus, als hättest du bereits genügend Hinweise gefunden, damit ich den Aufenthaltsort des Artefakts bestimmen kann!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text", "value": "Das siehts aus wie eine uralte Abbildung einer Sternenkarte. Vielleicht zeigt sie den Standort von etwas Wichtigem?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/6/text", "value": "Du wärst überrascht, wie hilfreich auch die kleinen Dinge sind!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/text", "value": "Dieses Wandgemälde beschreibt einen großartigen, himmlischen Schatz... Schilderungen über das avianische Artefakt könnten leicht in solchen Formulieren verborgen sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/8/text", "value": "Sogar das kleinste Beweisstück kann helfen, die größten Geheimnisse des Universums zu lüften."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/text", "value": "Dieses Wandgemälde ist uralt und bringt längst vergessene Geheimnisse ans Tageslicht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Der Große Herrschertempel... er muss es sein! Das sind alle Informationen, die wir benötigen. ^#71f2f6;Komm zur Arche zurück, wenn du bereit bist^white;, ja?"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Als nächstes die ^orange;Avianer^reset;, denke ich! Am Besten wird wohl sein, ^green;Planeten mit reichlich ^orange;Dschungeln^green; aufzusuchen^white; - Avianer bevorzugen solche Lebensräume. Solche Planeten sind um ^orange; radioaktiven Sternen^white; zu finden. Wir sehen uns dann bald wieder, und gute Jagd!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text", "value": "Was für eine seltsame Statue. Und die Inschrift auf dem Sockel ist noch faszinierender, als die Bildersymbolik. Der Teufel liegt im Detail."
+	}
+]

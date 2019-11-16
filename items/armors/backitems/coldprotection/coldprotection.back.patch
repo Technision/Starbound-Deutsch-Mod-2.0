@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Diese Verbesserung fügt eine Heizung zu den Funktionen deines EPP's hinzu. Nützlich auf Planeten mit ^red;gefährlicher Kälte^reset;."}, {"op": "replace", "path": "/shortdescription", "value": "Heizungs EPP Verbesserung"}]

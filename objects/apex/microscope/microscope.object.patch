@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Unter dem Mikroskop sieht alles wesentlich erschreckender aus."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Mikroskop"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Sind das Apex Zellen?"
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Die Avianer haben eine ähnliche Vorrichtung, um mit der Genauigkeit eines Falken in die Ferne zu blicken."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Leckere Fleisch Zelle."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Traurig. Die Zellen unter diesem Gerät sind lange tot."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ich weis nicht worauf ich schaue."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Die hier vorkommenden Apex Zellen sind den Menschenzellen bemerkenswert ähnlich."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein empfindliches Gerät, um kleine Dinge klarer zu sehen."
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörter Generator"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Vor langer Zeit haben ein paar von diesen Dingern ein ganzes Schiff betrieben."
+	}
+]

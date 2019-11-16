@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Jage das <monster>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Bring <items> zu <questGiver>"
+	}
+]

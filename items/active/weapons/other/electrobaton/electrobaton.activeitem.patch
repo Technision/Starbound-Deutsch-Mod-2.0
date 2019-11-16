@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ursprünglich für die Miniknog-Bereitschaftspolizei entwickelt. Es ist schockierend effektiv."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Elektroschockstab"
+	}
+]

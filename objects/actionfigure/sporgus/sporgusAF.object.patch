@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es bevorzugt warmes und feuchtes Klima, wo es schneller wächst.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Sporgus Figur"
+	}
+]

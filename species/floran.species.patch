@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Werde durch ihr friedliches Äußeres nicht zum Narren gehalten! Es ist bekannt, dass Floraner aggressive Fleischfresser sind. Nicht besonders erfinderisch oder selbstständig, aber sie lieben den Diebstahl und das Anpassen von erbeuteter Technologie."
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "FLORANER"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "Shirt"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "Hose"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/4", "value": "Blattfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "Blütenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "Shirtfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "Hosenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "Persönlichkeit"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Floraner"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "Hautfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "Laub"
+	}
+]

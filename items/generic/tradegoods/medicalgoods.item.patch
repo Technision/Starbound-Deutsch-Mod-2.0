@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine versiegelte Kist mit medizinischer Ausrüstung, wertvoll für den interstellaren Handel."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Medizinische Ausrüstung"
+	}
+]

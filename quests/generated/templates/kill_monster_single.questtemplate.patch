@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Suche <spawnPoint> auf"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Kehre zu <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Töte den <monster>"
+	}
+]

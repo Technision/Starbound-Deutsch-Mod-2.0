@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Das Resultat eines schief gegangenen Wissenschaftlichen Experiments.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Voltip Figur"
+	}
+]

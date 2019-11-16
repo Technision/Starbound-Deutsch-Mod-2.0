@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/conditions/0/description", "value": "Finde ^orange;<itemName>^reset;: ^green;<current> / <required>^reset; "
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Verdächtige Falken Schiffsverbesserung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Pinguin Pete"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Eine Schiffsverbesserung, wird sofort erledigt!"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Diese Schiffslizenz ist unbestreitbar gesetzeskonform.^green;Suche Pinguin Pete^reset; mit ^orange;6 Upgrade Modulen^green;auf^reset;, um dein Schiff zu aufzurüsten."
+	}
+]

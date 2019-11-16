@@ -1,0 +1,50 @@
+[
+	{
+		"op": "replace", "path": "/protectorateLoungeTutorial/text", "value": "Deine Uniform liegt in deinem eigenen Spind für dich zum Einsammeln bereit... Es ist ziemlich eindrucksvoll, dass du so ruhig bleiben kannst, obwohl du so spät dran bist. Gut gemacht."
+	},
+	{
+		"op": "replace", "path": "/protectorateTentacleBarrier/text", "value": "Du wirst den Tentakel zerstören müssen, um zur Raumfähre zu gelangen. Ich schlage vor, eine Waffe aus dieser Truhe zu holen."
+	},
+	{
+		"op": "replace", "path": "/protectorateFloodedDoor/text", "value": "Scans deuten darauf hin, dass der Raum jenseits der Tür geflutet ist. Es wäre wohl das Beste, nicht dort hinein zu gehen... Ich schlage vor, einen Weg darüber hinweg zu finden - ^#71f2f6;benutze die Leertaste^white; um auf höher gelegene Plattformen zu springen."
+	},
+	{
+		"op": "replace", "path": "/protectorateGetWeapon/text", "value": "Die Truhe auf dem Förderband sollte irgendeine Form von Waffe enthalten. Bitte rüste dich aus!"
+	},
+	{
+		"op": "replace", "path": "/protectorateDuctPester/text", "value": "Uns läuft die Zeit davon. Ich schlage vor, dass du dich durch die Plattform nach unten fallen lässt, indem du ^#71f2f6;\"S\" zum Hocken hältst und anschließen kurz die Leertaste drückst^white;."
+	},
+	{
+		"op": "replace", "path": "/protectorateExitBedPester/text", "value": "Guten Morgen, Absolvent! Du hast verschlafen. ^#71f2f6;Drücke \"A\" oder \"D\", um aufzustehen^white;."
+	},
+	{
+		"op": "replace", "path": "/protectorateStage5/text", "value": "Es ist nicht sicher, weiter hier zu verbleiben! ^#71f2f6;Bitte nimm den Materie-Manipulator^white;. Du musst zur Raumfähre gelangen!"
+	},
+	{
+		"op": "replace", "path": "/protectorateDormRoomPester/text", "value": "Denke daran: Du kannst eine Tür öffnen, indem du ^#71f2f6;mit dem Mauscursor über sie fährst und \"E\" drückst^white;."
+	},
+	{
+		"op": "replace", "path": "/protectorateCollapsedGalleryNoMM/text", "value": "Nimm den vom Groß-Protektor fallen gelassenen Materie-Manipulator - er wird überlebenswichtig sein!"
+	},
+	{
+		"op": "replace", "path": "/protectorateDuct/text", "value": "Um von einer Plattform wie dieser herunter zu springen, solltest du ^#71f2f6;\"S\" halten um zu hocken und dann kurz die Leertaste drücken^white;."
+	},
+	{
+		"op": "replace", "path": "/protectorateRooftop/text", "value": "Das Ausmaß dieses Disasters ist unermesslich; Die anhaltende Zerstörung einzuschätzen befindet sich jenseits meiner Kapazität. Du musst den Planeten auf der Stelle verlassen. "
+	},
+	{
+		"op": "replace", "path": "/protectorateWeaponPester/text", "value": "Auf eine Waffe kannst du ganz leicht zugreifen, indem du sie ^#71f2f6;in einem freien Slot in der Aktionsleiste^white; am oberen Bildschirmrand platzierst und anschließend ^#71f2f6;die entsprechende Nummerntaste zum Ausrüsten drückst^white; ."
+	},
+	{
+		"op": "replace", "path": "/protectorateShipPlatform/text", "value": "Ich bin die Vorstart-Sicherheits-Checks umgangen. Alle an Bord!"
+	},
+	{
+		"op": "replace", "path": "/protectorateCollapsedGalleryPester/text", "value": "Du kannst den Materie-Manipulator verwenden, um an dem Erdhaufen vorbeizukommen. ^#71f2f6;Drücke \"R\", um ihn auszurüsten.^white;."
+	},
+	{
+		"op": "replace", "path": "/protectorateCollapsedGallery/text", "value": "Es sieht so aus, als wäre die Decke eingestürzt. Der Materie-Manipulator kann dafür verwendet werden, den Erdhaufen zu beseitigen. ^#71f2f6;Drücke \"R\", um ihn auszurüsten^white;, dann klicke und halte anschließend auf den Erdhaufen, um dich hindurch zu graben."
+	},
+	{
+		"op": "replace", "path": "/protectorateDormRoomTutorial/text", "value": "Um mit einer Person, Tür oder einem anderen Gegenstand in der Nähe zu interagieren, solltest du ^#71f2f6;mit dem Mauszeiger darüber fahren und \"E\" drücken^white; - falls du schon wach genug bist, natürlich."
+	}
+]

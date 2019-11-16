@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/maxEnergy/label", "value": "Maximale Energie"
+	},
+	{
+		"op": "replace", "path": "/maxHealth/label", "value": "Maximales Leben"
+	},
+	{
+		"op": "replace", "path": "/protection/label", "value": "Rüstung"
+	},
+	{
+		"op": "replace", "path": "/energyRegen/label", "value": "Energieregeneration"
+	},
+	{
+		"op": "replace", "path": "/powerMultiplier/label", "value": "Waffenschaden"
+	},
+	{
+		"op": "replace", "path": "/healthRegen/label", "value": "Lebensregeneration"
+	}
+]

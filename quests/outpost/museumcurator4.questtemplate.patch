@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/completionText", "value": "Fantastisch! Mein Museum wird die lehrreichste Stätte diesseits der Galaxie sein. Danke, dieses Stück ist perfekt."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Stiller Ritter"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Die Glitch faszinieren mich. Sie sind solch meisterhafte Maschinen und doch ist die große Mehrheit von ihnen mit altertümlichen Bräuchen fest verdrahtet. Vielleicht könntest du eine der Glitch-Festungen aufsuchen und mir ^green;ein Set einer^orange;Bewaffneten Ausstellungsrüstung^white; für das Museum ^green; bringen^white;?"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"op": "replace", "path": "/modsWarningMessage", "value": "Das Installieren und Deinstallieren von Mods kann deine Spielstände beschädigen. Du solltest das Verzeichnis \"storage\" sichern bevor du fortfährst."
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/mmUpgradeText", "value": "M.M. Upgrade"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/collectionsText", "value": "Sammlung"
+	},
+	{
+		"op": "replace", "path": "/escapeDialog/saveAndQuit/caption", "value": "Speichern & Beenden"
+	},
+	{
+		"op": "replace", "path": "/escapeDialog/showOptions/caption", "value": "Optionen"
+	},
+	{
+		"op": "replace", "path": "/escapeDialog/returnToGame/caption", "value": "Zurück zum Spiel"
+	},
+	{
+		"op": "replace", "path": "/escapeDialog/lblcopyright/value", "value": "Chucklefish Games 2016 - Made in London, UK"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/craftingText", "value": "Handwerk"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/inventoryText", "value": "Inventar"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/beamUpText", "value": "Zum Schiff"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/questsText", "value": "Quests"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/codexText", "value": "Kodex"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/beamDownText", "value": "Zum Planeten"
+	},
+	{
+		"op": "replace", "path": "/cursorTooltip/disabledText", "value": "Deaktiviert"
+	},
+	{
+		"op": "replace", "path": "/largeCharPlate/modeText", "value": "MODUS: "
+	},
+	{
+		"op": "replace", "path": "/largeCharPlate/noPlayerText", "value": "CHARAKTER ERSTELLEN"
+	}
+]

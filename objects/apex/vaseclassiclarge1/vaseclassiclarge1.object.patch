@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine dekorative Vase. Sieht ziemlich zerbrechlich aus."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Große schicke Vase"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ich denke ich höre darin was."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Avianer bunkern oft Schmuckstücke in Töpfen. Vielleicht machen es andere auch so."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Zerschlage es und reiß das innere heraus."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Destruktiv. Ich glaube, da ist etwas drin."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ich wollte schon immer so was zerschlagen."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Es ist eine Schande, so ein schönes Teil zu zerschlagen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Töpfe sind für mich nur Töpfe, alt oder neu."
+	}
+]

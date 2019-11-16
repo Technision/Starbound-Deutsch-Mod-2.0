@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine Schaltung, die Signale nach einer festgelegten Verzögerung weiterleitet."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Verzögerungsschalter"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Eine Schaltung, die Signale nach einer fessstgelegten Verzögerung weiterleitet."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neutral. Eine Schaltung, die Signale nach einer festgelegten Verzögerung weiterleitet."
+	}
+]

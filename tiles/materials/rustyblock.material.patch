@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Entsetzt. Dieses rostige, verworfene Metall ist verwittert und abgenutzt."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Rostiger Block"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein Rostiger alter Metall Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Rosstiger Metall Block "
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das Metall hier sieht mächtig verrostet aus"
+	}
+]

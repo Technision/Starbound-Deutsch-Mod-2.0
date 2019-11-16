@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Statue von Blumen, wichtig für Floraner."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Große Blumen Statue"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine majestätische Blumen Statue."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Das ist eine wirklich große Blume."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Wunderschöne Blumen Sssstatue."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Glückselig. Ich möchte neben dieser Statue sitzen."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ist das eine Statue einer großen Mohnblume oder Rose?"
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Eine große Blume gemacht aus Stein."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine schicke Blumenstatue. Das Schnitzen dieser Blütenblätter muss schwierig gewesen sein."
+	}
+]

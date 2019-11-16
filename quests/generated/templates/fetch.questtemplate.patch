@@ -1,0 +1,74 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "^green;Das Nächste, was wir brauchen ist ^orange;<fetchedItems>^white;. Das ist wichtig für den weiteren Verlauf des Plans."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Esss issst Zzzeit ^orange;<fetchedItems>^green; zu finden.^white; Esss issst sehr wichtig, dasss wir dasss alsss nächstesss machen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Gespannt. Jetzt ^green; musst du für mich  ^orange;<fetchedItems>^green; sammeln^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Zufrieden. Als nächstes werden wir ^orange;<fetchedItems>^green benötigen. Ich bin mir sicher, dass du das schaffen kannst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Perfekt, lasss unsss unsere <fetchedItems> nutzzzen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Zufrieden. Das ist exakt das, was meinem Plan noch fehlte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Dankbar. Ich finde es gut, dass du mir diese Dinge besorgt hast. Ich habe damit nämlich noch etwas vor..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Aufgeregt. Für den ersten Teil meines Plan ^green;musst du mir ^orange;<fetchedItems>^green; besorgen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/1", "value": "Perfekt - Jetzt kann Floraner damit weiterarbeiten."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Großartig! Lasss unsss etwasss ausss <fetchedItems> fertigen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Perfekt, das wir gut funktionieren. Danke!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Aufgeregt. Für den Anfang ^green;musst du mir ^orange;<fetchedItems>^green; besorgen.^white; Danke schon mal im Voraus."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Dasss ging schneller als Floraner erwartet hat! Floraner ist sehr zufrieden!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/0", "value": "Exzellent! Jetzt können wir die Sachen nutzen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Floraner findet ^orange;<fetchedItems> ^white;einfach nicht. Floraner wird dich großzügig belohnen, wenn es dir gelingt ^green;etwas davon zu besorgen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Zuerst muss du für Floraner ^orange;<fetchedItems>^green;finden.^white; Los,Los,Los!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Überschwänglich. Danke, dass du mir gebracht hast, was ich haben wollte. Ich habe damit noch etwas vor."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/1", "value": "Gut gemacht <player>, ich habe nie an dir gezweifelt!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Erkenntlich. Ich bin sehr zufrieden, dass du es geschafft hast mir zu besorgen, was für meinen Plan unerlässlich ist. Danke!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke, das ist exakt das, was ich für die nächste Phase meines Plans brauche..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "Um anzufangen musst du ^orange;<fetchedItems>^green; sammeln.^white; Schaffst du das?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Alsss deine nächste Aufgabe, könntessst du für unsss ^orange;<fetchedItems>^green; suchen? ^white;Keine allzzzu schwere Aufgabe für jemanden mit deinen Fähigkeiten."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Als Nächstes ^green;brauchen wir ^orange;<fetchedItems>^white;. Das schaffst du, oder?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Als erstes, ^green;Brauche ich ^orange;<fetchedItems>^white;. Kannst du mir das geben?"
+	}
+]

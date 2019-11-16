@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ich wusste nicht, dass Uhren reproduktionsfähig sind."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Standuhr"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Alle Apex Uhren werden automatisch per Funk eingestellt."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Avianische Zeit basiert von dem ablesen, von der Richtung des Schattens."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner geht immer noch nach den Sonnenuntergang und Sonnenaufgang, um die Zeit anzusagen."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Diese Uhr scheint auf eine Millisekunde genau zu sein."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Der Klang dieser Uhr kann sowohl bedrohlich als auch beruhigend sein."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Der Klang vom Metronom ist perfekt für Meditationen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Tick, tock, tick, tock. Du kannst den Klang der Uhr nicht ignorieren."
+	}
+]

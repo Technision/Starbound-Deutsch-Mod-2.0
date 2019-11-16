@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Test Fahrt"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Sie da, friendo! Ich bin ^orange;Dr. Akaggy^white; und beschäftige mich mit Robotern! Ich habe also diesen experimentellen ^green;modularen Weltraummech^white;, der eine Probefahrt benötigt, und meine üblichen Piloten sind... unpassend. Könntest du mir ein gefallen tun und es ^green;druch den Testkurs fliegen^white;? \n\n^green;Sprich einfach mit mir, wenn du bereit bist zu gehen!^white;"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hast es zurück geschafft! Das überrascht mich nicht, es ist eine Freude! Als Belohnung kann ich Ihnen genügend ^green;Ersatzmechkomponenten^white; zur Vefrfügung stellen, damit sie mit Ihrem Mech bereitstellen können für kleine Weltraumspaziergänge! Gehen Sie zu dieser ^orange;Mech-Montagestation^white; um ihn anzupassen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Sprich mit ^orange;Dr. Akaggy^reset; um den ^orange;Testkurs^reset; zu betreten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Beende den ^orange;Mech Testkurs^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zurück zu ^orange;Dr. Akaggy^reset; beim ^orange;Außenposten^reset;"
+	}
+]

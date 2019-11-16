@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'nen paar Ziegel, die aus Felsen gemeißelt wurden."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Kleine Steinplatten, perfekt für feine Details."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kleine Steinziegel"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Diese Steinzzziegel sind winzzzig."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Es scheint, als stämmen diese Ziegel alle vom selben Stein."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Steinziegel mit einer eingemeißelten Erhöhung an der Spitze."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Gezahnter Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Gezzzahnte Steinblöcke."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Diese gezahnten Konstruktionsblöcke sind einfach, aber effektiv."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese gemeißelt'n Steinblöcke sind verdammt cool."
+	}
+]

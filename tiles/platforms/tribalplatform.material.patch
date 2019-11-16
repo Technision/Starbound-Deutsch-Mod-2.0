@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erstaunt. Steinziegel wurden zu einer Plattform zusammengefügt."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Tempelplattform"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Plattform ausss alten Zziegeln.."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Alte Steinziegel die wie 'ne Plattform aufgebaut sind."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Plattformen, gebaut aus soliden Tempelziegeln."
+	}
+]

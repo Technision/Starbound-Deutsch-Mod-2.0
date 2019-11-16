@@ -1,0 +1,32 @@
+[
+	{
+		"op": "replace",
+		"path": "/shipStatus/1/text",
+		"value": "^#6f6f6f;$ Status\n^cyan;> Schiffstriebwerke sind zur Zeit offline.\n> Schiffsteleportsystem funktioniert ordnungsgemäß.\n> ^green;Zur Zeit ist nur der Planet unter dir zugänglich."
+	},
+	{
+		"op": "replace",
+		"path": "/shipStatus/3/text",
+		"value": "^#6f6f6f;$ Status -f\n^cyan;> Schiffstriebwerke sind online.\n> Hyperantrieb ist online.\n> Schiffsteleportsystem funktioniert ordnungsgemäß.\n> ^green;Das gesamte Universum ist zugänglich."
+	},
+	{
+		"op": "replace",
+		"path": "/shipStatus/0/text",
+		"value": "Zzz... Zzz... Zzz..."
+	},
+	{
+		"op": "replace",
+		"path": "/noMissionsSpeech/text",
+		"value": "^#6f6f6f;$ Missionen\n^cyan;> Zur Zeit sind keine Missionskoordinaten verfügbar."
+	},
+	{
+		"op": "replace",
+		"path": "/shipStatus/2/text",
+		"value": "^#6f6f6f;$ Status\n^cyan;> Schiffstriebwerke sind online.\n> Schiffsteleportsystem funktioniert ordnungsgemäß.\n> ^green;Planeten innerhalb dieses Sternsystem sind zugänglich."
+	},
+	{
+		"op": "replace",
+		"path": "/noCrewSpeech/text",
+		"value": "^#6f6f6f;$ Mannschaft\n^cyan;> Du bist das einzige registrierte Mannschaftsmitglied auf diesem Schiff.\n> Zusätzlich rekrutierte Besatzungsmitglieder können eine erhöhte Betriebseffizienz ermöglichen."
+	}
+]

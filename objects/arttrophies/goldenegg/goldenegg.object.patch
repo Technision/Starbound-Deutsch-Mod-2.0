@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein goldenes Ei! Was!?"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Goldenes Ei"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Erstaunlich! Wo mag dieses Ei herkommen?"
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Die Legenden sind wahr! Was für ein schöner Anblick."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner hält hübschesss Ei."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verwunderung. Ein so schönes Ei würde einen recht hohen Preis bringen."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Das ist ein schönes Ei."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein wunderbar glänzendes Ei aus Gold. Ein wahres wunder."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Es ist mächtig glänzend, ich kann mein Spiegelbild sehen."
+	}
+]

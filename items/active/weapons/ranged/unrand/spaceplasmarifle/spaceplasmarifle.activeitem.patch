@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein hochmodernes Sturmgewehr, das für den Einsatz in extremen Umgebungen gehärtet ist."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Plasma-Sturmgewehr"
+	}
+]

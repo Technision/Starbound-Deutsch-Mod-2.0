@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kantenziegel"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Gemeißßßelte Steinzzziegel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Entzückt. Dieser Stein hat eine kleine, gemeißelte Kante."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'nen paar verdammt alt ausseh'nde Ziegel."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Steinziegel mit einer kleinen Kante."
+	}
+]

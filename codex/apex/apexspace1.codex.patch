@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "Internationale Bericht #E86A"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Ein datierter Miniknog Bericht über Gefahren im Weltraum."
+	},
+	{
+		"op": "replace", "path": "/contentPages/0", "value": "Gegenwart ^yellow;#01^white;: Tierwelt\r\n\r\nDie organischen und künstlichen Lebensformen des Weltraums zeigen merkwürdige ökologische Verhaltensweisen, die in terrestrischen Umgebungen nicht zu sehen sind.\r\n\r\nEine erfasste Lebensform, die nur als fliegendes zykloptisches Dreieck beschrieben werden kann, zeigte die beeindruckende Fähigkeit, ein ganzes Feld von Feldforschern in weniger als 1.000: 400 Metaclicks zu verdampfen."
+	},
+	{
+		"op": "replace", "path": "/contentPages/1", "value": "Während diese Kreaturen unbestreitbar bedrohlich sind, sind ihre Körper in der Regel so strukturiert, dass sie selbst unter geringen Gravitationsbedingungen nicht überleben können.\r\n\r\nMiniknog-Außenposten mit Gravitationsfeldern haben sich als wenig interessant für die verschiedenen Raubtiere im Weltraum erwiesen, wobei Geschütz Installationen die aggressiveren Bedrohungen abschrecken."
+	},
+	{
+		"op": "replace", "path": "/contentPages/2", "value": "Gegenwart ^yellow;#02^white;: Menschen\r\n\r\nAußenposten Epsilon-12 hatte ein anderes Gefecht mit einem menschlichen Schiff. In Bezug auf sich selbst als Teil eines \"Corporate Military\" scheinen diese Menschen etwas rücksichtsloser zu sein als die eher gutartige \"Terrulische Protektorat\" Organisation.\r\n\r\nSie zeigen einen fast verwerflichen kapitalistischen Drang und verpflichteten sich sofort zur Zusammenarbeit mit Epsilon-12 in der Hoffnung, militärische Ressourcen und finanzielle Mittel zu beschaffen."
+	},
+	{
+		"op": "replace", "path": "/contentPages/3", "value": "m Gegensatz zu unseren eigenen Soldaten wurde beobachtet, dass diese Gruppe mit Gehorsam in ihren eigenen Reihen schwer zu kämpfen hat. Viele ihrer Frachter sind durch Meutereien verloren gegangen, ihre Crews entscheiden sich stattdessen für eine Karriere im Weltraumgewehr.\r\n\r\nMit der Schlussfolgerung, dass die Assoziation mit dieser Fraktion zu Komplikationen führen könnte, hat der Theta-Zweig eine Methode vorgeschlagen, um sie leise von innen heraus zu dezimieren, indem sie ihren Eifer nach Bio-Waffen ausnutzt."
+	}
+]

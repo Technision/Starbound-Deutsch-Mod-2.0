@@ -1,0 +1,35 @@
+[
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "NOVAKID"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Die Novakid sind eine mysteriöse Rasse \"interstellarer Gastaschen\". Sie haben keine eigenen Siedlungen und keine bekannte Geschichte. Sie sind unberschwerte Geschöpfe und niemand weiss, woraus sie bestehen oder woher sie kommen."
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Novakid "
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "Gasfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "Frisur"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "Shirt"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "Hose"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "Mal"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "Shirtfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "Hosenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "Persönlichkeit"
+	}
+]

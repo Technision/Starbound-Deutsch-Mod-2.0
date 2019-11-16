@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Uralter Stein mit filigranen Schnitzereien, die Kreaturen zeigen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Tempel-Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag Steinbilder."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Kurios. Diese Steingravierungen stellen eine unerforschte Sprache dar."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Alte Blöcke mit'nem paar Gravierungen."
+	}
+]

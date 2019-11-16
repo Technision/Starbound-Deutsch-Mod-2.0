@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Stabile Metallverkleidung, dass mit der Zeit gerostet ist."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Eifrig. Ich bin mir sicher, mit etwas Ellenbogenfett könnte diese Metallverkleidung gesäubert werden."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran will Speere aus rostigem Metall machen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einige Metallpaneele mit Rost bedeckt."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Rostplatte"
+	}
+]

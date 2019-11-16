@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Peitsche ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Ein Seil, gebunden zu einer Peitsche. Lass krachen!"}, {"op": "replace", "path": "/shortdescription", "value": "Peitsche"}]

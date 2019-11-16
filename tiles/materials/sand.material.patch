@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein großer alter staubiger Haufen Schlick."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Es ist Schlick und es ist sehr schlammig."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Loser Schlick"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Schlick. Er issst so staubig."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Unbequem. Es ist schwer, den Schlick von meinen Komponenten fernzuhalten."
+	}
+]

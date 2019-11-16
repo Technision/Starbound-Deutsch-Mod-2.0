@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein kaputter Monitor. Nicht zu reparieren."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Hier gibt es nichts zu sehen."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Das Glas ist scharf, ich sollte besser aufpassen."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Ein zerstörter Monitor, nicht mehr von Nutzen."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kaputter Monitor"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Komplett kaputt, hat keinen Nutzen mehr."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Zzzerstörter Monitor."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Enttäuscht. Schon lange nicht mehr zu reparieren."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Etwas hat den zerschlagen."
+	}
+]

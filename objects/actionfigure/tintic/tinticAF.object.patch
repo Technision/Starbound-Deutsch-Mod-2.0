@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es scheint nicht so, das er isst oder schläft... Ist es eine Maschine?\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Tintic Figur"
+	}
+]

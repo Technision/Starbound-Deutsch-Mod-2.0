@@ -1,0 +1,16 @@
+[
+	{"op": "replace", "path": "/converse/default/default/0", "value": "Prahlerisch. Die Gilde der Rainbow Rogues wird dich mit Leichtigkeit vor jeglichem Schaden bewahren!"},
+	{"op": "replace", "path": "/converse/default/default/1", "value": "Mutig. Ich, ein zertifizierter Rainbow Rogue, werde gegen jegliche Frevler patrouillieren!"},
+	{"op": "replace", "path": "/converse/default/default/2", "value": "Freundlich. Ich bin vielleicht ein Rainbow Rogue, aber das bedeutet nicht, dass wir nicht sprechen können!"},
+	{"op": "replace", "path": "/converse/default/default/4", "value": "Tapfer. Die Gilde der Rainbow Rogues soll die Unschuldigen vor Schaden bewahren!"},
+	{"op": "replace", "path": "/converse/default/default/3", "value": "Kühn. Mit der Finesse eines Einhorns werde ich meine Verbündeten verteidigen!"},
+	{"op": "replace", "path": "/rent/default/default/0", "value": "Dankbar. Hier ist ein Geschenk, von der Gilde der Rainbow Rogues."},
+	{"op": "replace", "path": "/rent/default/default/1", "value": "Dankbar. Die Gilde der Rainbow Rogues dankt Dir dafür, dass du mir ein Haus bereitgestellt hast!"},
+	{"op": "replace", "path": "/beacon/default/default/0", "value": "Begrüßung. Was hast du für ein Begehren an einen Rainbow Rogue, wie ich es bin?"},
+	{"op": "replace", "path": "/beacon/default/default/1", "value": "Freundlich. Benötigen Sie meine schelmische Expertise?"},
+	{"op": "replace", "path": "/beacon/default/default/2", "value": "Aufmerksam. Ich muss sicherstellen, dass dies keine Falle ist."},
+	{"op": "replace", "path": "/final/default/default/0", "value": "Verzweifelt. Ich muss gehen - Die anderen Rainbow Rogues werden davon erfahren!"},
+	{"op": "replace", "path": "/final/default/default/1", "value": "Verärgert. Ich dachte, ich könnte meine Fähigkeiten an diesem Ort einsetzen, aber ich werde nicht gewürdigt."},
+	{"op": "replace", "path": "/severe/default/default/0", "value": "Wütend. Die anderen Rainbow Rogues sollen von dieser Schande erfahren!"},
+	{"op": "replace", "path": "/severe/default/default/1", "value": "Frustriert. Jemand wie ich, hat solche Bedingungen nicht verdient."}
+]

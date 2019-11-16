@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Gnom Waffe ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Sag hallo zu meinem kleinen Freund!"}, {"op": "replace", "path": "/shortdescription", "value": "Gnom Waffe"}]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'nen Haufen leuchtender toxischer chemischer Abfall."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Widerlicher, leicht leuchtender Giftmüll."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Abfall"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angewidert. Die Chemikalien in diesem Abfall sind so giftig, dass er leuchtet."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Stinkendesss toxischesss Chaosss. Abscheulichesss Gift."
+	}
+]

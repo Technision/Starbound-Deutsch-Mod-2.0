@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Wie es der Titel schon sagt, \"Eine gigantische Arthropode, die bei Beschädigung ihr hartes Exoskelett in Sekundenschnelle nachwachsen lässt.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ixodoom Figur"
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Ich habe mit dem Gedanken gespielt, ein Museum zu eröffnen. Meinst du, die Floraner würden so etwas mögen? Ich wünschte, ich würde Nuru besser kennen... Auf jeden Fall benötige ich Ausstellungsstücke! Könntest du ^green;mir bitte ^orange;einen Großen Avianischen Sarkophag^green; besorgen^white;? Höchstwahrscheinlich wirst du einen in einer avianischen Grabstätte finden können."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Koichi\"s Wunsch"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Vielen, vielen Dank! Dies wird das perfekte Prunkstück der Avianischen Ausstellung werden. Ich bin mir sicher, dass Nuru sehr großen Gefallen an diesem Bemerkenswerten Stück haben wird. Und alle anderen natürlich auch..."
+	}
+]

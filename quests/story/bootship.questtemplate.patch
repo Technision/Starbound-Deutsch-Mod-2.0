@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/wakeSail", "value": "Fahre den Schiffscomputer hoch"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Hochfahren"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "HIRN ist erwacht! Ab jetzt hast du etwas Unterstützung, und ein wenig Begleitung."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Das Schiff ist beschädigt und du treibst alleine im All. Am Besten wäre es, den Schiffscomputer hochzufahren und zu schauen, ob irgendwas Hilfreiches dabei rauskommt."
+	}
+]

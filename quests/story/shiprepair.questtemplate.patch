@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Eins nach dem Anderen; du brauchst ein ^orange;Schiff in funktionsfähigem Zustand^reset;. Wer weiss schon, wie weit du damit reisen musst, bis wir mit Allem fertig sind. Ich denke, du solltest ^green;zum Außenposten zurückkehren und mit ^orange;Pinguin Pete, dem Kapitän der Schiffswerft^green; reden^reset;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/repairShip", "value": "^green;Repariere dein ^orange;Schiff^reset;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findEsther", "value": "^green;Rede mit ^orange;Esther Bright^white; bei der ^orange;Arche^white;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findMechanic", "value": "^green;Finde ^orange;Pinguin Pete^white; beim ^orange;Außenposten^white;"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Werde Weltraumtauglich"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Keine schlechte Leistung - gut gemacht,Liebling. Jetzt, wo du ein voll einsatzbereites Schiff hast, können wir uns der eigentlichen Aufgabe widmen."
+	}
+]

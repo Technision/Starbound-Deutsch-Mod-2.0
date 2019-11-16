@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Platin Block"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein ganzer Block aus massivem Platin."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Dieser schimmernde Block ist aus solidem Platin gemacht."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich schätze mal dieser Block aus Platin würde für einige sehr viel Wert sein."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag leuchtendesss Platin."
+	}
+]

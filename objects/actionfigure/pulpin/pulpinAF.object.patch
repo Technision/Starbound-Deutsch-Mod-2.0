@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es hat eine klebrige Textur, das im erlaubt mit Leichtigkeit an Oberflächen zu klettern.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Pulpin Figur"
+	}
+]

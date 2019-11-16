@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Erinnert mich an das Innere, eines medizinischen Zentrums."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Glatter Metallblock"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glatte glänzzende Metallplatten."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Diese Metallplatten wurden sorgfältig geglättet."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine glatte Wandplatten."
+	}
+]

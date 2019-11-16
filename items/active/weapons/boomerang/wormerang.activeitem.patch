@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Riesenwurm ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Ein erschreckender Riesenwurm , werfe es auf jemanden!"}, {"op": "replace", "path": "/shortdescription", "value": "Riesenwurm"}]

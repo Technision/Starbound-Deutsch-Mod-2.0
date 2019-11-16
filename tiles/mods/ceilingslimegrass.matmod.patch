@@ -1,0 +1,5 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Klebriger Schleim hängt von der Decke."
+	}
+]

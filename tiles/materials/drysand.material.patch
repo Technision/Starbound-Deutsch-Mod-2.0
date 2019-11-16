@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Trockener Sand"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Trockener kompressierter Sand."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Harter, trockener sssandiger Sand"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Dieser Sand ist trocken und fest."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Harter, trockener Sand der unter den Füßen zerbricht."
+	}
+]

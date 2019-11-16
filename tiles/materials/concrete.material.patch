@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Kalter, harter Beton."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Betonblock"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag kalten Beton nicht."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Beton ergibt einen mächtig robusten Block."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Bekannt. Beton wird allgemein als Baumaterial eingesetzt."
+	}
+]

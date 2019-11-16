@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Schild, darauf steht \"Gefahr!\". Es könnte keine klarere Nachricht übermitteln."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Rotes Gefahren Schild"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Wenig im Apex Leben ist nicht gefährlich."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Warum müssen die Apex die Gefahr so klar kennzeichnen?"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner lebt und atmet Gefahr."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Pessimistisch. Klar, nicht zu befürchten."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein kleines bisschen Gefhar schadet niemanden."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Wir müssen mit Vorsicht vorgehen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich bin kein Fremder der Gefahr."
+	}
+]

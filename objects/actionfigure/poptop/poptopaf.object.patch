@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Die Poptop brummt so wunderschön um seine Beute zu verwirren.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Poptop Figur"
+	}
+]

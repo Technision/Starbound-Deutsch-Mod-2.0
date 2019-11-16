@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/joinMessage", "value": "Discord Nutzer ^green;<username>^reset; wünscht sich deinem Spiel beizutreten.\n\nMöchtest du annehmen?"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Beitrittsanfrage"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "Discord Beitrittsanfrage erhalten"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/yes/caption", "value": "Ja"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/no/caption", "value": "Nein"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/ignore/caption", "value": "Ignorieren"
+	}
+]

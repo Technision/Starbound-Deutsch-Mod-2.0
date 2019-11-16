@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine wenig bemerkenswerte Plattform aus Holz."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holzplattform"
+	}
+]

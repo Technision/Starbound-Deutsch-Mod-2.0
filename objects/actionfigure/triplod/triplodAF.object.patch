@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es beobachtet dich durch seine große Linse.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Triplod Figur"
+	}
+]

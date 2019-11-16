@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Rede mit ^orange;Nuru^reset;, um zur ^orange;Arena^reset; zu reisen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Nuru^reset; am ^orange;Außenposten^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Gewinne den Arenakampf"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Ein Herausforderer erscheint"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Hey, Champion! So ein Typ lud Floraner zzzu einem ^orange;Arena-Tournament für Gladiatoren^white; ein, aber ich denke, du solltest stattdesssen gehen. Wenn du dich für hart genug hälssst, ^green;rede mit mir und ich sende dich für die erssste Runde dorthin^white;!"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hassst überlebt! Wussste, du würdessst es schaffen. Gut gemacht, Champ!"
+	}
+]

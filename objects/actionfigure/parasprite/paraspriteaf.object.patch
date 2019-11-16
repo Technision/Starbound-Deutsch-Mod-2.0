@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Eine Hirntote Biowaffe erstellt von unverantwortlichen Menschen Wissenschaftlern.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Parasprite Figur"
+	}
+]

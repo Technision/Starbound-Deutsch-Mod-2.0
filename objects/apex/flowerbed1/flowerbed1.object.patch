@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein wunderschönes Blumenbeet. Achte auf Bienen!"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Blumenbeet"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein gepflegtes Blumenbeet. Einer der wenigen Apex Freuden."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ein widerlich süßer Geruch weht in der Luft."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner versteckte sich einst in Blumen und sprang heraus, um den Poptop zu überrasssschen! Poptop nicht glücklich."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Bewunderung.  Ein bemerkenswert gut kultiviertes Blumenbeet."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein Blumenbeet. Am besten für die, die einen grünen Daumen haben."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein eher kindlicher Versuch einer Blumenpräsentation."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein Blumenbeet. Maximale Gelassenheit."
+	}
+]

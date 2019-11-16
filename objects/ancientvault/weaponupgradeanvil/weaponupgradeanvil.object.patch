@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Diese fortgeschrittene antike Technologie kann die Wirksamkeit einiger Waffen erhöhen."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Waffenupgrade Amboss"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Dieser Amboss wirkt, ich frage mich, was die Wesen daraus gemacht haben."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Dieser Amboss ist uralten Ursprungs."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner drückt Knopf. Dafür ssorgen, dass etwas passssiert."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Die technischen Anewendungen dieses Ambosses sind ebenso fortgeschritten wie alt."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein Amboss, der den Test der Zeit bestanden hat."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Dieser Amboss sieht alt aus, ist aber noch einsatzbereit."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser Amboss soeht alt aus..."
+	}
+]

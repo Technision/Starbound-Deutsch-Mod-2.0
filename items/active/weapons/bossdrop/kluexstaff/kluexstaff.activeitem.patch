@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Kluex Stab ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Dieser kraftvolle Stab stärkt den Krieger, der ihn handhabt."}, {"op": "replace", "path": "/shortdescription", "value": "Kluex Stab"}]

@@ -1,0 +1,65 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text", "value": "Der Barkeeper im Beakeasy wird sicher gerne all deine Diamanten im Tausch gegen Pinguin-Dublonen annehmen, welche bei seinem Söldner-Klientel sehr gefragt sind."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text", "value": "Dieses Möbelgeschäft bietet eine große Auswahl an exotischen Stücken aus dem ganzen Universum zum Verkauf an und wird regelmäßig neu beliefert. Es werden ebenfalls Kolonisierungs-Urkunden verkauft, die Mieter anlocken, wenn man sie in Behausungen platziert."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Der Außenposten ist ein wundervoller, belebter Ort voll an Kuriositäten. Es gibt noch viel mehr zu sehen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text", "value": "Wenn der Terramarkt erstmal geöffnet ist, wird er unter Anderem Landwirtschafts- und Gartenprodukte anbieten. Sie werden sogar selbst angebaute Waren mittels deren Fernversanddienstes von dir abkaufen."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Bevor du lossaust, werde ich dir noch zeigen, wie man den ^orange;Scan-Modus^white; deines ^green;Materie-Manipulators^white; aktiviert und ^green;verwendet^white;. Deine Umgebung kann dir viel verraten und der Außenposten ist da keine Ausnahme. Drücke ^#71f2f6;[N]^white;, um ^orange;den Scanner^green; auszurüsten^white;. Interessante Bereiche werden grün angezeigt. Lass mich wissen, wie du voran kommst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^orange;Arche^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Scanne Gegenstände^reset;, um mehr über den  ^orange;Außenposten^reset; zu erfahren "
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Ausgezeichnete Arbeit! Es mag zwar trivial erscheinen, aber das Scannen ist eine unentbehrliche Fähigkeit, die eine zentrale Rolle bei unserer Suche nach den Artefakten einnehmen wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text", "value": "Mit dieser Konsole kannst du Techs ausrüsten, die deine Schnelligkeit und Ausdauer stark verbessern können."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Besuche den Außenposten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text", "value": "Penguin Pete ist eine Autorität, was Fahrzeuge angeht. Von Hi-Tech-Raumschiffen bis hin zu einfachen Hoverbikes."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Dies schließt unsere heutige Tour dann mal ab! ^#71f2f6;Suche mich auf^white;, wenn du bereit bist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text", "value": "Der Barkeeper im Beakeasy wird sicher gerne all deine Diamanten im Tausch gegen Pinguin-Dublonen annehmen, welche bei seinem Söldner-Klientel sehr gefragt sind."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Das Scannen ist solch ein lohnenswertes Hobby."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Großartig! Du hast auf jeden Fall einen Forschergeist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text", "value": "Wenn dieser Stand erstmal für das Gewerbe geöffnet ist, wirst du hier eigene Schilder herstellen können."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/signstore/text", "value": "An diesem Stand kannst du eigene Schilder herstellen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text", "value": "Du kannst hier eigene Teleporter kaufen, sobald das Geschäft öffnet. Extrem nützliche Dinger."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/terramart/text", "value": "Der Terramarkt hat unter Anderem eine Auswahl an Landwirtschafts- und Gartenprodukten. Sie werden sogar selbst angebaute Waren mittels deren Fernversanddienstes von dir abkaufen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text", "value": "Dieses Möbelgeschäft wird eine Auswahl an exotischen Stücken aus dem ganzen Universum zum Verkauf anbieten und wird regelmäßig neu beliefert. Es wird ebenfalls Kolonisierungs-Urkunden verkaufen, die Mieter anlocken, wenn man sie in Behausungen platziert."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text", "value": "Du kannst in diesem Geschäft eigene Teleporter kaufen. Extrem nützliche Dinger."
+	}
+]

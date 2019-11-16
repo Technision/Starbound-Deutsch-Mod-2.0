@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Eine kraftvoll geflügelte Wache gebaut nach dem Bilde des Avianischen Gott Kluex.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kluex Avatar Figur"
+	}
+]

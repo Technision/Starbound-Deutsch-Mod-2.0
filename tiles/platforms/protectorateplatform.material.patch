@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schutzplatform"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine normale Plattform."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzzende Metallplattform."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Diese Plattform kann mein Gewicht stützen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine schicke Plattform aus Metall."
+	}
+]

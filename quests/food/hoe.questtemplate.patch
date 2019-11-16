@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "^green;Es ist Zeit für eine Hacke"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Um mit der Landwirtschaft zu beginnen, brauche ich einen Weg, um den Boden zu bepflanzen. Ich sollte ^orange;eine Hacke herstellen aus Holz und Kupfer Barren^white;."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Das sollte den Job erledigen. Mit dieser und einer Gießkanne kann ich zum Anbau von Getreide kommen."
+	}
+]

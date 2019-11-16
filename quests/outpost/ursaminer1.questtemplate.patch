@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Bernard"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Der verlorene Teddy"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Kleiner Bär ist jetzt wieder glücklich! Danke, jetzt kann ich meinen Laden eröffnen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Bernard"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questFailed/title", "value": "Bernard"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Mein Kleiner Bär hat seinen ^orange;Teddybär^white; verloren und ich kann den Laden nicht weiter fertig machen, während er so drauf ist - kannst du mir bitte helfen, für ihn ^green;einen neuen Teddybär zu besorgen^white;?"
+	}
+]

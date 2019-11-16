@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/unlockMessage", "value": "Du kannst nun kleine Hi-Tech Produkte ohne Werkbank Drucken."}, {"op": "replace", "path": "/description", "value": "Schaltet die Fähigkeit frei, kleine Hi-Tech Produkte Unterwegs herzustellen."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Tragbarer Pixel Drucker^white;"}]

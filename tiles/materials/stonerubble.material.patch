@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Steinsschutt aus alten Gebäuden."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Es scheint, dass die Teile in diesem Schutt, von einer Struktur waren."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Steingeröll"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Buncha zerdrückte Felsen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Steinschutt, der aus einer alten Struktur zu sein scheint."
+	}
+]

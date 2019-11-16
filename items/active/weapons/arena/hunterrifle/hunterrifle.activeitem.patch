@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Altes Scharfschützengewehr ^yellow;^reset; "}, {"op": "replace", "path": "/shortdescription", "value": "Altes Scharfschützengewehr "}, {"op": "replace", "path": "/description", "value": "Ein gutes Scope hilft dieser Waffe, entfernte Ziele leicht zu treffen."}]

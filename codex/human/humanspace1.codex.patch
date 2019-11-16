@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "USCM Jährlicher Bericht"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Ein staubiger Bericht von der jetzigen aufgelösten USCM Organisation."
+	},
+	{
+		"op": "replace", "path": "/contentPages/0", "value": "^yellow;//Übersicht^white;\r\n\r\nDas ^orange;Gemeinsame Universelle Weltraum Militär^white; hat einen steuerlichen Steuerkreis erlebt. Unser Ziel - die Kraft und den Einfluss der Menschheit über die Erde zu verbreiten - bleibt wie immer in Sicht.\r\n\r\nDas Terrulische Protektorat bezeichnet uns immer noch als eine Schurken-Fußnote in der Geschichte der Erde, aber wir sind zuversichtlich, dass ihre hartnäckige Untätigkeit sie verletzlich macht. Wir werden nicht dieselben Fehler machen wie unsere Cousins auf der Erde."
+	},
+	{
+		"op": "replace", "path": "/contentPages/1", "value": "^yellow;//BESCHÄFTIGUNG^white;\r\n\r\nIn früheren Zyklen hat unser privates Gefängnisprojekt gezeigt, dass es die Einhaltung der Mitarbeiter insgesamt verbessert. Die letzten sechs Laufzeiten waren jedoch für unsere Frachter der Handelsklasse hart, was zu einem Anstieg der Anzahl von Mitarbeitern geführt hat, die auf weltweite Inhaftierung beschränkt sind.\r\n\r\nZukünftige Prognosen zeigen, dass die Gefängnisse, wenn sie nicht unterbesetzt sind, ihre eigenen internen Machthierarchien riskieren. Weitere Beobachtung wird empfohlen."
+	},
+	{
+		"op": "replace", "path": "/contentPages/2", "value": "^yellow;//PROJEKTE^white;\r\n\r\nUnsere derzeitige finanzielle Zukunft mag vielen unsicher erscheinen, aber Durchbrüche in unseren Labors für genetische Manipulation - mit Hilfe unserer Verbündeten im Miniknog - könnten uns ein starkes Fundament auf dem Gebiet der Biowaffengewinnung geben.\r\n\r\n^orange;Projektforschung: PARASPRITE^white; wird von vielen unserer Frachter der Forschungsklasse gleichzeitig durchgeführt. Vielleicht ist der nächste Zyklus der Beginn einer neuen Zukunft für die USCM!"
+	}
+]

@@ -1,0 +1,347 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Ein Bandit auf freiem Fuß! Gerüchten zufolge ist es ^orange;<enemy.name>, <adjective> <enemy>^white;. Zuletzt gesehen an der ^orange;<spawnPoint>^white; <spawnPoint.direction>. <enemy.pronoun.copulative> anscheinend auf der Flucht, seit <crime>. ^green;Kannst du <request>^white;, um die Dinge hier besser zu machen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Finde <spawnPoint>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Zurück zu <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "Einen <enemy> besiegen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floraner war an der ^orange;<spawnPoint>^green; <spawnPoint.direction>, alsss er den berüchtigten Banditen ^orange;<enemy.name>, <adjective> <enemy>^white; sah. Floraner kann sich nicht erinnern, warum er berüchtigt issst, aber <crimefloran>. ^green;Kannst du <requestfloran>^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "<adjective> <enemy.name> Herausfordern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner hörte, dasss ^orange;<enemy.name>, <adjective> <enemy>^white; issst an der ^orange;<spawnPoint>^white; <spawnPoint.direction>. Floraner weisss nicht mehr, wasss sie getan haben, aber <crimefloran>.^green; Kannst du <requestfloran>^white;? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "adjective"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich habe herausgefunden, dass ein gefährlicher Bandit nahe ist..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/3", "value": "Silber"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner hörte von einem nahen Banditen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Panisch. Ein Bandit hat unseren Planeten erreicht!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "Schneller"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner hat interesssante Informationen zzzu erzzzählen..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "Mörder"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Ein Bandit hat unseren Planet erreicht!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "Listiger"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/9", "value": "<enemy.pronoun.subject> einen gewagten Raubüberfall ausführte und ein Lager voll <valuable> stahl."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/4", "value": "Knacker"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/9", "value": "Gerissener"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "<enemy.pronoun.subject> eine <company> Waffenlieferung ausraubte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/10", "value": "Lichtgeschwindigkeit "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "<enemy.pronoun.subject> einen <individual> ermordete"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/3", "value": "<enemy.pronoun.subject> beraubte einen <individual> mit einer Waffe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/4", "value": "<enemy.pronoun.subject> flirtete mit einem <individual>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/5", "value": "<enemy.pronoun.subject> alle Tiere aus dem Zoo frei ließ"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/11", "value": "Schattenhafter"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/6", "value": "<enemy.pronoun.subject> den Gesamten Vorrat eines Planeten von <valuable> stahl"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/7", "value": "<enemy.pronoun.subject> einem <individual> sein <valuable> stahl"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "Krimineller"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/8", "value": "<enemy.pronoun.subject> in einen illegalen Pinguinkampf verwickelt war"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/5", "value": "Volltreffer"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/6", "value": "Schweigsamer"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/7", "value": "Unglücklicher"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/8", "value": "Abscheulicher"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/10", "value": "<enemy.pronoun.subject> versuchte einen <individual> auszurauben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/12", "value": "<enemy.pronoun.subject> die Gesamte Einrichtung einer Stadt stahl"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/13", "value": "<enemy.pronoun.subject> Löcher in Häuser buddelte, während die Bewohner schliefen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/14", "value": "<enemy.pronoun.subject> eine Gesamte Stadt mit Lava flutete"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/15", "value": "<enemy.pronoun.subject> nicht aufhörte, Dachziegel aus einer Stadt zu stehlen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/16", "value": "<enemy.pronoun.subject> wurde geschnappt als er versuchte, <valuable> zu schmuggeln"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/17", "value": "<enemy.pronoun.subject> bei einem gewagten Raubüberfall scheiterte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/1", "value": "Rotik"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/2", "value": "Callox"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/3", "value": "Graxus"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/18", "value": "<enemy.pronoun.subject> von einem Mitglied <enemy.pronoun.CapitalPossessive> Klans verraten wurde"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/19", "value": "der Klan sich gegen <enemy.pronoun.CapitalObject> wendete, nach ein paar schlechten Führungsentscheidungen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/11", "value": "<enemy.pronoun.subject> versuchte, einen ganzen Ozean zu stehlen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/0", "value": "company"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/0", "value": "Manaticon"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/4", "value": "Xia-Li"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/5", "value": "Shade Co."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/6", "value": "Necrolix"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/8", "value": "Tellurisches Protektorat"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/9", "value": "Miniknog"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/0", "value": "individual"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/0", "value": "Glitch König"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/1", "value": "Glitch Prinzessin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/2", "value": "Glitch Prinz"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/7", "value": "Teklacki"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/4", "value": "Banditen Anführer"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/6", "value": "Gruppe von berühmten reisenden Abenteurern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/7", "value": "mächtiger avianischer Sternendeuter"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/5", "value": "Bandit mit mächtigen Verbindungen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/8", "value": "gut vernetzter Bankier"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/10", "value": "Miniknog General"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/0", "value": "valuable"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/0", "value": "Gold"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/2", "value": "Waffen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/3", "value": "Diamanten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/0", "value": "request"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/0", "value": "bringe <enemy.pronoun.CapitalObject> um"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/0", "value": "Problem"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/1", "value": "Situation"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/0", "value": "Anerkennung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/9", "value": "Floraner Greenfinger"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/1", "value": "sortiere <enemy.pronoun.CapitalObject> aus"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/2", "value": "kümmer dich um <enemy.pronoun.CapitalObject>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/3", "value": "verpass <enemy.pronoun.object> eine Lektion"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/0", "value": "Problem"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/0", "value": "Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/1", "value": "Großartig! Wir können keinen Ärger mehr gebrauchen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/1", "value": "Besteck"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/4", "value": "Hühner"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/0", "value": "crimefloran"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/4", "value": "sie würden dich vermutlich erstechen, wenn sie die Chance haben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/0", "value": "sie jagen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/1", "value": "sie erstechen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/0", "value": "Floraner denkt, sie haben vielleicht gute Beute dabei!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/2", "value": "sie für Floraner ausmerzzzen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/2", "value": "Floraner weisss, zzzu wem er gehen musss, wenn gefährliche Banditen wieder kommen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Hassst du <enemy.name> erstochen? <appreciationfloran>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/3", "value": "Ich bin so froh, dass du hier bist um uns zu helfen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/0", "value": "appreciationfloran "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/0", "value": "Floraner issst beeindruckt! Floraner hat nicht gedacht, dasss du sie besiegen kannsst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/1", "value": "Floraner weisss, du bissst der beste Jäger weit und breit!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Hast du diesen Banditen gejagt? <appreciationfloran> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/3", "value": "wäre lustig, sie zu bekämpfen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/5", "value": "du hättest Spaß, sie zu jagen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/0", "value": "requestfloran "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Zufrieden. Hast du es geschafft, <enemy.name> zu besiegen? <appreciation>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Hast du es geschafft, <enemy.name> zu besiegen? <appreciation>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Hast du enemy.name>'s Gewaltserie ein Ende gemacht? <appreciation>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Ich schätze, ich konnte <questGiver> nicht helfen. Ich bin mir sicher, jemand anderes wird die gefährlichen Banditen besiegen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/2", "value": "Wer braucht schon Wachen, wenn du da bist? Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/1", "value": "sie würden Floraner nur Ärger machen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Besorgt. Hast du von ^orange;<enemy.name>, <adjective> <enemy>^white; gehört? Ich hörte, <enemy.pronoun.copulative> in der Nähe nachdem <crime>. Wir können so einen Ärger hier nicht gebrauchen. ^green;Kannst du zu der ^orange;<spawnPoint>^green; <spawnPoint.direction> gehen und <request>^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Töte <adjective> <enemy.name>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "<enemy.pronoun.subject> ein <company> Frachtschiff kaperte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/3", "value": "rennomierter Hylotl Dichter"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/2", "value": "sie klingen nicht sehr vertrauenswürdig, also solltessst du sie vielleicht einfach abstechen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Erleichtert. Hast du <enemy.name>'s Gewaltserie ein Ende gemacht? <appreciation>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Besorgt. Ein Bandit ist auf freiem Fuß! Gerüchten zufolge ist es ^orange;<enemy.name>, <adjective> <enemy>^white;. Zuletzt gesehen an der ^orange;<spawnPoint>^white; <spawnPoint.direction>. <enemy.pronoun.copulative> anscheinend auf der Flucht, seit <crime>. ^green;Kannst du <request>^white;, um die Dinge hier besser zu machen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Wir haben ein <problem>! Hast du von dem Banditen ^orange;<enemy.name>, <adjective> <enemy>^white; gehört? Ich hörte, <enemy.pronoun.copulative> in der Nähe, nachdem <crime>. Wir können so einen Ärger hier nicht gebrauchen. ^green;Kannst du zu der ^orange;<spawnPoint>^green; <spawnPoint.direction> gehen und <request>^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Verwirrt. Ich habe herausgefunden, dass ein gefährlicher Bandit in der Nähe ist..."
+	}
+]

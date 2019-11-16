@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Abwasserrohr für den Transport von Abfällen."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "SStinkende Kanalrohre."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angeekelt. Diese Pipe ist schmutzig, ich würde ungern sehen, was drin ist."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Verdrecktes, schmutzig aussehendes Abwasserrohr.\r\n"
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Abflussrohr"
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Helle Lichtstreifen."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Lichtstreifen"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Das Licht strömt von oben hinein."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ein himmlischer Glanz."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner liebt Ssssonnenlicht."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Das Licht beleuchtet die Ruinen gerade genug, um zu sehen."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Lichtstrahlen, die Stimmung einstellen!"
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Das Licht durchdringt die Dunkelheit wie Sonnenstrahlen auf einem Ozean."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Lichtstrahlen sind ruhig."
+	}
+]

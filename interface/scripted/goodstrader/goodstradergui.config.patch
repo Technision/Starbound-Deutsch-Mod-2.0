@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/gui/windowtitle/title", value": " Warenhändler"
+	},
+	{
+		"op": "replace", "path": "/gui/windowtitle/subtitle", value": " Handel mit Waren zwischen Stationen für Profit"
+	},
+	{
+		"op": "replace", "path": "/gui/btnBuy/caption", value": "KAUFEN"
+	},
+	{
+		"op": "replace", "path": "/gui/btnSell/caption", value": "VERKAUFEN"
+	}
+]

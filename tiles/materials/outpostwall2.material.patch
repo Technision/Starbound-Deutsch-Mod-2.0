@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Dicke Außenpostenwand"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein dicker Wandtyp, der an extreme Bedingungen angepasst ist."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Nix wird diese dicke Wand beweg'n."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Diese Wand issst so robussst."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Nichts wird diese strukturell verstärkte Wand bewegen."
+	}
+]

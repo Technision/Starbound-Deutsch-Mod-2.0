@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/floranDescription", "value": "Fleisch!"}, {"op": "replace", "path": "/description", "value": " Ein Klümpchen Fleisch."}, {"op": "replace", "path": "/shortdescription", "value": " Ein Klümpchen Fleisch."}, {"op": "replace", "path": "/glitchDescription", "value": "Abstoßend. Ein Klümpchen Fleisch."}]

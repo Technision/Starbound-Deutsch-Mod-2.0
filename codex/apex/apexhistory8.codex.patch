@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Apex Bezugsscheinheft unter Miniknog Regulation."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Apex Bezugscheinheft"
+	},
+	{
+		"op": "replace", "path": "/contentPages/0", "value": "MINIKNOG TÄGLICHE VERSORGUNGSZUTEILUNG FÜR BÜRGER\r\n\r\nZertifizierte Nährstoffpaste x 1\r\nZertifizierte Flasche Wasser x 1\r\nKopie des Daily Peel x 1\r\n\r\nZusätzliche Luxusartikel sind im Austausch für Informationen über Rebellenaktivitäten beziehbar\r\n\r\nBIG APE WACHT ÜBER EUCH! "
+	}
+]

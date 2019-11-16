@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Wenn es 200 Jahre überlebt, wird es ein Ixodoom.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ixoling Figur"
+	}
+]

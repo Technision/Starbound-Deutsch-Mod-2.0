@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Rau und nicht raffiniert ist dieses Holz, mit einem buntem Kern."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Unraffiniertes Regenbogenholz"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ungessschnittenesss Regenbogenholz."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Feststellung. Unraffiniertes Regenbogenholz."
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Bewältige den ^orange;Impulssprung Hindernisparcours^reset;"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Meine ^orange;Impulssprung-Tech^white; benötigt intensive Tests, bevor ich sie vertreiben kann. Mein neuer ^orange;Hindernisparcours^white; ist bereit und wartet schon!^green; Rede wieder mit mir, wenn du bereit bist, ihn auszuprobieren^white;."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Die ^orange;Impulssprung-Tech^white; scheint wunderbar zu funktionieren! Behalte sie, du hast es verdient. ^green;Besuche mich wieder, wenn du für neue Arbeit bereit bist^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Elliott^reset; beim ^orange;Außenposten^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Rede mit ^orange;Elliott^reset;, um den ^orange;Hindernisparcours^reset; zu betreten."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Zum richtigen Abschluss springen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Elliott"
+	}
+]

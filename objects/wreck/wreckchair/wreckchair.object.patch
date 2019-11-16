@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein schmutziger Stuhl. Im Stoff krabbeln Insekten."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kaputter Stuhl"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Insekten haben ein Zuhause im Inneren des Stuhles gefunden."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Der Stuhl ist mit Schmutz bedeckt."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Mit Dreck bedeckt und voller Käfer."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser Stuhl is' voller Käfer!"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Voller schwirrender Insekten."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Entsetzt. Dieser Stuhl ist von Käfern befallen."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein ekelhafter, schmutziger alter Stuhl."
+	}
+]

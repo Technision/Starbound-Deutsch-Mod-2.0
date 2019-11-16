@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/message", "value": "<questGiver> möchte ein <tradedMonster> gegen dein <monster> eintauschen. Der Handel ist permanent.\n\nMit dem Handel fortführen?"}, {"op": "replace", "path": "/title", "value": "Handle Ein Monster"}, {"op": "replace", "path": "/subtitle", "value": "<questGiver> will handeln!"}]

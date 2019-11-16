@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ich denke ein Snack aus diesem Automat wäre ein Fehler."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein alter Snackautomat! Alte Leckerein!"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Dieser Verkaufsautomat ist leer, Ich schätze die Crew stand auf Limo."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kaputter Verkaufsautomat"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Dieser Automat riecht nach verrottetem Esssen."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fassungslos. Dieser Verkaufsautomat riecht furchtbar!"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein alter Snackautomat. Jedes verbleibende Essen wäre schon längst verdorben."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein kränklicher Geruch von verdorbenem Essen kommt heraus."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich werd' nix daraus essen."
+	}
+]

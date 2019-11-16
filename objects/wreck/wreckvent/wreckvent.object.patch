@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Miefige Luft pfeift durch diese alte Lüftung."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kaputte Lüftung"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine staubige alte Lüftung."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Eine rostige alte Lüftung."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Eine muffige alte Lüftung."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Eine krussstige alte Lüftung."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Uninteressiert. Eine Lüftung."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Eine alte Lüftung. Sie ist komplett verrostet."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese olle Lüftung hat schon bessere Tage geseh'n."
+	}
+]

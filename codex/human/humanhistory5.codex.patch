@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "Notfallübertragung der Erde"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Die verzweifelte letzte Nachricht der Erde als Katastrophe."
+	},
+	{
+		"op": "replace", "path": "/contentPages/0", "value": "S.O.S. - RETTE UNSERE SPEZIES //\r\n\r\nDIE ERDE WIRD ANGEGRIFFEN VON EINEM NICHT IDENTIFIZIERBAREN ORGANISMUS. DIE ZERSTÖRUNG STEHT UNMITTELBAR BEVOR //\r\n\r\nEINE EVAKUIERUNG IST OHNE GRÖSSERE SIEDLUNG AUSSERHALB DES PLANETEN NICHT MÖGLICH //\r\n\r\nWENN SIE EIN MENSCH SIND, DER DIESE SENDUNG EMPFÄNGT, SIND WIR JETZT EINE VOM AUSSTERBEN BEDROHTE SPEZIES //\r\n\r\nDIE ZUKUNFT DES TELLURISCHEN PROTEKTORAT LIEGT NUN IN DEINEN HÄNDEN //"
+	}
+]

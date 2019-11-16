@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verwirrt. Die Glitch haben das Konzept von angeklebtem Wandpapier nie verstanden."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein paar klassische Tapeten, perfekt für den letzten Schliff."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Komischesss Papier bedeckt Wände."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Tapete. Perfekt, um was zu verschönern."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Klassische Tapeten"
+	}
+]

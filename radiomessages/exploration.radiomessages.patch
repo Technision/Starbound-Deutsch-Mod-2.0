@@ -1,0 +1,23 @@
+[
+	{
+		"op": "replace", "path": "/ancientgateway/text", "value": "Uralte Ruinen wie diese können in der ganzen Galaxie gefunden werden. Ich kann eine Raumanomalie in der Nähe feststellen... Vielleicht eine Art Teleportationsgerät?"
+	},
+	{
+		"op": "replace", "path": "/erchiussickness/text", "value": "Ich erkennen Wesen, die durch das Erchius Depot des Mondes angezogen werden. Ihr Interesse an dir wird steigen, je mehr Treibstoff du sammelst. Ich würde diese Wesen als \"unaufhaltsam tödlich\" bezeichnen. Ich habe Respekt vor deiner Furchtlosigkeit."
+	},
+	{
+		"op": "replace", "path": "/biomeradiation/text", "value": "WARNUNG! DAS STRAHLUNGSLEVEL AUF DIESEM PLANETEN IST EXTREM GEFÄHRLICH! \nOhne entsprechende Ausrüstung solltest du keine weitere Erforschung in Erwägung ziehen."
+	},
+	{
+		"op": "replace", "path": "/biomecold/text", "value": "WARNUNG! DIE TEMPERATUR AUF DIESEM PLANETEN IST GEFÄHRLICH GERING! \nOhne entsprechende Ausrüstung solltest du keine weitere Erforschung in Erwägung ziehen."
+	},
+	{
+		"op": "replace", "path": "/biomeheat/text", "value": "WARNUNG! DIE TEMPERATUR AUF DIESEM PLANETEN IST GEFÄHRLICH HOCH! \nOhne entsprechende Ausrüstung solltest du keine weitere Erforschung in Erwägung ziehen."
+	},
+	{
+		"op": "replace", "path": "/techconsole/text", "value": "Die Konsole in diesem Raum wurde konfiguriert, um ausgerüstete Tech-Fähigkeiten zu ändern. Interagiere damit, um neue Technologie zu installieren."
+	},
+	{
+		"op": "replace", "path": "/biomeairless/text", "value": "Es sei darauf hingewiesen, dass dieser Himmelskörper keine Atmosphäre hat, und du langsam erstickst. Ich empfehle zurückzukehren, nachdem du ein Atmungs EPP hergestellt hast."
+	}
+]

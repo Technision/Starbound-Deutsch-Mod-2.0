@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Ich habe ein paar kulturelle Recherchen durchgeführt und habe das Gefühl, dass es sehr wichtig wäre, wenn Big Ape in der Apex-Abteilung des Museums vertreten wäre. ^green;Könntest du mir bitte eine ^orange;Büste von Big Ape^green; besorgen^white;? Ich habe gehört, sie wären relativ allgegenwärtig, also solltest du eine in einer Apex-Siedlung finden können."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Sie wird perfekt für das Museum sein! Ich danke dir vielmals!"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Der Herrscher der Apex"
+	}
+]

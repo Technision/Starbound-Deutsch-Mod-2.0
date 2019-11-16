@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Dachziegel"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Dachzziegel"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beobachtend. Diese Dachziegel sind, für den Wasserablauf, geneigt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Fliesen sehen perfekt aus für ein Dach."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Verwitterte Dachziegel. Ihre Form macht mich irgendwie unruhig."
+	}
+]

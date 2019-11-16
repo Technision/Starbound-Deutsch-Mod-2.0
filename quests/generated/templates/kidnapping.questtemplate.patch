@@ -1,0 +1,383 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Mein Freund ^orange;<victimNpcType>^white; wollte mich vorhin besuchen, um zu <activity1>, aber ist nicht aufgetaucht! Ich habe ^orange;<enemy>^white; in der Nähe der ^orange;<spawnPoint>^white; <spawnPoint.direction> von hier gesehen.^green; Kannst du bitte <victimNpcType> retten^white;? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Suche die <spawnPoint> auf."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Töte die <enemy>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Gestresst. Mein Freund ^orange;<victimNpcType>^white; wollte mich vorhin besuchen, um zu <activity1>, aber <victimNpcType.pronoun.subject> ist nicht aufgetaucht! Ich habe orange;<enemy>^white; in der Nähe von ^orange;<spawnPoint>^white; <spawnPoint.direction> von hier gesehen.^green; Kannst du bitte <victimNpcType> retten^white;? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/6", "value": "Lerne, Dinge zusammenzubauen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/1", "value": "Ich konnte <questGiver> nicht helfen den Freund wiederzufinden. Ich bin sicher, sie finden auch ohne meine Hilfe einen Weg."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "Rettungsmission"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/floran/0", "value": "Ich konnte <questGiver> nicht helfen den Freund wiederzufinden. Ich bin sicher, sie finden auch ohne meine Hilfe einen Weg."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Keine Sorge - Ich bin sicher, <questGiver>´s Freund wird irgendwo in Sicherheit zurückkehren."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/2", "value": "Rette <questGiver>'s Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Ich war vorhin mit meinem Freund ^orange;<victimNpcType>^white; unterwegs, als wir getrennt wurden. Ich sah ^orange;<enemy>^white; herumschleichen und bin besorgt, dass <victimNpcType> entführt wurde!\r\nZuletzt habe ich <victimNpcType.pronoun.object> nahe der ^orange;<spawnPoint>^white; im <spawnPoint.direction> gesehen. ^green;Kannst du <victimNpcType.pronoun.object> für mich finden^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "Geiselnahme"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Aufgebracht. Ich mache mir Sorgen um meinen Freund <victimNpcType>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Mein Freund ist verschwunden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "Cousin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner's Freund issst verschwunden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/5", "value": "Datum"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/3", "value": "Mitarbeiter"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^Cyan; Besorgt. Mein Freund ist verschwunden!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/4", "value": "alter Freund "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Ich mache mir Sorgen um meinen Freund <victimNpcType>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "Freundfloraner"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "Jagdpartner"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "Sparringssspartner"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/3", "value": "Trainingspartner"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^Cyan; Floraner´s Freund issst verschwunden..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/2", "value": "heute früh"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/3", "value": "letzte Nacht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/4", "value": "gestern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/0", "value": "<activity1>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/1", "value": "rumhängen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/2", "value": "Schwertkampf"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/3", "value": "unangenehm zusammen stehen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/4", "value": "über eine <activity2> reden, die wir mögen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/7", "value": "Kartenspielen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/0", "value": "Ideen überlegen für <activity2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/5", "value": "Über unsere Träume reden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/8", "value": "Komödienroutine üben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/9", "value": "über unsere Gefühle reden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/10", "value": "Diskutieren über die Liebe für <activity3>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/0", "value": "<activity3>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/0", "value": "Poptops"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/11", "value": "outen für die verbotene Liebe für <activity3> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/13", "value": "aufholen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/0", "value": "<activity2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/2", "value": "Bizarre Kunst"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/0", "value": "Buch"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/1", "value": "Film"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/3", "value": "Schuhe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/2", "value": "Mahlzeit "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/1", "value": "Hüte"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/5", "value": "lange Spaziergänge"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/4", "value": "Zitronen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/6", "value": "Alpakas"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/7", "value": "Bäume, die wie Leute aussehen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/8", "value": "Raumfahrt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/9", "value": "interpretierender Tanz"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/3", "value": "Musical"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/3", "value": "Ich habe einen Verdacht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/10", "value": "Popkultur Referenzen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/0", "value": "gedreht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/0", "value": "gedreht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/1", "value": "gezeigt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/0", "value": "Verdacht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/0", "value": "Aktivität"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/0", "value": "joggen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/1", "value": "reden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/2", "value": "singen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/3", "value": "debattieren"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/4", "value": "laufen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/5", "value": "einholen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/6", "value": "üben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/7", "value": "chatten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/8", "value": "Käfer sammeln"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/2", "value": "Ich habe keinen Zweifel"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/9", "value": "hamstern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/10", "value": "erkunden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/11", "value": "einen Schatz suchen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/12", "value": "Vögel beobachten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/13", "value": "klettern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/14", "value": "versuchen, ein Baumhaus zu bauen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/15", "value": "auf der Suche nach einem Ort zum Schwimmen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/0", "value": "etwasss Kampftraining"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/1", "value": "etwasss Jagdtraining"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/2", "value": "Kossstüm herstellen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/4", "value": "private Gründe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/0", "value": "getrennt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/0", "value": "Wir wurden getrennt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/1", "value": "<victimNpcType.pronoun.subject> ist verschwunden"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/10/1/2", "value": "Ich konnte <victimNpcType.pronoun.object> plötzlich nicht mehr finden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/0", "value": "entführt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/1/3", "value": "etwasss Speer Training"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/0", "value": "entführt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/1", "value": "angeklagt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Dankbar. Danke für die Rettung von <victimNpcType> vor diesem <enemy>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/3", "value": "verletzt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/11/1/2", "value": "gefangen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/0", "value": "beteiligt Floraner"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/0", "value": "beteiligt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/0", "value": "Anerkennung "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/1", "value": "Du bist mein Held! Nimm das als Zeichen meiner Wertschätzung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/2", "value": "Ich bin sicher, dass <victim.pronoun.copulative> erleichtert ist, dich um sich zu haben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/3", "value": "Ich weiß nicht, wie ich ohne dich ausgekommen wäre!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Dankbar. Du bist im Stande gewesen, <victimNpcType> zu retten?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Du hassst <victimNpcType> gefunden? Floraner issst dankbar für Deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/1", "value": "Könnte beteiligt sein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/1", "value": "Könnte beteiligt sein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Du hast <victimNpcType> gerettet? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner's Freund ^orange;<victimNpcType>^white; wollte vorhin hier sein um <activityfloran>, aber Floraner hat ihn nicht gesehen! Floraner hörte, dassss da ein paar ^orange;<enemy>^white; in der Nähe der ^orange;<spawnPoint>^white; im <spawnPoint.direction> herumschleichen. Floraner denkt, dassss sie Freund haben.^green;Kannssst du dasss für Floraner untersuchen^white;? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/14/1/0", "value": "<victim.pronoun.capitalSubject> und ich sind sehr dankbar!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Bringe <victimNpcType> sicher zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "Kollege"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/1", "value": "Vor nicht allzu langer Zeit"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/12", "value": "unsere Wertschätzung für <activity3> vertiefen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/0", "value": "Ich bin sicher"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/1", "value": "Ich zweifle nicht daran"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/9/0", "value": "<activityfloran>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/12/1/0", "value": "Hat etwas damit zu tun"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/13/1/0", "value": "hat etwasss zu tun mit"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Du hassst <victimNpcType> gefunden? Danke! Floraner hätte esss machen können, wenn Floraner Waffen hätte..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke, dass du <victimNpcType> vor diesen <enemy> gerettet hast."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Besorgt. Ich war mit meinem Freund ^orange;<victimNpcType>^white; unterwegs, als wir getrennt wurden. Ich habe einige ^orange;<enemy>^white; gesehen, die herumgeschlichen sind und habe nun die Sorge, dass <victimNpcType> entführt wurde. Ich habe die Person zuletzt an der ^orange;<spawnPoint>^white; im <spawnPoint.direction> gesehen. ^green;Kannst du  <victimNpcType> für mich suchen^white;? "
+	}
+]

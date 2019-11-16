@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein robuster Wolframhebel. Forderung, gezogen zu werden."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Wolframhebel"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Dieser Hebel kann für viele Sachen genutzt werden."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ein nützlicher Hebel."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner zieht Hebel. Macht Dinge möglich."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Ein einfacher Hebel kann so viele verschiedene Mechanismen steuern."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein Hebel. Es muss gezogen werden."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein Hebel."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein Hebel, den ich ziehen möchte!"
+	}
+]

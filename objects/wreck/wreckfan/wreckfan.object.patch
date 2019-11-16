@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Alles verrostet, das ist gut für Nichts."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Die abgestandene Luft produziert nicht mehr als ein Knarren in diesem alten Ventilator."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörter Ventilator"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Die Lüfterflügel haben aufgehört sich zzzu drehen."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Trübsinning. Einst hat das frische Luft geliefert."
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein verrosteter alter Ventilator. Er dreht sich kaum."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Die Flügel sind verrostet."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ein Pfeifen der Luft gleitet durch."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Kaputt und alt, dieser Ventilator zirkuliert keine Luft mehr."
+	}
+]

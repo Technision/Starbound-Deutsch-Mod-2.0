@@ -1,0 +1,5 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/guiConfig/gui/windowtitle/title", "value": " Elektronischer Warenhändler"
+	}
+]

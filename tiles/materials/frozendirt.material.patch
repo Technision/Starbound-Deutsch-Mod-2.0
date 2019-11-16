@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Diese Erde ist festgefroren."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "geforene Erde"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Gefrorene Erde issst kalt bei Berührung."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese gefrorene Erde ist verdammt kalt."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Diese Erde ist festgefroren."
+	}
+]

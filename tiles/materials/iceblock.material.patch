@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Eisblock"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Solides Eis, in Blöcke geschnitten."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glatte Eisssblöcke."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Dieses Eis ist sehr präzise geschnitten."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'N Haufen Eis, in Blöcke geschnitten."
+	}
+]

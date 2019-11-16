@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/completionText", "value": "Ich bin so stolz auf dich! Nach allem, was du getan hast, bin ich mir sicher, dass du der Herausforderung gewachsen sein wirst, die uns bevorsteht. Und was die Frau angeht, gegen die du wiederholt gekämpft hast... ^orange;Mein altes Journal^white;sollte dir ein paar Antworten geben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/artifact", "value": "Finde das ^orange;Artefakt^reset; im ^orange;alten Glitchverlies^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^orange;Arche^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Besorge das Glitch Artefakt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/missionRadioMessage/text", "value": "Ich habe die Koordinaten für ^orange;Das Verlies des Barons^reset; erhalten.^green; Benutze den Computer^reset;, um auf den Ort zuzugreifen."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Das ^orange;Glitch Artefakt^reset; befindet sich in einem Schloss, unter der Obhut von einem etwas wunderlichen Glitch. ^green;Würdest du zu seinem Burgverlies reisen und mit ihm reden^reset;?"
+	}
+]

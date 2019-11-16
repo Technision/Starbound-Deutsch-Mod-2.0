@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einige dreckige alte Rohe."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ssssstinkende Abwassserrohre."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schweres Rohr"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein schweres Rohr, wird üblicherweise für Abfallanlagen eingesetzt."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angeekelt. Ich würde den Müll, der diese Rohre passiert hat, nicht sehen wollen."
+	}
+]

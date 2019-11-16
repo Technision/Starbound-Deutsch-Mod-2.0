@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein alter Kessel. Hört sich an als ob etwas tropft."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kaputter Kessel"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein alter, rostiger Beuler."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Der Kessel hat seine besten Tage hinter sich."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ein alter, verrosteter Kessel"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Trübsinnig. Wenn der Rost durch ist, wird der Kessel anfangen zu lecken."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Das Wasser da drin richt ekelhaft."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein alter Kessel voll mit stinkendem Wasser."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein wertloser, verrosteter Kessel"
+	}
+]

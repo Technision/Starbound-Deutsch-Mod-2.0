@@ -1,0 +1,9 @@
+[
+	{
+		"op": "replace", "path": "/descriptionLabel/value", "value": "Ernte Fleisch und andere Sachen von Monstern."},
+	{
+		"op": "replace", "path": "/maxDamageTitleLabel/value", "value": "Maximaler Schaden:"},
+	{
+		"op": "replace", "path": "/energyPerShotTitleLabel/value", "value": "Energie pro Schuss:"
+	}
+]

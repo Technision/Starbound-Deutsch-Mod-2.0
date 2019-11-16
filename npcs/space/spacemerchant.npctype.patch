@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "  Weltraumhändler"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": " Verkauft Gegenstände... vom WELTRAUM!"
+	}
+]

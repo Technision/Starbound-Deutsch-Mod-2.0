@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Der extrem dichte Kern eines toten Planeten. Nahezu unzerbrechlich."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Toter Kernblock"
+	}
+]

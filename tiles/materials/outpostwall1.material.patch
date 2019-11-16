@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser Beton sieht verdammt robust aus."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Dunkler Beton, speziell für Außenposten angefertigt."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Außenpostenbeton"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag frossstigen, harten Beton nicht."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Informiert. Dieser speziell angefertigte Beton trocknet sehr schnell."
+	}
+]

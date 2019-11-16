@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Impulsiv. Gib mir dein Schwert! ...Hm, vielleicht sollte ich etwas genauer werden. Gib mir dein ^orange;kaputtes Breitschwert^reset;, damit ich es reparieren kann! Esther brachte mir bei, wie - und es ist keine Herausforderung für einen Schwertkämpfer wie mich! ^white;Allerdings ^green;werde ich ^orange;10 Tech-Karten^green; benötigen, um es fertig zu machen^reset;."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green; Die Schmiede der Helden"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Stolz. Hier ist es. Besser, als neu! Bitteschön!"
+	}
+]

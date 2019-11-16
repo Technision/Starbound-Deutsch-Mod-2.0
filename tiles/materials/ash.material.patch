@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Haufen dichtgepackter Asche."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Aschehaufen"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Großßßer Haufen Asche."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neugierig. Ein Haufen gepackter Asche."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Großer, alter Haufen Asche."
+	}
+]

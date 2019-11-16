@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Kratzende Geräusche aus dem inneren... Ich denke etwas hat darin ein Nest gebaut."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verärgert. Diese Konsole ist defekt und nutzlos."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörte Konsole"
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Keine Chance dieses Ding wieder zum Laufen zu bringen."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Diesse Konssole ist defekt."
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine nutzlose kaputte Konsole."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Eine Konsole. Es funktioniert nicht."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Diese Konsole ist irreparabel beschädigt."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine zerstörte Konsole. Ich wunder' mich, ob das Ding je funktionierte."
+	}
+]

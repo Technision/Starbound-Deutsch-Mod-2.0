@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Diese Holztäfelung waren zu einem fernen Zeitalter modisch."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Seltsame Holzzzplatten für Dekoration."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verwirrt. Es scheint, als wären diese Holzplatten dekorativ."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Holztäfelung, das is', warum du weißt, dass dieser Ort modisch ist."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holztäfelung"
+	}
+]

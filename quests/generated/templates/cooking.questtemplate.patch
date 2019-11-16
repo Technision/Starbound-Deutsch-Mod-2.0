@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Mmmmm! Floraner kocht nicht gut, also war diesss ein hervorragender Plan!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Danke <player>, du bist gewisss ein besserer Koch als Floraner!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Fröhlich. <cookedItems> sieht großartig aus."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Jetzt kommt dasss Schlimmssste! Floraner hassst Kochen! ^green; Koche ^orange; <cookedItems> ^white; für Floraner mithilfe von ^orange;<ingredients>^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Verwirrt. Jetzt, wo du alle ^orange;Zutaten^white; hast, musst du sie irgendwie zu ^orange;<cookedItems>^white; machen. Ich überlasse dir diesen Part!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Du schienst keine Schwierigkeiten mit dem Kochen zu haben! Danke - Das ist genau was ich brauche, um meinen Plan zu vollführen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Wow! Das sieht köstlich aus! Ich wünschte, ich könnte es sofort essen, aber wir brauchen es noch für den nächsten Schritt..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Neidvoll. Ich bin dankbar, dass ich von deinen Kochkünsten lernen darf. Danke!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Gefasst. ^green; Nun musst du ^orange;<cookedItems>^white; aus ^orange;<ingredients>^green; bereiten. ^white; Simpel!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Als nächstesss, <player> musss für Floraner ^orange;<cookedItems> ^green; aus ^orange;<ingredients> ^green; kochen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Jetzt kommt der knifflige Teil - das kochen. Du solltest es schaffen ^orange;<ingredients>^white; zu ^orange;<cookedItems>^white; zu machen. Das Rezept scheint einfach, aber meine Kochanläufe schlugen alle fehl."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Die ^orange;<ingredients>^white; müssen erst noch zubereitet werden. Du solltest imstande sein ^orange;<cookedItems>^green; zuzubereiten ^white;. Warum versuchst du es nicht gleich mal?"
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Der Inhaber vom Beak Easy benötigt Unterstützung. Besiege Dreadwing."
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Dreadwing"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Fordere Dreadwing nochmal heraus"
+	}
+]

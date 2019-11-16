@@ -1,0 +1,74 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "Zuerst benötige ich <cropList>, allerdings ist im Moment nicht die richtige Saison. Du kennst dich aus mit sowas, oder? Ich habe hier ^orange;<seedList>^green; für dich, damit du ^orange;<cropList>^green; anbauen kannst. Könntest du mir die Ernte dann bringen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Zuerst musst du ^orange;<seedList> ^green;anpflanzen.^white; Gieße sie regelmäßig wenn sie es benötigen, ^green;sammle ^orange;<cropList>^green; und bringe mir deine reiche Ernte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/1", "value": "Danke! Floraner findet, dass man <cropList> hier nur schwer anbauen kann - du hast das gut gemacht!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Danke! Floraner versteht zzzwar nicht, warum jemand so etwasss esssen will, aber Floraner braucht esss gerade."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Ja, exakt dasss, wasss Floraner braucht! Du bissst der Bessste!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Verwirrt. Ich werde wohl nie erfahren wie du es geschafft hast, diese Samen so erfolgreich anzubauen, aber das ist jetzt auch nicht wichtig. Du hast meinen Dank."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/0", "value": "Ah, traumhaft reif! Du hast ein wahres Talent."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Rund und saftig! Danke dir!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Zufrieden. Du hast aus diesen Samen etwas gemacht, was ich selbst nie gekonnt hätte, du hast wirklich Talent als Farmer."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Skeptisch. Ich habe diese ^orange;Samen^white; von einem Händler gekauft, es aber bisher nicht geschafft, dass daraus etwas wächst. ^green;Könntest du etwas ^orange;<cropList>^white für mich anbauen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Freundlich. Zuerst ^green;benötige ich etwas ^orange;<cropList>^white;. Selbst ein Anfänger auf diesem Gebiet sollte das mithilfe dieser ^orange;Samen^white; und etwas Geduld schaffen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "<cropList>, wie bestellt. Gute Arbeit! Nun sollte man dieses Produkt gut nutzen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Du musssst zuerst diese^green; Samen pflanzen. ^white;Sobald die Pflanze gewachsen issst, ^green;bring Floraner ^orange;<cropList>. ^white;Aber vergisss nicht, die Samen ausreichend zzzu bewässsern!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Für Anfänger: ^green;Pflanze diese Samen, ^white;wässsere sie und sieh zzzu wie sie wachsssen. Wenn die Pflanzzze ausgewachsssen issst, ^green;bring Floraner ^orange;<cropList>^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Glücklich. Exzellente Arbeit, mein Plan geht langsam auf."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Fröhlich. Welch pralle Ernte! Danke!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/1", "value": "Wow, vielleicht liegt deine Zukunft ja auf einer Farm! <cropList> frisch aus dem Boden! Das passt wunderbar!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke! Sie sehen zwar etwas kleiner aus als erwartet, aber damit muss man rechnen wenn man biologisch anbaut!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Aufgeregt. Der nächste Teil meines Plans beinhaltet ^orange;<cropList>. Ich bin kein guter Gärtner, aber ich denke du kannst ein paar davon züchten. ^green;Hier, nimm diese ^orange; Samen^green; und bring mir, ^white;was ich brauche."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Jetzzzt braucht Floraner ^orange;<cropList>. ^green;Pflanzzze und bewässsere ^orange;<seedList>. ^white;Sobald die Pflanzzze großßße, weiche Früchte trägt, kannssst du sie ernten. ^green;Bring deinen Ertrag dann zurück zu Floraner."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Schüchtern. Ich hoffe ich verlange nicht zu viel, aber ^green;könntest du für mich ^orange;<seedList> ^green;anbauen. ^white;Und vielleicht ^green;das frische Produkt zurück zu mir bringen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Ich möchte, dass du ^orange;<seedList> ^green;anpflanzt^white;. Kümmere dich um sie, bis sie ausgewachsen sind und ^green;ernte ^orange;<cropList>^green;für mich."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Als nächstes brauchen wir ein paar Waren. Ich habe ^orange;<seedList>;white;, aber keinen Platz, wo ich sie anpflanzen könnte. Würdest es dir was ausmachen, ^green;sie heranwachsen zu lassen und mir die ^orange;<cropList>^green; zu bringen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Alsss Nächstesss braucht Floraner deine Hilfe, indem du mit ^green;diesen Samen ^orange;<cropList>^green; anbaust."
+	}
+]

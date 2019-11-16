@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/matterManipulator", "value": "Nimm den Materiemanipulator"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/escape", "value": "Entkomme der Zerstörung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/graduate", "value": "Besucht die Abschlusszeremonie"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Der Protektorat"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Die Jahre der Ausbildung sind vorbei - du hast den Abschlusstag überlebt!"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Überlebt den Abschlusstag."
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Obwohl er freundlich zu sein scheint, wird er selten mit anderen Pipkin interagieren.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Pipkin Figur"
+	}
+]

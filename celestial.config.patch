@@ -1,0 +1,101 @@
+[
+	{
+		"op": "replace", "path": "/systemTypes/Blue/variationParameters/0/description", "value": "Kleiner Blauer Stern"
+	},
+	{
+		"op": "replace", "path": "/satelliteTypes/Tier5/baseParameters/description", "value": "Level 5 Mond"
+	},
+	{
+		"op": "replace", "path": "/satelliteTypes/Moon/baseParameters/description", "value": "Gewöhnlicher Morastmond"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Orange/variationParameters/2/description", "value": "Großer orangener Stern"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Tier6/baseParameters/description", "value": "Level 6 Planet"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/AsteroidField/baseParameters/description", "value": "Asteroidenfeld"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Barren/baseParameters/description", "value": "Unfruchtbarer Planet"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Tier1/baseParameters/description", "value": "Level 1 Planet"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Blue/variationParameters/1/description", "value": "Mittelgroßer blauer Stern"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Tier3/baseParameters/description", "value": "Level 3 Planet"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/AncientGateway/baseParameters/description", "value": "Uraltes Tor"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Blue/variationParameters/2/description", "value": "Großer blauer Stern"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Yellow/variationParameters/1/description", "value": "Mittelgroßer gelber Stern"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Orange/variationParameters/1/description", "value": "Mittelgroßer orangener Stern"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Red/variationParameters/2/description", "value": "Großer roter Stern"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Tier5/baseParameters/description", "value": "Level 5 Planet"
+	},
+	{
+		"op": "replace", "path": "/satelliteTypes/Tier1/baseParameters/description", "value": "Level 1 Mond"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/White/variationParameters/2/description", "value": "Großer weißer Stern"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Tier2/baseParameters/description", "value": "Level 2 Planet"
+	},
+	{
+		"op": "replace", "path": "/satelliteTypes/Tier2/baseParameters/description", "value": "Level 2 Mond"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Orange/variationParameters/0/description", "value": "Kleiner orangener Stern"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Moon/baseParameters/description", "value": "Mond Planet"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/White/variationParameters/1/description", "value": "Mittelgroßer weißer Stern"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Yellow/variationParameters/0/description", "value": "Kleiner gelber Stern"
+	},
+	{
+		"op": "replace", "path": "/satelliteTypes/Tier6/baseParameters/description", "value": "Level 6 Mond"
+	},
+	{
+		"op": "replace", "path": "/satelliteTypes/Tier4/baseParameters/description", "value": "Level 4 Mond"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/Tier4/baseParameters/description", "value": "Level 4 Planet"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Yellow/variationParameters/2/description", "value": "Großer gelber Stern"
+	},
+	{
+		"op": "replace", "path": "/satelliteTypes/Tier3/baseParameters/description", "value": "Level 3 Mond"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Red/variationParameters/1/description", "value": "Mittelgroßer roter Stern"
+	},
+	{
+		"op": "replace", "path": "/planetaryTypes/GasGiant/baseParameters/description", "value": "Riesiger Gasplanet"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/White/variationParameters/0/description", "value": "Kleiner weißer Stern"
+	},
+	{
+		"op": "replace", "path": "/systemTypes/Red/variationParameters/0/description", "value": "Kleiner roter Stern"
+	}
+]

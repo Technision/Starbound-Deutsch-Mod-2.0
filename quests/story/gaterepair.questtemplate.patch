@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/collectRepairItem", "value": "Sammle ^orange;Kernfragmente^reset;"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Wir sind im Augenblick im Orbit einer unbekannten Welt. Das Schiff ist schwer beschädigt und wir können den Orbit nicht verlassen. Ich schlage vor, du ^green;verwendest den ^orange;Teleporter^white; und suchst auf dem Planeten nach Vorräten und vielleicht einer Möglichkeit, das Schiff zu reparieren."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/explore", "value": "Erkunde den ^orange;Planeten^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/repairGate", "value": "Öffne ^green;das Tor^reset; mithilfe der ^orange;Kernfragmente^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findEsther", "value": "Finde die Quelle der ^orange;geheimnisvollen Nachrichten^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGate", "value": "Finde die ^orange;Arkane Energiequelle^reset;"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Danken dass du mir hilfst, Liebling. Ich weiß, dass wir das schaffen können."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Der Anfang"
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/missionRadioMessage/text", "value": "Ich habe Koordinaten für die ^orange;Miniknog Festung^reset; erhalten. ^green;Benutzer den Bordcomputer^reset;, um auf die Koordinaten zuzugreifen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/artifact", "value": "Finde das ^orange;Artefakt^reset; innerhalb der ^orange;Miniknog-Festung^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei ^orange;der Arche^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Hol das Apex Artefakt"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Ich befürchte, das ^orange;Apex Arktefakt^reset; befindet sich in einer ^orange;Miniknog Festung^reset;. Es könnte sehr schwer sein, dort hineinzukommen. Bitte ^green;sei sehr vorsichtig dort unten^reset;. Die Miniknogs können sehr grausam sein."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Ich bin so erfreut, dass unsere Truppe wächst; dass wir auf der Suche nach den Artefakten Verbündete um uns versammeln. Ist fast so, als würde man ein neues Protektorat gründen..."
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Sieht Floraner nicht <adjective> ausss? Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Geh zu ^orange;<friend>^white; und bitte ihn, uns ^orange;spezielle Aurüstung^white; herzustellen. ^green;Nenne meinen Namen und gib <friend.pronoun.object> unsere ^orange;<clothingIngredients>^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Jetzzzt sieht Floraner <adjective> ausss, Floraner kann ein legendärer Jäger sein! Danke für deine Hilfe."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "<questGiver>'s Notwendigkeit"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Endlich. ^green; liefere unsere ^orange;<clothingIngredients>^green; zu ^orange;<friend>^green; und frag <friend.pronoun.CapitalObject>, ob <friend.pronoun.subject> uns etwas maßgeschneiderte Ausrüstung macht. Ich bin sicher <friend.pronoun.subject> kann das!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Eifrig. Kannst du ^green; die ^orange;<clothingIngredients>^green; zu ^orange;<friend>^green; bringen, ^white;damit <friend.pronoun.subject> mir etwas zum anziehen herstellen kann?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Gib <clothingIngredients> an <friend>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Bring das Päckchen zu <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Ich konnte <questGiver> nicht helfen, etwas neues zum Anziehen zu finden. Ich mag es sowieso wie <questGiver> bereits aussieht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/1", "value": "Ich habe versagt, <questGiver> zu helfen einen neuen Look zu finden. <questGiver.pronoun.capitalSubject> sieht bereits gut aus."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan; Eifrig. Ein Ritter wie ich, sollte sich von jedem anderen abheben! Ich denke, ich weiss wie das klappen könnte..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Ehrgeizig. Ein Ritter wie ich sollte <adjective> aussehen! Ich weiss genau, was zu tun ist..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Ich möchte als Wache auffallen! Wirst du mir helfen etwas zu finden, dass mich <adjective> aussehen lässt?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;So gute Wachen wie ich sollten herausstechen! Kannst du mir helfen <adjective> auszusehen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner will ein bessser anerkannter Jäger sein! Kannssst du Floraner helfen <adjective> aussszzzusehen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner musss <adjective> ausssehen, um vor den anderen Jägern aufzzzufallen. Floraner hat einen Plan..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Allesss, wasss noch fehlt, issst ^green;die ^orange;<clothingIngredients>^green; zu nehmen und zu <friend> zu bringen^white;, damit <friend.pronoun.subject> Floraner ^orange;etwas zum Anziehen^white; machen kann. Beeilung!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Zuversichtlich. Alles was noch fehlt, ist die ^orange;<clothingIngredients>^green; zu ^orange;<friend>^green; zu bringen^white;, damit <friend.pronoun.subject> mir damit ^orange;etwas zum Anziehen^white; herstellen kann."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Jetzzzt braucht Floraner dich, um ^orange;<clothingIngredients>^green; zu ^orange;<friend>^green; zu bringen^white;. <friend.pronoun.CapitalSubject> kann damit Floraner etwasss zzzum Anzzziehen machen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "<questGiver>, die <adjective> Wache"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Zufrieden. Jetzt, da ich <adjective> aussehe, werden unsere Feinde es sich zweimal überlegen, bevor sie uns herausfordern!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Was denkst du? Ist <adjective> auszusehen gut um aufzufallen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Danke! Niemand wird sich mit mir anlegen, da ich nun <adjective> aussehe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Beeindruckt. Ich sehe sehr <adjective> aus, nicht? Danke für all deine Hilfe."
+	}
+]

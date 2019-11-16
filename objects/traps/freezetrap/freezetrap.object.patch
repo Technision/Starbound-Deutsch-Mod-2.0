@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Dieses Gerät wird benutzt um rapide Materialien einzufrieren."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kryogener Blaster"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Der von diesem Gerät ausgehende Strahl kühlt dich ab bis zu den Knochen."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ein Einfriermechanismus."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Eis kann gefährlich sssein."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vorsichtig. Es ist ein Gefriergerät mit hoher Intensität."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Achten Sie auf den kalten Strahl."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Eis, Wasser in seiner tödlichsten Form."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieser kryogene Blaster könnte einem Messingaffen die Pfoten einfrieren."
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Nuru^reset; am ^orange;Außenposten^reset; zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Gewinn den Arenakampf"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Sprich mit ^orange;Nuru^reset;, um zur ^orange;Arena^reset; zu reisen."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Jemand anderesss hat dich zum Kampf in der Arena herausssgefordert! Es issst ein floranischer Tierbändiger namensss ^orange;Volo^white;. ^green;Komm zzzu mir wenn du bereit bissst, zzzu gehen^white;."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Der Ruhm im Inneren"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hast Volo besiegt! Das ist ein Spaß. Hier ist deine zweite Trophähe!"
+	}
+]

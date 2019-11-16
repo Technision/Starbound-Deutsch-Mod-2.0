@@ -1,0 +1,16 @@
+[
+	{"op": "replace", "path": "/converse/default/default/0", "value": "Bedrohlich. Dem Blick der \"All-Seeing Knights\" entgeht nichts."},
+	{"op": "replace", "path": "/converse/default/default/1", "value": "Praktisch. Die \"All-Seeing Knights\" helfen denen, die uns helfen."},
+	{"op": "replace", "path": "/converse/default/default/2", "value": "Unheilvoll. Wir haben gesagt, diejenigen, die uns Häuser geben, solange wir sehen, passen..."},
+	{"op": "replace", "path": "/converse/default/default/3", "value": "Nachdenklicher. Das Symbol des Auges ist eines, dass ewige starrt."},
+	{"op": "replace", "path": "/converse/default/default/4", "value": "Einschüchternd. Keiner kann den Blick der \"All-Seeing Knights\" entkommen!"},
+	{"op": "replace", "path": "/rent/default/default/0", "value": "Dankbar. Du hast mir geholfen, und die \"All-Seeing Knights\" zahlen immer ihre Schuld. "},
+	{"op": "replace", "path": "/rent/default/default/1", "value": "Dankbar. Hier ist ein Zeichen meiner Dankbarkeit, dafür das du mir ein Haus bereitgestellt hast."},
+	{"op": "replace", "path": "/beacon/default/default/0", "value": "Respektvoll. Brauchst du mich?"},
+	{"op": "replace", "path": "/beacon/default/default/1", "value": "Geduldig. Brauchst du die \"All-Seeing Knights\"?"},
+	{"op": "replace", "path": "/beacon/default/default/2", "value": "Aufmerksam. Ich SEHE, meine Anwesenheit wird benötigt."},
+	{"op": "replace", "path": "/final/default/default/0", "value": "Einschüchternd. Es ist nicht klug, die \"All-Seeing Knights\" respektlos zu behandeln!"},
+	{"op": "replace", "path": "/final/default/default/1", "value": "Bedrohlich. Deine Respektlosigkeit ist nicht unbeobachtet geblieben..."},
+	{"op": "replace", "path": "/severe/default/default/0", "value": "Wütend. Ich kann SEHEN, dass es hier ein Problem gibt!"},
+	{"op": "replace", "path": "/severe/default/default/1", "value": "Frustriert. Kannst du das Problem nich SEHEN?"}
+]

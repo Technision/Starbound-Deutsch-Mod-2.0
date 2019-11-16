@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/speedStatLabel/value", "value": "Geschwindigkeit"
+	},
+	{
+		"op": "replace", "path": "/controlStatLabel/value", "value": "Wendigkeit"
+	}
+]

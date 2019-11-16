@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Bringe <receivedItems> zu  <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": " Nun ist vor kurzem der reisende Händler ^orange;<target>^white; beim ^orange;<spawnPoint>^white; <spawnPoint.direction> angekommen und <target.pronoun.capitalSubject> ist damit einverstanden, uns die benötigten ^orange;<receivedItems>^white; im Tausch gegen ^orange;<givenItems>^white; zur Verfügung zu stellen. Könntest du ^green; die Waren zu ^orange;<target>^green; bringen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Heiter. Nun ist vor kurzem der reisende Händler ^orange;<target>^white; beim ^orange;<spawnPoint>^white; <spawnPoint.direction> angekommen und <target.pronoun.capitalSubject> ist damit einverstanden, uns die benötigten ^orange;<receivedItems>^white; im Tausch gegen ^orange;<givenItems>^white; zur Verfügung zu stellen. Könntest du ^green; die Waren zu ^orange;<target>^green; bringen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Alsss nächstesss musss Floraner einen Handel mit dem reisenden Händler ^orange;<target>^white; machen - Floraner gibt ihm ^orange;<givenItems>^white;, um ^orange;<receivedItems>^white; zzzu bekommen. Der Händler kam vor einiger Zzzeit nahe beim ^orange;<spawnPoint>^white;<spawnPoint.direction> an. ^green; Könntessst du den Handel für Floraner abschliesssen^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Gib <givenItems> an <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Danke! Die <receivedItems> werden für den nächsssten Teil meinesss Plansss nützzzlich sein..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Anerkennend. Danke! Die <receivedItems> werden für den nächsten Teil meines Plans nützlich sein..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke! Die <receivedItems> werden für den nächsten Teil meines Plans nützlich sein..."
+	}
+]

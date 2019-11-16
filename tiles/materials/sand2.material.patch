@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Weicher und warmer Sand."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Sand"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Staubiger Sand."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neugierig. Dieser Sand ist so fein, er fühlt sich sehr weich an."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Verdammt weich aussehender Sand."
+	}
+]

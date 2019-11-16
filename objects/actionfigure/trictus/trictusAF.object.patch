@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Seine Nahrung besteht aus kleinen Mengen Wasser, die es beim Graben in den Boden findet.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Trictus Figur"
+	}
+]

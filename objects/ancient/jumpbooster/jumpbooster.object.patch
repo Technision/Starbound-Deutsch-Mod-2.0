@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das freigesetzt Gas von diesem Objekt erhöht deine Sprungkraft."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Sprung Verstärker"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Wenn ich über diesem Lüfter stehe, wird es meine Sprungkraft verstärken."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Dieser Lüfter erhöht die Höhe, die ich Springen kann."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Nachdem durchgehen dieses Gasessss, Floraner kann springen wie ein Monster."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufgeregt. Dieser Dampf wird mir erlauben, sehr hoch zu springen."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Es kann gefährlich aussehen, aber dieses Gas hat vorteilhafte Eigenschaften."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Mit den Kräften dieses Dampfes, kann ich neue Höhen erreichen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Dieses Gerät steigert meine Sprünge."
+	}
+]

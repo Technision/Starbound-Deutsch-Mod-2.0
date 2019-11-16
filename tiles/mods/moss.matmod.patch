@@ -1,0 +1,5 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Moos, das von der Decke hängt."
+	}
+]

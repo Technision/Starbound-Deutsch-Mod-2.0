@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Bauplan für ein High-Tech Mech-Teil"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "High-Tech Mech-Teil"
+	}
+]

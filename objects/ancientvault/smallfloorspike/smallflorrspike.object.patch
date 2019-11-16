@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Es ist ein Stachel"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kleiner Stachel"
+	}
+]

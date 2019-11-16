@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Sein heißer Kern produziert eine konstante fließende Lava. Es wirft einen guten Schlag\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Pyromantle Figur"
+	}
+]

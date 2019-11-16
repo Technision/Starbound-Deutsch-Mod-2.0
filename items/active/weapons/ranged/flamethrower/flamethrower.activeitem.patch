@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Flammenwerfer ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Liebe den Geruch von Napalm, zu jeder Tageszeit."}, {"op": "replace", "path": "/shortdescription", "value": "Flammenwerfer"}]

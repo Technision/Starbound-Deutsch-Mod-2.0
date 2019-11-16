@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Wow, das sieht scharf aus!"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Antike Säge falle"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Sieht scharf aus."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Sieht scharf aus."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Erschreckend sssscharf. Floraner muss vermeiden."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Besorgt. Dies scheint sich mit 4000 Umdrehungen pro minute zu drehen."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Woah. Ich habe hier vorsichtig zu sein."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ich bin nicht daran interessiert Sushi zu werden."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das sieht nicht freundlich aus."
+	}
+]

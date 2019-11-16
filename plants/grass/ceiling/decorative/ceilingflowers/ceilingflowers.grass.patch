@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Eine Blume."}, {"op": "replace", "path": "/shortdescription", "value": "Eine Blume."}, {"op": "replace", "path": "/floranDescription", "value": "Blume."}, {"op": "replace", "path": "/glitchDescription", "value": "Aussage. Eine Blume."}]

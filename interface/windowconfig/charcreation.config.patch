@@ -1,0 +1,20 @@
+[
+	{ "op": "replace", "path": "/paneLayout/labelPortrait/value", "value": "MENSCH" },
+	{ "op": "replace", "path": "/paneLayout/cancel/caption", "value": "Abbrechen" },
+	{ "op": "replace", "path": "/paneLayout/mode/buttons/0/data/description", "value": "Kein Hunger; keine Strafen, wenn man stirbt." },
+	{ "op": "replace", "path": "/paneLayout/mode/buttons/1/data/description", "value": "Hunger; Verlust von Sachen, wenn man stirbt." },
+	{ "op": "replace", "path": "/paneLayout/labelGender/value", "value": "^#8d8d8d;GESCHLECHT" },
+	{ "op": "replace", "path": "/paneLayout/labelDifficulty/value", "value": "^#8d8d8d;SCHWIERIGKEIT" },
+	{ "op": "replace", "path": "/paneLayout/saveChar/caption", "value": "Fertig" },
+	{ "op": "replace", "path": "/paneLayout/labelCustomise/value", "value": "^#8d8d8d;ANPASSEN" },
+	{ "op": "replace", "path": "/paneLayout/labelRandomise/value", "value": "ZUFÄLLIG:" },
+	{ "op": "replace", "path": "/paneLayout/labelHardcoreMode/value", "value": "HARDCORE" },
+	{ "op": "replace", "path": "/paneLayout/name/hint", "value": "Name" },
+	{ "op": "replace", "path": "/paneLayout/labelSurvivalMode/value", "value": "ÜBERLEBEN" },
+	{ "op": "replace", "path": "/paneLayout/labelName/value", "value": "^#8d8d8d;NAME" },
+	{ "op": "replace", "path": "/paneLayout/labelToggleClothing/value", "value": "Zeige Kleidung " },
+	{ "op": "replace", "path": "/paneLayout/lblSkipIntro/value", "value": "Intro-Mission überspringen" },
+	{ "op": "replace", "path": "/paneLayout/labelCasualMode/value", "value": "CASUAL" },
+	{ "op": "replace", "path": "/paneLayout/labelSpeciesRadio/value", "value": "^#8d8d8d;SPEZIES" },
+	{ "op": "replace", "path": "/paneLayout/mode/buttons/2/data/description", "value": "Wenn du stirbst, bleibt dein Charakter tot!" }
+]

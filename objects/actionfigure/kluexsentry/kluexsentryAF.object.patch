@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Eine Stein Tempel Wache, animiert mit uralter Technologie.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kluex Wachen Figur"
+	}
+]

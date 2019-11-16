@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "  Industriehändler"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "  Verkauft Industrielle Möbel!"
+	}
+]

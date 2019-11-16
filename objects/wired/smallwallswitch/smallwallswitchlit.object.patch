@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Umlegen, geil."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kleiner Wand Schalter (Leicht)"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein Schalter. Es aktiviert etwas."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Dieser Schalter muss etwas aktivieren."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ssschalter!"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Überrascht. Dieser kleine Schalter sieht nicht so mächtig aus."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Wie oft kann ich diesen Schalter ein- und ausschalten, frage ich mich."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ein grundlegender Schalter. Es kann benutzt werden, um etwas zu aktivieren."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich kann diesen hier umlegen."
+	}
+]

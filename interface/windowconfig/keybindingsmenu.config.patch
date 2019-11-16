@@ -1,0 +1,173 @@
+[
+	{
+		"op": "replace", "path": "/keyActions/player/0/label", "value": "Nach oben Bewegen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/1/label", "value": "Nach links bewegen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/2/label", "value": "Nach rechts bewegen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/3/label", "value": "Ducken"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/4/label", "value": "Springen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/5/label", "value": "Gehen / MM-Präzision"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/6/label", "value": "Interagieren "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/7/label", "value": "Gegenstand fallenlassen "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/8/label", "value": "Oberfläche modifizieren"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/9/label", "value": "Aktiviere Kopftechnologie"
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/10/label", "value": "Ausdruck \"Blabla\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/11/label", "value": "Ausdruck \"Schreien\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/12/label", "value": "Ausdruck \"Glücklich\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/13/label", "value": "Ausdruck \"Traurig\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/14/label", "value": "Ausdruck \"Neutral\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/15/label", "value": "Ausdruck \"Lachen\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/16/label", "value": "Ausdruck \"Verärgert\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/17/label", "value": "Ausdruck \"Oh\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/18/label", "value": "Ausdruck \"Oooh\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/19/label", "value": "Ausdruck \"Blinzeln\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/20/label", "value": "Ausdruck \"Zwinkern\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/21/label", "value": "Ausdruck \"Hungrig\" "
+	},
+	{
+		"op": "replace", "path": "/keyActions/player/22/label", "value": "Ausdruck \"Müde\" "
+	}, 
+	{
+		"op": "replace", "path": "/keyActions/toolbar/0/label", "value": "Aktionsleiste wechseln"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/1/label", "value": "Hände abwählen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/2/label", "value": "Platz 1 Auswählen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/3/label", "value": "Platz 2 Auswählen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/4/label", "value": "Platz 3 Auswählen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/5/label", "value": "Platz 4 Auswählen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/6/label", "value": "Platz 5 Auswählen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/7/label", "value": "Platz 6 Auswählen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/8/label", "value": "Materiemanipulator"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/9/label", "value": "Kabelmodus"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/10/label", "value": "Farbmodus"
+	},
+	{
+		"op": "replace", "path": "/keyActions/toolbar/11/label", "value": "Untersuchen / Scanmodus"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/0/label", "value": "Benutzbares markieren"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/1/label", "value": "Umsehen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/3/label", "value": "Chat Seite Hoch"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/2/label", "value": "Chat Seite Runter"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/4/label", "value": "Chat Vorherige Zeile"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/5/label", "value": "Chat Nächste Zeile"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/6/label", "value": "Chat Sende Zeile"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/7/label", "value": "Starte Chat"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/8/label", "value": "Starte Chat Befehl"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/9/label", "value": "Letzten Befehl wiederholen"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/10/label", "value": "Vollbildmodus wechseln"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/11/label", "value": "Öffne Inventar"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/12/label", "value": "Öffne Kodex"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/13/label", "value": "Öffne Questjournal"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/14/label", "value": "Öffne Herstellungsmenü"
+	},
+	{
+		"op": "replace", "path": "/keyActions/game/15/label", "value": "Verstecke Hud"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/accept/caption", "value": "Annehmen"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/cancel/caption", "value": "Zurück"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/setDefault/caption", "value": "Standard"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/categories/tabs/0/tabTitle", "value": "SPIELER"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/categories/tabs/1/tabTitle", "value": "WERKZEUGLEISTE"
+	},
+	{
+		"op": "replace", "path": "/paneLayout/categories/tabs/2/tabTitle", "value": "SPIEL"
+	}
+]

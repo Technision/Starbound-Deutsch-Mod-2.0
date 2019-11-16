@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kakteenblock"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag pieksssende Kaktusssblöcke."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vorsichtig. Dieser Block wurde aus einem stachligem Kaktus hergestellt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Es ist aus einem Kaktus gemacht. Besser nicht daran anlehnen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein Block der aus einem Kaktus hergestellt wurde. Immernoch stachlig."
+	}
+]

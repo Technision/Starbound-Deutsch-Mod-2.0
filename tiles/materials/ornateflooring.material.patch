@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner fühlen sich guuut über verzierten Boden zu gehen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "wunderbar verzierter Boden"
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Verzierter Boden"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Voll toller, verzierter Boden"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Entzückend. Ein wunderschöner, verzierter Boden aus Holz."
+	}
+]

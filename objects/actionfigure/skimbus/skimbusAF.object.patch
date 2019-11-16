@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Sein leichtgewichtig Körper fliegt in die Richtung des Windes.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Skimbus Figur"
+	}
+]

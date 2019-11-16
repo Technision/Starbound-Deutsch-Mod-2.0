@@ -1,0 +1,59 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Eifrig. Als nächstes werden wir ^orange;<items>^white; benötigen. Sie sollten eigentlich vom wandernden Händler ^orange;<target>^white; geliefert werden, aber ich glaube, <target.pronoun.subject> schaffte es, irgendwo beim ^orange;<spawnPoint>^white;<spawnPoint.direction> verloren zu gehen. Könntest du ^green;mich dort hinbringen^white;, damit wir <target> finden und ^green;die Waren retten können^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Als erssstesss werden wir ^orange;<items>^white; benötigen. Sie sollten eigentlich vom wandernden Händler ^orange;<target>^white; geliefert werden, aber Floraner glaubt, dasss <target.pronoun.subject> irgendwo beim ^orange;<spawnPoint>^white;<spawnPoint.direction> verloren gegangen issst. Könntessst du ^green;Floraner dort hinbringen^white;, damit Floraner <target> finden und ^green;die Waren retten kann^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Eifrig. Als nächstes werden wir ^orange;<items>^white; benötigen. Sie sollten eigentlich vom wandernden Händler ^orange;<target>^white; geliefert werden, aber ich glaube, <target.pronoun.subject> schaffte es, irgendwo beim ^orange;<spawnPoint>^white;<spawnPoint.direction> verloren zu gehen. Könntest du ^green;mich dort hinbringen^white;, damit wir <target> finden und ^green;die Waren retten können^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Als erstes werden wir ^orange;<items>^white; benötigen. Sie sollten eigentlich vom wandernden Händler ^orange;<target>^white; geliefert werden, aber ich glaube, <target.pronoun.subject> schaffte es, irgendwo beim ^orange;<spawnPoint>^white;<spawnPoint.direction> verloren zu gehen. Könntest du ^green;mich dort hinbringen^white;, damit wir <target> finden und ^green;die Waren retten können^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Bringe <questGiver> zu <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Kehre zu <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "appreciation"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "Floraner schätzzzt die Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "Danke, dasss du Floraner ausssgeholfen hassst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "appreciationfloran"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "Danke, dass du mich begleitet hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "<appreciationfloran> Könntessst du diese <items> für den nächsssten Teil meinesss Plansss aufbewahren?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "Du hast wirklich gut bei mir ausgeholfen, danke!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "Danke, dass du bei mir ausgeholfen hast!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "Danke, dasss du Floraner hierher essskortiert hassst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "<appreciation> Könntest du diese <items> für den nächsten Teil meines Plans aufbewahren?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Als erssstesss werden wir ^orange;<items>^white; benötigen. Sie sollten eigentlich vom wandernden Händler ^orange;<target>^white; geliefert werden, aber Floraner glaubt, dasss <target.pronoun.subject> irgendwo beim ^orange;<spawnPoint>^white;<spawnPoint.direction> verloren gegangen issst. Könntessst du ^green;Floraner dort hinbringen^white;, damit Floraner <target> finden und ^green;die Waren retten kann^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Als nächstes werden wir ^orange;<items>^white; benötigen. Sie sollten eigentlich vom wandernden Händler ^orange;<target>^white; geliefert werden, aber ich glaube, <target.pronoun.subject> schaffte es, irgendwo beim ^orange;<spawnPoint>^white;<spawnPoint.direction> verloren zu gehen. Könntest du ^green;mich dort hinbringen^white;, damit wir <target> finden und ^green;die Waren retten können^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Dankbar. <appreciation> Könntest du diese <items> für den nächsten Teil meines Plans aufbewahren?"
+	}
+]

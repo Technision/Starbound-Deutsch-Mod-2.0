@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Diese Anlage ist die Hauptquelle für Erchiuskristalle, mit denen du den Hyperantrieb deines Schiffes betanken kannst."
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Erchius-Bergbauanlage"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Besuche nochmal die Erchius-Bergbauanlage"
+	}
+]

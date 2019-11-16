@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Der Scandroide ist auf endloser Suche. Niemand was wozu.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Scandroide Figur"
+	}
+]

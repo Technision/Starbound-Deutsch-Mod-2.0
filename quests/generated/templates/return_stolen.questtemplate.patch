@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Nimm <victim>'s <item> aus <thief>'s Haus"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Gute Arbeit! <victim> wird ziemlich dankbar darüber sein, dass ich dabei half, <victim.pronoun.possessiveDet> <item> zurückzuholen. Wir geben ein gutes Bürgerwehr-Duo ab!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Wow, das sah bei dir so leicht aus! <victim> wird damit zufrieden sein, dass wir <victim.pronoun.possessiveDet> <item> wiederbesorgen konnten. Hast du sowas schonmal gemacht? Mit so einem speziellen Werkzeug läuft man keine Gefahr, irgendwelche Fingerabdrücke zu hinterlassen..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/1", "value": "Gute Arbeit! <victim> wird mit mir zufrieden sein, sobald <victim.pronoun.subject> sieht, dass <victim.pronoun.possessiveDet> <item> wieder amrechten Platz ist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/1", "value": "Verschlagen. Danke, dass du den <item> für <victim> besorgt hast! Ich hoffe, dir macht es nichts aus, wenn ich dafür die Loorbeeren einheimse. Ich werde dann ganz sicher <victim>'s Vertrauen verdient haben!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/0", "value": "Das war ziemlich beeindruckend! Ich mag auch, wie du keine Fingerabdrücke hinterlassen hast - schlau mitgedacht. Warte nur, bis <victim> davon hört!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "Hilf bei <victim> aus"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "<questGiver>, die Bürgerwehr"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Bringe <item> zu <victim>'s Haus zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/0", "value": "Zufrieden. Gut gemacht! <victim> wird so zufrieden sein, sein <item> zurück zu haben. Bist du vielleicht gewillt, noch etwas für mich zu tun?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/0", "value": "Sssuperb! <victim> wird so dankbar sein, sein <item> zzzurück zzzu haben. Jetzzzt braucht Floraner mehr Hilfe."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/1", "value": "Du hassst esss geschafft! Hoffentlich <thief> bereut <thief.pronoun.possessiveDet> Verbrechen. Floraner wird seine Augen offen halten, damit dasss nicht nochmal passsiert!"
+	}
+]

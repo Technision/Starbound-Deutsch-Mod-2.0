@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein etwas billiges Material, das den meisten Witterungsbedingungen standhält."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Dieses etwas preiswerte Material kann den meisten Witterungsbedingungen standhalten."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Dieses Weltraummetall sieht sssssehr stark aus."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein robustaussehendes Metall."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Einlageplatte"
+	}
+]

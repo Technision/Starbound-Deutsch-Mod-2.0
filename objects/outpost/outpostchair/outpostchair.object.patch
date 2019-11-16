@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Ein Stuhl. Du sitzt auf ihn. Ja."}, {"op": "replace", "path": "/floranDescription", "value": "Sssitz!"}, {"op": "replace", "path": "/humanDescription", "value": "Ein anständiger Stuhl."}, {"op": "replace", "path": "/avianDescription", "value": "Ein einfacher Stuhl."}]

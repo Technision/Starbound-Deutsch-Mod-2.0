@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Esther's Nachforschungen ergeben, dass dies die wahrscheinliche Position des floranischen Artefaktes ist."
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Die Zeremoniellen Jagdhöhlen"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Besuche nochmal Die Zeremoniellen Jagdhöhlen."
+	}
+]

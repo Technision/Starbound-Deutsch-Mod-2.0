@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Zufrieden. Dies sind gut bearbeitete Holzbretter."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Holz, das für das Bauen und Herstellen vorbereitet wurde."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Bauholz"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Splittrige Holzzzbretter."
+	}, 
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein paar Bretter aus Holz gemacht."
+	}, 
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein paar einfache Planken die aus Holz gemacht sind."
+	}, 
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Holz das zu Brettern verarbeitet wurde."
+	}, 
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Einfache Holzbretter."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einfache, simpel aussehende Holzbretter."
+	}
+]

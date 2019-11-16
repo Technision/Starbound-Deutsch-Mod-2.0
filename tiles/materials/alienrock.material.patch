@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erstaunt. Dieser Stein ist außerirdischer Herkunft."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Dieser merkwürdige Stein kommt aus einer außerirdischen Welt."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Alienstein"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag Geheimnisssvolle Steine."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein irgendwie außerirdisch aussehender Stein."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Unbeeindruckt. Es ist nur Erde durchtränkt mit Wasser."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Feuchte Erde"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Nicht wirklich Matsch, nicht wirklich Erde... es ist feuchte Erde."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Feuchte Erde issst gut für Pflanzzzen."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Nur feucht ausseh'nde Erde."
+	}
+]

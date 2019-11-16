@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "Deine eigene Raumstation"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Wolltest du schon immer deine eigene Raumstation besitzen? Ich kann für dich einen eigenen ^orange;Stations Transponder^white; herstellen und das für nur ein paar Zutaten! \nBringe jeweils ^green;50 Titan, Gold, Silber Barren^white; und ^green;1000^orange; Pixels^green zu mir oder zu einem anderen Transponderverkäufer^white!"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Hier ist dein eigener ^orange;Stations Transponder^white;! ^green;Benutze es während du auf deinem Schiff bist^white, um die Raumstation zu stationieren in dem localen Sonnensystem!"
+	}
+]

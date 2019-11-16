@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/completionText", "value": "Vielen, vielen Dank für all deine Mühen - meine Sammlung ist endlich vollständig und mein Museum bereit für die Eröffnung! Ich hoffe, Nuru wird es gefallen... ^green;Du kannst das Museum mit dem ^orange;Teleporter^green; neben ^orange;2 Stop Teleshop^green; erreichen^white;."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Die finale Besorgung"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Das Museum ist so gut wie fertig, aber ich benötige noch eine letzte Sache, um die Hylotl-Ausstellung zu vervollständigen. Kannst du mir bitte einen ^orange;Traditionellen Gong^green; besorgen^white;? Sie sind bei den Hylotl recht weit verbreitet und können in Dörfern und Städten gefunden werden."
+	}
+]

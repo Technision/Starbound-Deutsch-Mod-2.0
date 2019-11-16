@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/apexDescription", "value": "Warte eine Minute, ist das ein Apex?"}, {"op": "replace", "path": "/avianDescription", "value": "Diese Maske ist eine Warnung an die Apex."}, {"op": "replace", "path": "/description", "value": "Diese Maske sieht böse aus."}, {"op": "replace", "path": "/shortdescription", "value": "Dekorative Alienmaske"}]

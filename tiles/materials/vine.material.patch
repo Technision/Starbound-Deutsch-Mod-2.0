@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein dickes Bündel Lianen. Sie sehen robust aus."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Liane"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Lianen sind massiv ausseh'nd."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Lianen wachsssen stark, genau wie Floraner."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Es scheint, als wären diese Lianen zusammengeflochten, als sie gewachsen sind."
+	}
+]

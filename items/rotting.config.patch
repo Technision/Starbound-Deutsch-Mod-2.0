@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/rotTimeDescriptions/0/1", "value": "^red;Zu verfault um es zu essen^reset;"
+	},
+	{
+		"op": "replace", "path": "/rotTimeDescriptions/1/1", "value": "^orange;Es fängt an, verfauelt zu riechen^reset;"
+	},
+	{
+		"op": "replace", "path": "/rotTimeDescriptions/2/1", "value": "^yellow;Wird wahrscheinlich bald faul werden^reset;"
+	},
+	{
+		"op": "replace", "path": "/rotTimeDescriptions/3/1", "value": "^green;Sollte für eine Weile frisch sein^reset;"
+	},
+	{
+		"op": "replace", "path": "/rotTimeDescriptions/4/1", "value": "^green;Sehr gut erhalten^reset;"
+	}
+]

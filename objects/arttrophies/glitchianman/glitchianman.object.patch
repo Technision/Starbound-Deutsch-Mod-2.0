@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "EIne ziemlich detaillierte Skizze der Glitch Anatomie."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Glitchian Man"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Es scheint eine Glitch Anatomie zu sein."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Sind die Glitch so zusammengebaut?"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glitch Bedienungsanleitung. Sssieht schwer aus."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Analytisch. Die Glitch Medizin ist noch sehr primitiv. Ein großer Teil dieses Anatomiediagramms ist falsch."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Es sieht wie ein Anatomiediagramm aus."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Die Glitch scheinen ihre Anatomie zu untersuchen. Vielleicht profitiert ja die Glitch Medizin davon."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Schau dir all diese Arme und Beine an. Scheint so, als würde ich mich umständlich bewegen."
+	}
+]

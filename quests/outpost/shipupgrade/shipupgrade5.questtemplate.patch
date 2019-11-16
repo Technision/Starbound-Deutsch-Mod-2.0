@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "^green;Kondor-Schiffsverbesserung"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Glückkwunsch! Mit eiiner Mannschaftsstärke von 10 Leuten qualifizierst du dich für die Kondor-Lizenz! ^green;Besuche Penguin Pete mit ^orange;10 Upgrade-Modulen^reset;, um dein Schiff weiter aufzurüsten."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Penguin Pete"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Hab' de Pinguine schon losgeschickt, um den finalen Ausbau zu machen. Ich danke für deine Vertrauen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/conditions/0/description", "value": "Find ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+	}
+]

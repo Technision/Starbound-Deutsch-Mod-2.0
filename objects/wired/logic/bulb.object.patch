@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Ausgangslicht. Zeigt an, ob etwas ein- oder ausgeschaltet ist."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Birne"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ein Ausgangslicht. Zeigt an, ob etwasss ein- oder ausssgeschaltet ist."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neutral. Ein Ausgangslicht. Zeigt an, ob etwas ein- oder ausgeschaltet ist."
+	}
+]

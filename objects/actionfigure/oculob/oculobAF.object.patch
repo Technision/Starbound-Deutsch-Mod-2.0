@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es ist unangenehm anzusehen. Es ist auch unangenehm, wenn es dich ansieht.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Oculob Figur"
+	}
+]

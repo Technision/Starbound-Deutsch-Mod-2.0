@@ -1,0 +1,41 @@
+[
+	{
+		"op": "replace", "path": "/gui/windowtitle/title", "value": "  Mech-Montagestation"
+	},
+	{
+		"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "  ^#b9b5b2;Rüste und bearbeite deinen persönlichen Mech"
+	},
+	{
+		"op": "replace", "path": "/gui/lblSlot_body/value", "value": "Körper"
+	},
+	{
+		"op": "replace", "path": "/gui/lblSlot_legs/value", "value": "Beine"
+	},
+	{
+		"op": "replace", "path": "/gui/lblSlot_booster/value", "value": "Verstärker"
+	},
+	{
+		"op": "replace", "path": "/gui/lblSlot_horn/value", "value": "Hupe"
+	},
+	{
+		"op": "replace", "path": "/gui/lblPrimaryColor/value", "value": "Farbe 1"
+	},
+	{
+		"op": "replace", "path": "/gui/lblSecondaryColor/value", "value": "Farbe 2"
+	},
+	{
+		"op": "replace", "path": "/disabledText", "value": "^red;Unautorisierter Nutzer"
+	},
+	{
+		"op": "replace", "path": "/incompleteText", "value": "^red;Konfiguration unvollständig"
+	},
+	{
+		"op": "replace", "path": "/completeText", "value": "^cyan;Bereit für Einsatz"
+	},
+	{
+		"op": "replace", "path": "/energyFormat", "value": "Energie: %d MJ"
+	},
+	{
+		"op": "replace", "path": "/drainFormat", "value": "Nutzung: %.02f MJ/s"
+	}
+]

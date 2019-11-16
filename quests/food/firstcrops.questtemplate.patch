@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Die erste Ernte"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Jetzt, da ich eine Hacke und eine Gießkanne habe, kann ich mit der Landwirtschaft beginnen! Ich sollte ^green;etwas Erde bepflanzen und gießen^white;, um ^orange;5 Weizen und 5 Perlenerbsen zu pflanzen und zu ernten^white;."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Endlich rechnet sich die Landwirtschaft! Ich sollte sehen, was ich sonst noch finden kann, um zu wachsen."
+	}
+]

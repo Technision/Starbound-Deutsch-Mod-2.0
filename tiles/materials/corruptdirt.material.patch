@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein ekelhafter Block verdorbene Erde."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Verdorbene Erde."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ekelhafte verdorbene Erde."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angeekelt. Diese Erde wurde verdorben."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese verdorbene Erde is' nicht sehr angenehm."
+	}
+]

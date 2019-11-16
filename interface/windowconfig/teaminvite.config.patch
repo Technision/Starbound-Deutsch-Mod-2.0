@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/paneLayout/titleLabel/value", "value": "IN GRUPPE EINLADEN"}, {"op": "replace", "path": "/paneLayout/ok/caption", "value": "Einladen"}, {"op": "replace", "path": "/paneLayout/name/hint", "value": "Spielername"}, {"op": "replace", "path": "/paneLayout/close/caption", "value": "Abbrechen"}]

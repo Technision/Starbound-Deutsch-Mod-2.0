@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Eine leere Tech-Karte. Wenn ich genügend davon habe, kann ich verbesserte Techs entwickeln."}, {"op": "replace", "path": "/shortdescription", "value": "Tech-Karte"}]

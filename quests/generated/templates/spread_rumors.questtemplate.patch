@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/4", "value": "Schleime"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/6", "value": "Gemüse"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/7", "value": "Computer"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/10", "value": "schlafende Leute"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/11", "value": "Raumschiffe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/12", "value": "Felsen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/0", "value": "adjectiv"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/0", "value": "dumm"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/1", "value": "gemein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/2", "value": "ein schlechter Freund"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/4", "value": "ein wenig seltsam"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/5", "value": "unheimlich"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vorsichtig. Dieses Zeichen besagt dass ich auf meine Bewegung achten soll."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Absperrungsblock"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Dieses Zeichen dient zur Warnung."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Diessse Ssstreifen bedeuten Warnung."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Streifen sind 'was, wo ich aufmerksam sein sollte."
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das freigesetzte Gas von diesem Lüfter erhöht deine Laufgeschwindigkeit."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Geschwindigkeitsverstärker"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein cleveres Gerät, das ein Gas abgibt, mit dem ich meine körperliche Geschwindigkeit steigern kann."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Süß riechendes, grünes Gas, das Schwung in meine Schritt rein bringt."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Grünes Gas das Floraner schneller macht."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Hoffnungsvoll. Das Gas von diesem Gerät hat einen süßes Geruch."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Dieses Gas riecht frisch und süß. Was tut es?"
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Die vorteilhaften Eigenschaften dieses Gases hängen mit der Verbesserung der physikalischen Geschwindigkeit zusammen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein grünes Gas. Es erhöht meine Geschwindigkeit."
+	}
+]

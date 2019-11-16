@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Sonnenstrahl Katana ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Ein Solarium überzogenes Schwert, geschmiedet von Asra Nox."}, {"op": "replace", "path": "/shortdescription", "value": "Sonnenstrahl Katana"}]

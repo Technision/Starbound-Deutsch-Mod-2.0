@@ -1,0 +1,41 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Lasss unsss den ersssten Schritt machen. Floran braucht diese bestimmte Sache vom Haus des Nachbarn ^orange;<victim>'s^white;. Floraner hat <victim>  schon gefragt aber er hat Nein gesagt. Würdest du ^green; reinschleichen und dieses glänzende ^orange;<objectItem>^white; für Floraner holen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Wie gefällt dir ein Diebstahl? Ich möchte dass du von ^orange;<victim>'s^green; Haus ^orange;<objectItem>^white; für mich^green; besorgst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Unbeeindruckt. Das sieht aus wie <victim>'s <objectitem>. Es ist nicht im besten Zustand, aber das sollte für jetzt reichen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Panik. Gib mir nicht einfach das <objectitem>! Glaubst du nicht, <victim> kann zwei und zwei zusammenzählen? Warte noch etwas."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Paranoid. Das ist das <objectitem> was ich verlangt. Ich hoffe niemand hat dich dabei gesehen! Gib es mir besser nicht sofort. Lass uns erstmal warten."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Stiehl <victim>'s <objectItem>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Zurück zu <questGiver>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Beeindruckt. Du hast wirklich das <objectitem> von <victim>? Ich dachte vielleicht bekommst du kalte Füße. Behalte es jetzt erstmal und stelle sicher, dass du es nicht verlierst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Floraner wussste, du schaffssst dasss! Eindeutig issst kein Job zzzu schwer für dich. Floraner schätzzzt deine Einstellung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Heimlich. Ich brauche ein spezielles Objekt; um genau zu sein ^orange;<victim>'s <objectitem>.^white; würdest du <victim.pronoun.possessiveDet> Haus besuchen und... es für mich besorgen?^white; Ich würde nicht fragen, wenn es nicht wichtig wäre."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Dieses <objectitem> ist genau was wir brauchen! Das ist vielleicht nicht der beste Weg Dinge zu beschaffen, aber der Zweck heiligt die Mittel, richtig?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Wow, ich wette du nimmst alles was nicht festgeschraubt ist! Ich will nicht erwischt werden, wenn <victim> nach dem <objectitem> sucht, also behalte es erstmal."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Nervös. ich brauche dich um ^orange;<victim>'s <objectitem> ^green; zu besorgen. ^white;Wir können es viel besser gebrauchen, aber <victim.pronoun.subject> händigt es nicht einfach aus... ^green;Du musst es dir nehmen..."
+	}
+]

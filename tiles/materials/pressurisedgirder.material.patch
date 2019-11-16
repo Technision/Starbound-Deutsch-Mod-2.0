@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Informiert. Ein Stahlträger um Druckunterschieden zu wiederstehen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein Stahlträger um Druckschwankungen standzuhalten."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Druck-Stahlträger"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzender sstarker Sstahlträger."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'Nen stabiler alter Stahlträger."
+	}
+]

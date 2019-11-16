@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Fenster mit einem Rahmen aus stabilem Kupfer."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Fenssster gemacht aus Kupfer."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Kupfer wurde benutzt um den Rahmen für dieses Fenster zu konstruieren."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das ist ein gut aussehender Kupferfensterrahmen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kupferfenster"
+	}
+]

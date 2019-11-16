@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/title", "value": "^green;Ja, ich kann!"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Um Getreide anzubauen, muss ich den Boden feucht halten. Ich sollte ^orange;eine hölzerne Gießkanne herstellen^white;."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Großartig! Mit dieser Gießkanne und einer Hacke sollte ich mit dem Ackerbau beginnen!"
+	}
+]

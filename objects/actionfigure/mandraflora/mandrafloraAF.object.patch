@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path" : "/description", "value": "Das Etikett sagt, \"Sein verschlafender Lebensstil erlaubt es, unter der Erde zu blühen und beeindruckende Größen zu erreichen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Mandraflora Figur"
+	}
+]

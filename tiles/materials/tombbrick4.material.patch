@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Diese dunklen und kühlen Ziegelsteine scheinen dem Raum jede Wärme zu entziehen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Dunkler Grabziegel"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Große Steine ​​sind hart und kalt."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Unbeeindruckt. Diese großen Steine ​​sind nicht gleichmäßig Groß."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Harter Stein. Fühlt sich mächtig kalt an."
+	}
+]

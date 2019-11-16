@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Neo Chakram ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Neo Chakram"}, {"op": "replace", "path": "/description", "value": "Knistert vor zerstörerischer Energie."}]

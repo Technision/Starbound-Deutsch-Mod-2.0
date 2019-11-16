@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Die beste Überwachungskamera."
+	},
+	{
+		"op": "replace", "path": "/shortDescription", "value": "Hi-Tech Überwachungskamera"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Immer schauen."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ich sollte auf Sicherheitskameras wie diese aufpassen."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Diese Kamera bewegt sssich von alleine."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vorsichtig. Diese Überwachungskamera ist mit Bewegungserkennung ausgestattet."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Jemand überwacht jeden meiner Schritte mit dieser Kamera. So unheimlich."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Wenn ich diese Kamera sehe, möchte ich mich unter dem Ozean verstecken, um ihren Blick zu vermeiden."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Anschauen, huh?"
+	}
+]

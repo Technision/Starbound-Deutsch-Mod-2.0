@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Weist Objekte mit einer starken elastischen Kraft ab."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Sprungbrett"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Weisssst Objekte mit einer sssstarken elastischen Kraft ab."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Weist Objekte mit einer starken elastischen Kraft ab."
+	}
+]

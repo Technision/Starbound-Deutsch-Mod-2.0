@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holzzaun"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ssstabiler Zaun."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein stabiler Holzzaun."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Zufrieden. Dieser Holzzaun ist ziemlich robust."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Es gibt nichts besseres als einen robusten, hölzernen Zaun."
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/blueprintAlreadyKnown", "value": "Ich weiß bereits, wie ich <ItemName> herstellen kann."
+	},
+	{
+		"op": "replace", "path": "/blueprintUnlock", "value": "^green;Gelernt, wie man ^cyan;<ItemName> ^green;herstellt."
+	},
+	{
+		"op": "replace", "path": "/collectableUnlock", "value": "^green;<collectable>^white; hinzugefügt zur ^blue;<collection>^reset; Kollektion"
+	}
+]

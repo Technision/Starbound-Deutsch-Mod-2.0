@@ -1,0 +1,83 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "^green;Baue ein Heim ^white; und ^green;platziere ^orange;3^green; <tag>.^white; Vergiss nicht, auch eine ^orange;Kolonistenurkunde^green; anzubringen. Und ein Licht!^white;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich habe <questGiver> nicht bei dem Vorhaben geholfen, ein neues Heim zu bauen. Es wird eh kein neuer Nachbar gebraucht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Aufgeregt. Kannst du ein Heim bauen und ^orange;3^green; <tag> platzieren? Vergiss nicht, auch eine ^orange;Kolonistenurkunde^green; anzubringen. Und ein Licht!^white"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Baue ein Haus mit:"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "1 Kolonistenurkunde"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "3 <tag>^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/3/text", "value": "Irgendeiner Lichtquelle"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/4/text", "value": "Irgendeiner Tür"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner will, dasss du ^green;ein Heim baust, mit ^orange;3^green; <tag> ^green;. Vergisss nicht, auch eine ^orange;Kolonistenurkunde^green; anzubringen, und ein Licht!^white"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Leutselig. Findest du nicht auch, dass wir ein paar neue Nachbarn um uns herum gebrauchen könnten? Ich habe da einen Plan..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner will neuen Freund! Kannssst du helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner denkt, wir brauchen einen neuen Nachbar! Floraner hat Plan..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Wäre es nicht schön, ein paar neue Leute zu treffen? Ich hab da schon eine Idee..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Vergnügt. Ich habe da einen Plan, um neue Freunde hier in der Gegend zu machen. Würdest du dabei assistieren wollen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich denke wir könnten davon profitieren, wenn wir Freunde finden würden. Ich habe da einen Plan."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Aufmerksam. Könntest du ein Haus bauen und ^orange;3^green; <tag> platzieren? Vergiss nicht, auch eine ^orange;Kolonistenurkunde^green; und ein Licht anzubringen!^white"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floraner möchte, dasss du ^green;ein Haus mit ^orange;3^green; <tag> ^green;baust. Vergiss nicht, auch eine ^orange;Kolonistenurkunde^green; und ein Licht anzubringen!^white"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Ich war nicht fähig, <questGiver> beim Bau eines neuen Hauses zu helfen. Ich bin gerade viel zu beschäftigt für sowas."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "<questGiver> möchte neue Freunde"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Überglücklich. Wir haben einen neuen Nachbar! Ich bin sicher, er wird hier gut reinpassen. Danke für deine großzügige Unterstützung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Erfolg! Ich hoffe, unser neuer Nachbar ist zufrieden mit seinem Zuhause. Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Du hassst dasss Zzuhause gemacht! Floraner issst beeindruckt von deinem Können."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "<questGiver>'s Expansionsplan"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Erfolg! Floraner hat neuen Freund! Floraner mag dasss Zzzuhause, dasss du gebaut hassst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Beeindruckt. Deine Designfähigkeiten sind besser, als ich erwartete; was für ein liebevolles Heim. Danke für deine Mühen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke! Jetzt haben wir einen neuen Bürger in unserer Gemeinde! Ist das nicht aufregend?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Kannst du ein Zuhause bauen und ^orange;3^green; <tag> platzieren? Vergiss nicht, auch eine ^orange;Kolonistenurkunde^green; und ein Licht anzubringen!^white; Ich bin so aufgeregt!"
+	}
+]

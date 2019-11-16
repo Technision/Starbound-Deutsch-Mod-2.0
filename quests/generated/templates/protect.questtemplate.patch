@@ -1,0 +1,155 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Sehr gut, Floraner's Plan funktioniert perfekt! <target> braucht nicht zu wisssen, dasss Floraner <threat> erzählt hat, wo <target.pronoun.subject> sich versteckt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/0", "value": "Als nächstes ^green; müssen wir uns gegen ^orange;<threat>^White; <spawnPoint.direction> ^green; verteidigen. ^white;Ich habe gehört, dass deren Ziel ^orange;<target>^white; ist. Wenn wir zeigen, dass wir unser Leben riskieren, um <target>^green; zu beschützen, dann weisss <target.pronoun.subject>, dass <target.pronoun.subject> uns vertrauen kann."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Als erstes müssen wir uns mit ^orange;<threat>^white; beschäftigen, die hier auf dem Weg zur ^orange;<spawnPoint>^white;<spawnPoint.direction> sind. Mache was immer du kannst um <target.pronoun.capitalObject> zu verteidigen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Floraner weisss, dass ^orange;<threat>^green; in der Nähe der ^orange;<spawnPoint>^white; <spawnPoint.direction> auf ^orange;<target> ^white; wartet. Floraner braucht <target.pronoun.CapitalObject> lebendig, damit der Plan funktioniert. ^green;Beschütze <target.pronoun.CapitalObject>. "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Suche die <spawnPoint> auf"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Töte sämtliche <threat>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Beschütze <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/1", "value": "Unruhig. Ich bekam Informationen, dass ^orange;<threat>^white; kommen, und zwar von der ^orange;<spawnPoint>^white; <spawnPoint.direction>. Sie kommen, um ^orange;<target> anzugreifen. ^green;Wenn du mir helfen kannst <target.pronoun.CapitalObject> zu beschützen, ^White; dankt <target.pronoun.subject> mir vielleicht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/1", "value": "Floraner beeindruckt. Glück für <target>, dasss Weinrebe Recht hatte; Wette, diese <threat> haben dasss nicht kommen sehen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan; Traurig. Ich möchte, dass <target> mich mag, und nun hörte ich, dass  <target.pronoun.subject> in Gefahr ist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^Cyan; Floraner möchte, dass <target> ihm einen Gefallen tut."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/3", "value": "Ich konnte <target> nicht beschützen. Vielleicht hätte mir <questGiver> mehr Aufmerksamkeit schenken sollen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/2", "value": "Ich konnte <target> nicht beschützen. Vielleicht sollte ich in Zukunft keine Leute mehr beschützen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^Cyan; Floraner möchte <target> auf unserer Seite. Floraner hat einen kleinen Plan, wie dasss funktionieren könnte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan; Ich hörte, <target> steckt vielleicht in Schwierigkeiten - Wenn ich <target.pronoun.CapitalObject> helfe, wird <target.pronoun.subject> mir mehr vertrauen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich habe versagt, <target> von <threat> zu beschützen. Vielleicht bin ich doch nicht so ein großer Kämpfer."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Ich habe Informationen erhalten, dass <target> in Gefahr ist. Wenn ich <target.pronoun.object> helfe, wird <target.pronoun.subject> mich vielleicht mehr mögen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Unruhig. Ich habe herausgefunden, dass die orange;<threat>^white; an der ^orange;<spawnPoint>^white;<spawnPoint.direction> hierher kommen um ^orange;<target>^white; zu holen! ^green;Du musst mir helfen <target.pronoun.CapitalObject> zu retten^white; bevor es zu spät ist!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "<target> ist in Gefahr! Sieht aus, als ob eine Bande ^orange;<threat>^white; mit bösen Absichten auf dem Weg der ^orange;<spawnPoint>^white;<spawnPoint.direction> hierher auf dem Weg ist. ^green;Stelle sicher, dass sie ^orange;<target>^white; nicht verletzen. Tu, was dafür nötig ist!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Ich hörte, dass ^orange;<threat>^white; auf dem Weg hierher sind, um ^orange;<target>^white; zu holen, um <target.pronoun.CapitalObject> zurück zu der  ^orange;<spawnPoint>^white;<spawnPoint.direction> zu bringen. Das darf nicht passieren! ^green; Bitte hilf <target.pronoun.CapitalObject> zu beschützen^white;, mit allem was dafür nötig ist!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/1", "value": "Nächssster Teil hat guten Zzzeitpunkt. Floraner hörte von Weinrebe, dasss ^orange;<threat> von der <spawnPoint>^white;<spawnPoint.direction> ^green;kommen, um sich mit ^orange;<target> anzzzulegen. ^white;Floraner will, ^green;dasss du ^orange; <target> vor den ^orange;<threat> beschützzzt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/0", "value": "Nächssster Teil nicht so leicht. Floraner hörte, dasss ^orange;<threat> an der <spawnPoint>^white;<spawnPoint.direction> ^green;kommen, um ^orange;<target> ^green;zu holen.^white; Floraner will, dasss du ^green;sie stoppst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Angespannt. Ich hörte, ^orange;<threat>^white; kommen von der ^orange;<spawnPoint>^white;<spawnPoint.direction> und ich glaube, sie kommen um ^orange;<target> ^white;zu holen. ^green;Kannst du helfen, und <target.pronoun.CapitalObject> vor der Bedrohung beschützen? "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Angespannt. Ich wurde informiert, dass ^orange;<threat>^white; von der ^orange;<spawnPoint>^white;<spawnPoint.direction> kommen und ^orange;<target>^white; ist ihr Ziel! ^green;Kannst du helfen und <target.pronoun.CapitalObject> beschützen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Inbrünstig. Ich habe Grund zur Annahme, dass ^orange;<threat>^white; von der ^orange;<spawnPoint>^white;<spawnPoint.direction> kommen um ^orange;<target> zu holen. ^green;Du musst helfen und <target.pronoun.CapitalObject> beschützen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "Die erste Aufgabe ist einfach, gehe zur ^orange<spawnPoint>^white;<spawnPoint.direction> und stelle sicher, dass diese ^orange<threat>^white; nicht erfolgreich sind im Kampf gegen ^orange;<target>! ^green; Beschütze <target.pronoun.CapitalObject> um jeden Preis!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner hat vielleicht ^orange;<threat>^white; erzzzählt, dass <target> sich hier versteckt. Floraner weisss, dasss sie <target.pronoun.CapitalObject> seit einer Weile an der ^orange;<spawnPoint>^white;<spawnPoint.direction> suchen. Damit der Plan funktioniert, ^green;mussst du ^orange;<target>^green; beschützzzen.^white; Mach esss, und jeder gewinnt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/1", "value": "Du hast <target> beschützt! <target.pronoun.capitalSubject> wird nie vergessen, dass wir <target.pronoun.capitalObject> beschützten. Fühlt sich so an, als ob sich eine Bindung zwischen uns aufgebaut hat."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Erfolg! <target> schätzzzt deinen Schutzzz. Nun schuldet <target.pronoun.subject> Floraner einen Gefallen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Erleichtert. <target> ist jetzt sicher - Und gebunden, mir in Zukunft zu helfen. Vielen Dank!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Würdigend. Dank dir ist <target> jetzt sicher. <target.pronoun.capitalSubject> ist jetzt auch daran gebunden mir zu helfen, wenn ich danach verlange."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/1", "value": "Gute Arbeit, du hassst <target> gerettet! Gute Beschützzzerinssstinkte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/0", "value": "Dank dir wurde <target> nicht verletzt. Ich bin sicher, <target.pronoun.subject> ist uns sehr dankbar. Ich wusste es!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Erfolg! <target> issst nun Floraner verpflichtet. <target.pronoun.capitalSubject> weisss, ich sagte dir die <threat> zzzu vertreiben. Floraner hat keine anderen Detailsss genannt.."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Beeindruckt. Du bist wahrlich ein tapferer Ritter! Dank dir ist <target> sicher und <target.pronoun.subject> schuldet mir einen Gefallen, wenn ich darum bitte. "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/1", "value": "Als nächstes müssen wir ^orange;<target>^white; beschützen. Es gibt da eine Gruppe ^orange;<threat>^white;, die auf dem Weg durch die ^orange;<spawnPoint>^white;<spawnPoint.direction> hierher sind."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Hahaha, diese <threat> sind uns nicht gewachsen... ehm, dir, meinte ich. Ich denke, dass wird uns <target>'s Vertrauen eingebracht haben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/0", "value": "Du hast kurzen Prozess mit diesen <threat> gemacht! Wir haben damit auch das Vetrauen von <target> gewonnen. Ich bin mir sicher, dass sich das noch als hilfreich erweisen wird!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/0", "value": "Floraner beeindruckt von deinen Kampfkünsssten. <threat> haben dasss wohl nicht erwartet!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Überschwänglich. Du hast die <threat> besiegt und <target> gerettet! Du bist ohne Zweifel ein nobler Krieger! Und <target.pronoun.copulative> mir ohne Zweifel verpflichtet!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Ich bin beeindruckt! Die <threat> hatten keine Chance. Ich denke, damit haben wir auch die Freundschaft von <target> gewonnen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/0", "value": "Überglücklich. Du hast geholfen, <target> zu beschützen! <target.pronoun.capitalSubject> schuldet mir jetzt nach der Rettung von <target.pronoun.possessive>em Leben einen Gefallen - bin mir sicher, dass dies noch hilfreich sein wird."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/1", "value": "Beeindruckt. Du hast <target> gerettet! Magst zwar die meiste Arbeit geleistet haben, aber <target.pronoun.subject> schuldet mir noch immer einen Gefallen, wo ich dich darauf angesetzt habe. Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "Rette <target> vor <threat>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Eifrig. Ich habe gehört, dass <target> vielleicht in Gefahr ist. Und das wäre die Gelegenheit, einen Gefallen von <target.pronoun.object> zu verlangen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "Schütze <target> vor <threat>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Ich war nicht in der Lage, <target> von den <threat> zu retten. Ich sollte mich wahrscheinlich schlecht deswegen fühlen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/0", "value": "Verwirrt. ich habe einen Tipp bekommen, dass ^orange;<threat>^white;von der ^orange;<spawnPoint>^white;<spawnPoint.direction> "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floraner weisss, dasss ^orange;<target>^white; sich mit ^orange;<threat>^white; angelegt hat, und sie kommen von der ^orange;<spawnPoint>^white;<spawnPoint.direction>! Aber, wenn Floraner <target> hilft, wird <target.pronoun.subject> Floraner einen Gefallen schulden. ^green; Bitte beschützzze <target.pronoun.CapitalObject> vor seinen Feinden."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Floraner hörte, dasss ^orange;<target>^green; <threat> verägerten, und sie kommen von der ^orange;<spawnPoint>^white;<spawnPoint.direction>! Floraner will, dasss du ^green; <target.pronoun.CapitalObject> beschützzzt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/1", "value": "Gut gemacht! Diese <threat> haben ihren Meister gefunden. Ich wette, <target> mag mich jetzt viel mehr!"
+	}
+]

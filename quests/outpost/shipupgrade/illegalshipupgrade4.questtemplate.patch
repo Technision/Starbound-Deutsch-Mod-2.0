@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/conditions/0/description", "value": "Finde ^orange;<itemName>^reset;: ^green;<current> / <required>^reset; "
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Unerlaubte Adler Schiffsverbesserung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Pinguin Pete"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Kannste froh sein, dass der Weltraum so riesig ist! Dein Schiff wird nach'm Ausbau einigen frei'n Platz mehr hab'n."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Diese Schiffslizenz ist wirklich ganz und gar legal. ^green; Suche Pinguin Pete^reset; mit ^orange;8 Upgrade Modulen^green; auf^reset;, um dein Schiff weiter aufzurüsten."
+	}
+]

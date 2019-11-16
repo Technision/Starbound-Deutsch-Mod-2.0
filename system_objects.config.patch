@@ -1,0 +1,74 @@
+[
+	{
+		"op": "replace", "path": "/spacestation_electronics/parameters/displayName", "value": "Elektronik Station"
+	},
+	{
+		"op": "replace", "path": "/spacestation_electronics/parameters/description", "value": "Diese Station nutzt die Schwerelosigkeit, um eine Vielzahl empfindlicher elektronischer Komponenten herzustellen."
+	},
+	{
+		"op": "replace", "path": "/spacestation_food/parameters/displayName", "value": "Lebensmittelverteilungsstation"
+	},
+	{
+		"op": "replace", "path": "/spacestation_food/parameters/description", "value": "Selbst in der Weite des Weltalls müssen die Menschen immer noch essen. Diese Station produziert und vertreibt Nahrungsmittel, um den verschiedenen Aliengeschmäcken zu entsprechen."
+	},
+	{
+		"op": "replace", "path": "/spacestation_medical/parameters/displayName", "value": "Medizinische Foruschungsstation"
+	},
+	{
+		"op": "replace", "path": "/spacestation_medical/parameters/description", "value": "Forscher dieser Station untersuchen die Auswirkungen der Schwerelosigkeit auf die Physiologie, um neuartige Medikamente zu entwickeln."
+	},
+	{
+		"op": "replace", "path": "/spacestation_weapons/parameters/displayName", "value": "Waffenhandelsstation"
+	},
+	{
+		"op": "replace", "path": "/spacestation_weapons/parameters/description", "value": "Von klassifizierten Regierungsprogrammen bis zu verrückten Pinguinwissenschaftlern ist der Weltraum voller Menschen, die aufregende neue Waffen herstellen."
+	},
+	{
+		"op": "replace", "path": "/playerstation/parameters/displayName", "value": "Persöhnliche Raumstation"
+	},
+	{
+		"op": "replace", "path": "/playerstation/parameters/description", "value": "Diese persönliche Raumstation wurde von einem Abenteurer eingesetzt. Sie haben wahrscheinlich gute Sachen zu stehlen."
+	},
+	{
+		"op": "replace", "path": "/pirateship/parameters/displayName", "value": "Feindliches Schiff"
+	},
+	{
+		"op": "replace", "path": "/pirateship/parameters/description", "value": "Wer auch immer das Schiff fliegt, wir sollten nicht zu nah ran ohne uns vorher auf einen Kampf vorzubereiten."
+	},
+	{
+		"op": "replace", "path": "/cultistship/parameters/displayName", "value": "Feindliches Schiff"
+	},
+	{
+		"op": "replace", "path": "/cultistship/parameters/description", "value": "Wer auch immer das Schiff fliegt, wir sollten nicht zu nah ran ohne uns vorher auf einen Kampf vorzubereiten."
+	},
+	{
+		"op": "replace", "path": "/researchship/parameters/displayName", "value": "Freundliches Schiff"
+	},
+	{
+		"op": "replace", "path": "/researchship/parameters/description", "value": "Dieses Schiff bestätigt unsere Kommunikation und der Kapitän lädt uns herzlich zu einem Besuch ein."
+	},
+	{
+		"op": "replace", "path": "/merchantindustrialship/parameters/displayName", "value": "Freundliches Shiff"
+	},
+	{
+		"op": "replace", "path": "/merchantindustrialship/parameters/description", "value": "Dieses Schiff bestätigt unsere Kommunikation und der Kapitän lädt uns herzlich zu einem Besuch ein."
+	},
+	{
+		"op": "replace", "path": "/merchantastroship/parameters/displayName", "value": "Freundliches Shiff"
+	},
+	{
+		"op": "replace", "path": "/merchantastroship/parameters/description", "value": "Dieses Schiff bestätigt unsere Kommunikation und der Kapitän lädt uns herzlich zu einem Besuch ein."
+	},
+	{
+		"op": "replace", "path": "/penguinship/parameters/displayName", "value": "Freundliches Shiff"
+	},
+	{
+		"op": "replace", "path": "/penguinship/parameters/description", "value": "Dieses Schiff bestätigt unsere Kommunikation und der Kapitän lädt uns herzlich zu einem Besuch ein."
+	},
+	{
+		"op": "replace", "path": "/anomaly/parameters/displayName", "value": "???"
+	},
+	{
+		"op": "replace", "path": "/anomaly/parameters/description", "value": "Die himmlische Interferenz verhindert einen detaillierten Scan, aber es gibt anomale Energiemessungen, die eine Untersuchung rechtfertigen."
+	}
+]

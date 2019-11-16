@@ -1,0 +1,4 @@
+[
+	{"op": "replace", "path": "/description", "value": "Eine Rute aus Durastahl, um in extremen Umgebungen zu fischen."},
+	{"op": "replace", "path": "/shortdescription", "value": "Langlebige Angelrute"}
+]

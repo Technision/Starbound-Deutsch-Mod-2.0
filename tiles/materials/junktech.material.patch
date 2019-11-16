@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Technologiessschrott."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'N Haufen alter Technik, zu Ziegeln gepresst."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schrott-Technik"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessiert. Es befinden sich verschiedene Technologien in diesem ausrangierten Schrott."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Nutzloses Altmetall, meistens Überreste von veralteter Technologie."
+	}
+]

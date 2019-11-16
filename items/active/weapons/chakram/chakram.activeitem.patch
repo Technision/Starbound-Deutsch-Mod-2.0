@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Chakram ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Großmeister der Chakrams können sie fangen ohne Finger zu verlieren."}, {"op": "replace", "path": "/shortdescription", "value": "Chakram"}]

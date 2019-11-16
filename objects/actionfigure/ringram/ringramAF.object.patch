@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Die Ringram Hörner fangen von der Geburt an zu wachsen und hören niemals auf.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ringram Figur"
+	}
+]

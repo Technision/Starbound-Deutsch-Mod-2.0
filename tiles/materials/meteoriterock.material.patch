@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Wahrnehmend. Dieser Felsen ist des außerirdischen Ursprungs."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag Himmelfelsen."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Himmelsfelsen sind nicht wie die auf dem Boden."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Meteoritengestein"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein sehr hartes Gestein, das man knapp außerhalb der Atmosphäre findet."
+	}
+]

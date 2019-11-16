@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Stapel staubiger, alter Bücher, voller Erzählungen über Drachen und Ritter."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Stapel Bücher"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein paar staubige Bücher. Wer mag keine gute Geschichte?"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Unterhalten. Es gibt wunderschöne Geschichten in diesen Büchern."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Grössse findet man nicht in Büchern."
+	}
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/toggleCrafting/caption", "value": "Kochen"}, {"op": "replace", "path": "/gui/lblText/value", "value": "^#b9b5b2;Platziere eine oder mehrere Zutaten auf den linken Platz."}]

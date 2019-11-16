@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Der Bildschirm sendet ein unheilvolles flackerndes Licht aus."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörter Bildschirm "
+	}
+]

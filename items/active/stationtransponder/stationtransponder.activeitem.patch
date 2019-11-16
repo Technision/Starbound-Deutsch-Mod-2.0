@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Konfigurieren Sie Ihre eigene Raumstation."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Station Transponder"
+	}
+]

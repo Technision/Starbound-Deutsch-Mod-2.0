@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Harter, grober Mondstein."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Mondstein"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Deduktiv. Dieser Felsen ist in der Natur des Mondes."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Trockener und staubig aussehender Mondstein."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag Trocken Mondsstein nicht."
+	}
+]

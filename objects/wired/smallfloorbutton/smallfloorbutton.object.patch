@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Es kann Spaß machen, zumindest für einen moment."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kleiner Boden Knopf"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine Taste. Deren Funktion ist unbekannt. Nur ein weg um es heraus zu finden."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Warum bin ich immer gezwungen, Knöpfe zu drücken?"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner drückt Knöpfe!"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Versucht. Ein Knopf, beginne ihn zu drücken."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Da ist ein Knopf! Ich kann es nicht drücken!"
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Knöpfe sind ärgerlich. Trotzdem muss ich ihn drücken."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Warum ist es immer so verrückt, Knöpfe zu drücken."
+	}
+]

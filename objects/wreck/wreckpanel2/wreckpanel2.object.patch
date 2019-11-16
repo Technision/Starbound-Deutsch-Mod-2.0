@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein altes Eingabepult, vermutlich zur Sicherheit benutzt."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kleines kaputtes Pult"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Holzfenster"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Cool ausseh'ndes Fenster mit Holzrahmen."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein Fenster mit Holzrahmen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Dieses Fenster hilft, den Raum zu erhellen."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Tolle Fenssster, Floraner kann nach draußßßen sehen."
+	}
+]

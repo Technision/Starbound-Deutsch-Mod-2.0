@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Weit draußen, Mann."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Space Synth"
+	}
+]

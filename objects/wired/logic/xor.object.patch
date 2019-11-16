@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein /'XOR'/ Schalter. Erfordert, dass ein Eingang aktiviert und einer deaktiviert ist."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "XOR-Schalter"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ein /'XOR'/ SChalter. Erfordert, dassss ein Eingang aktiviert und einer deaktiviert ist."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Ein /'XOR'/ Schalter. Erfordert, dass ein Eingang aktiviert und einer deaktiviert ist."
+	}
+]

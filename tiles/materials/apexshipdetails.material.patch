@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Metallgeländer"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine vernietete Metallwand."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Stark verstärktes Metall."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Gesichert. Diese Metallwand wurde mit starken Bolzen verstärkt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Hatbar aussehende Wand aus Metall."
+	}
+]

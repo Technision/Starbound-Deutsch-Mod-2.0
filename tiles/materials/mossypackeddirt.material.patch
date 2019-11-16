@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Fester Erde, bedeckt mit Moos."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Feste Erde, bedeckt mit wachsendem Moos"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Auf dieser verpackten Erde, wächst Moos."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Erde ist mit Moos bedeckt."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Feste Moosige Erde"
+	}
+]

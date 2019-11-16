@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kupfer Dachziegel"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Dachziegel hergestellt aus Kupfer."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag glänzzende Kupfer Dachzziegel"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Überrascht. Diese Dachziegel sind komplett aus Kupfer."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'n paar Kupfer Dachziegel."
+	}
+]

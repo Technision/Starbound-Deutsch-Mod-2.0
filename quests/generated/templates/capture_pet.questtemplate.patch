@@ -1,0 +1,191 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Jemand gab mir ein <tradedMonster>, aber ich <reason>.Ich wäre glücklicher mit einem Haustier ^orange;<monster>^white. ^green;Könntest du mir einen mit dieser ^orange;Fangkapsel^green; besorgen?\nFalls du nicht sicher sein solltest, wo du mit der Suche beginnen sollst, <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floraner fing ein <tradedMonster> mit einer Falle, aber Floraner wollte stattdesssen lieber einen ^orange;<monster>^white;. Wenn Floraner einen <monster> hätte, könnte Floraner <florandreams>. ^green;Könntessst du Floraner mit dieser ^orange;Fangkapsel^green; ein <monster> fangen^white;?\nFloraner sah einen in der Nähe der ^orange;<spawnPoint>^white; <spawnPoint.direction>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Fange ein <monster>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Gib <questGiver> den <monster>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Unzufrieden. Jemand gab mir ein <tradedMonster>, aber ich <reason>. ich wäre glücklicher mit einem Haustier ^orange;<monster>^white;. ^green;Könntest du mir einen mit dieser ^orange;Fangkapsel^green; besorgen?\nFalls du nicht sicher sein solltest, wo du mit der Suche beginnst, <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "Haustier <monster>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Ups, Ich habe es nicht geschafft, <questGiver> zu helfen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyad; Wenn ich einen eigenen <monster> hätte, wäre ich so glücklich!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "weiß nicht, was ich ihm zu fressen geben soll"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/3", "value": "habe Todesangst for ihnen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Ich möchte gerne ein <monster>, der mir Gesellschaft leistet."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/4", "value": "glaube nicht, dass er zu mir passt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner möchte gerne einen <monster> und braucht Hilfe, einen zzzu Fangen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/6", "value": "finde ihn ziemlich unheimlich"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/7", "value": "glaube nicht, dass es das richtige Haustier für mich ist"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Unzufrieden. Ich möchte gerne ein <monster> mein Eigen nennen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Enttäuscht. Ich versuchte vorhin selber, ein Haustier ^orange;<monster>^white; zu fangen, aber verfehlte ihn und fing stattdessen diesen <tradedMonster>. Du <request> - ^green;Kannst du diese ^orange;Fangkapsel^green; nehmen und mir ein <monster> fangen^white;? Ich werde dir dafür mein <tradedMonster> geben.\nFalls du nicht sicher sein solltest, wo du mit der Suche beginnst, <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "finde ihn irgendwie ekelig"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/5", "value": "mag seine gruseligen Grimassen nicht, die er mir zuwirft"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "vorhin"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "letztens"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "vor nicht allzu langer Zeit"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "Anfang der Woche"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/3", "value": "letzte Nacht"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/4", "value": "gestern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/0", "value": "request"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/0", "value": "siehst aus, als könntest du besser zielen, als ich"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "reason"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Ich versuchte vorhin selber, ein Haustier ^orange;<monster>^white; zu fangen, aber verfehlte ihn und fing stattdessen diesen <tradedMonster>. Du <request> - ^green;Kannst du diese ^orange;Fangkapsel^green; nehmen und mir ein <monster> fangen^white;? Ich werde dir dafür mein <tradedMonster> geben.\nFalls du nicht sicher bist, wo du mit der Suche beginnen sollst, <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/0", "value": "guide1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/0", "value": "schau am besten mal hier nach: "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/1", "value": "sieh dich mal dort um: "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/0", "value": "guide2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/0", "value": "Ich sah welche da drüben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/1", "value": "Ich hörte, da wäre eine Gruppen von ihnen dort in der Nähe"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/4/1/2", "value": "jemand erzählte mir, dort wären irgendwo welche"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/0", "value": "florandreams"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/1", "value": "Du hast es geschafft, mir einen <monster> zu fangen? Wunderbar!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/0", "value": "an seiner Seite jagen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/1", "value": "ihm Kunssststücke beibringen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/2", "value": "einen besssten Freund haben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/5/1/3", "value": "es ihm beibringen, zzzu jagen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/0", "value": "appreciation1"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/0", "value": "Du hast mir ein <monster> gebracht?! Danke!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/2", "value": "Oh, du hast es geschafft, einen <monster> zu finden?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/2", "value": "müsstest in der Lage sein, mir einen zu fangen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/0", "value": "appreciation2"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/0", "value": "Ich hoffe, dieser <tradedMonster> wird dir gute Dienste erweisen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/3", "value": "müsstest fähig genug sein, um zu helfen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/1", "value": "Ich bin sicher, dieser <tradedMonster> wird bei dir glücklicher sein!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/4", "value": "siehst aus, als hättest du die Fähigkeiten, die ich brauche"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/3/1/2", "value": "schau am besten mal hier nach: "
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/2", "value": "Hier, du bist jetzt stolzer Besitzer von einem eigenen Haustier <tradedMonster>!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/2/1/1", "value": "bist womöglich besser darin, als ich"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/0", "value": "floranappreciation"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "<appreciation1> <appreciation2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Überglücklich. <appreciation1> <appreciation2>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/0", "value": "Floraner hofft, dasss du den <tradedMonster> magssst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/8/1/1", "value": "Dieser <tradedMonster> kann dein neuer Jagdgefährte sein!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Du hassst Floraner ein <monster> gebracht? <floranappreciation>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/7/1/3", "value": "Hier, du hast dir diesen <tradedMonster> redlich verdient. Behandle ihn gut!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "denke, er riecht merkwürdig"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/6/1/3", "value": "Du hast mir meinen ganz eigenen <monster> gebracht?! Danke!"
+	}
+]

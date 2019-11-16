@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Gefrorener Bumerang ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Gefrorener Bumerang"}, {"op": "replace", "path": "/description", "value": "Ein eiskalter Bumerang, mit gefrorenem Kern."}]

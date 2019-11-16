@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Schmutz und Rost haben dieses Bett zerfressen. Zum Glück bin ich nicht so müde."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kaputtes Bett"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein furchtbarer Platz zum schlafen."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Ein nicht sehr einladender Platz zum schlafen."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Ein rossstiges Bett."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angewidert. Rostig!"
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ich kann mir nicht vorstellen, das das je einladend aussieht."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Das Bett ist irreparabel verrostet. Die Zeit nimmt uns alle mit."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Man müsste verdammt müde sein, um hier schlafen zu wollen."
+	}
+]

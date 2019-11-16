@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörte Kiste"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Eine zerschlagene Kiste."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Eine alte Kiste. Vielleicht ist dort noch etwas drinnen."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine antike Kiste. Ich wundere mich was drinnen ist.."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Alter zertrümmerter Sspeicher."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Ein alter Lagerungscontainer."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Könnte da immer noch etwas drin sein?"
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Könnten Schätze in solch einer zerstörten Kiste verborgen sein?"
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich bin mir nich' ma' sicher, ob's sich lohnt in die Kiste zu gucken."
+	}
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/costDescription/value", "value": "ERFORDERLICHE FRAGMENTE"}, {"op": "replace", "path": "/gui/costLabel/value", "value": "0  / --"}, {"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "Mit Kernfragmenten aktiviert"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "Alte Torkonsole"}]

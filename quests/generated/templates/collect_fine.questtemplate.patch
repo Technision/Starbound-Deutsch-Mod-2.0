@@ -1,0 +1,215 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Hole <item> von <target>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Kehre zu <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Ich habe hier Beweise genug, um zu beweisen, dass ^orange;<target>^white; nichts Gutes im Schilde führt. ^green; Überbringe diesen ^orange;Bußgeldbescheid^white;. <target.pronoun.capitalSubject> hat bereits zugestimmt, einen bestimmten Gegenstand als Bezahlung abzugeben. Dabei handelt es sich um ^orange;<target>'s <item>^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "Der erste Punkt auf unserer Tagesordnung heißt ^orange;<target>^white;. Es sind Beweise an's Licht gekommen, dass <target.pronoun.subject> ein ziemlich finsteres Individuum ist. ^green;Überbringe diesen ^orange;Bußgeldbescheid^green; und kassiere ^orange;<target>'s <item>^white; als Bezahlung ^green; ein^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/0", "value": "Floraner hat eine weitere Aufgabe für dich. ^orange;<target>^white; hat etwasss Beschämendesss getan und Floraner will Gerechtigkeit! ^green;Geh, übergib diesen ^orange;Strafbescheid^white; und ^green; nimm ^orange;<target>'sss <item>^green; als Bezzzahlung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/1", "value": "Danke! Hoffentlich wird <target> von jetzzzt an nett bleiben. <target>'s <item> wird ebenfallsss nützzzlich sein für Floraner..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;<target> hat hier in letzter Zeit Ärger gemacht - ist wohl an der Zeit, dass ich <target.pronoun.object> ermahne."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "Treibe von <target> Schadensersatz ein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "Lass bei <target> Gerechtigkeit walten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Entschlossen. ^orange;<target>^white; hat krumme Geschäfte am Laufen und ich möchte, dass <target.pronoun.subject> eine Lektion erteilt bekommt. ^green;Übergib diesen ^orange;Strafbescheid^white; und ^green;nimm ^orange;<target>'s <item>^white; als Entschädigung für <target.pronoun.possessiveDet> Verhalten an dich. Hoffentlich wird <target.pronoun.subject> daraus lernen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "^green;Überbringe ^orange;<taget>^green; diesen ^orange;Strafbescheid^white;. <target.pronoun.capitalSubject> hat sich schon bereiterklärt, einen Gegenstand als Entschädigung zu geben. <target.pronoun.possessiveDet> Verhalten zu zahlen. Bei dem Gegenstand handelt es sich um ^orange;<target>'s <item>^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "^green;Ich brauche dich, um diesen ^orange;Bußgeldbescheid^green; zu ^orange;<target>^green; zu bringen. <target.pronoun.capitalSubject> hat bereits zugestimmt, einen Gegenstand als Schadensersatz herzugeben. Dabei handelt es sich um ^orange;<target>'s <item>^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Unsicher. Anscheinend hat <target> gegen Regeln verstoßen... Ich vermute mal, wir sollten ein wenig Gerechtigkeit walten lassen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan; Hilf Floraner, <target> zzzur Rechenschaft zzzu zzziehen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "Verbrechen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Zwanghaft. Wirst du mir helfen, <target> zur Rechenschaft zu ziehen? Ich habe da auch schon einen Plan..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan; Du siehst aus, als kämst du gut zurecht. Wirst du mir helfen, <taget> zur Rechenschaft zu ziehen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/7", "value": "Spaß verderben"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/1", "value": "<target> hat ohne Zweifel die Lektion gelernt. <target>'s <item> wird ebenfalls seine Verwendung finden!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/3", "value": "bösartiges Verhalten"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan; Lasss <target> für seine Regelwidrigkeiten bezzzahlen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/4", "value": "den Frieden stören"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/6", "value": "andere verärgern"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "Störung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Du hassst das Gesetzzz spitzzzenmässsig durchgesetzzzt - Du bissst so gut darin! Wirssst du noch wasss anderesss für Floraner tun?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/1", "value": "Floraner hat Gerechtigkeit gebracht und wir bekamen <target>'sss <item> noch dazzzu. Floraner findet sicher eine Verwendung dafür..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "Kleindiebstahl"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/5", "value": "unfreudliches Benehmen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/floran/1", "value": "Danke für deine Hilfe! Du kannssst <target>'sss <item> behalten - Floraner hat keine Verwendung dafür."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/floran/0", "value": "Gerechtigkeit! Vielleicht solltessst du diesen Job ausssüben, anstelle von Floraner..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Erfreut. <target> hat ohne Zweifel die Lektion gelernt... Und <target>'s <item> wird auch nützlich sein!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/0", "value": "Gut gemacht, das Bußgeld von <target> einzutreiben! <target>'s <item> wird gute Verwendung finden. Denkst du, du könntest noch etwas für mich tun?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Verzückt. Du hast das Bußgeld von <target> eingetrieben! Wieder eine Sache, die ich von meiner To-Do-Liste streichen kann!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Du hasst dasss Recht grosssartig gewahrt! Du solltessst diesss öftern tun."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Hoffentlich hat <target> daraus gelernt - sich niemalsss bei üblen Sachen erwischen zzzu lasssen... Du kannssst <target>'s <item> behalten, wenn du magssst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/floran/0", "value": "Der Gerechtigkeit wurde Genüge getan! Du bissst gut darin! Wirssst du eine letzzzte Sache für Floraner tun?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Du hast gute Arbeit geleistet! Behalte <target>'s <item> als Entlohnung für deine Mühen. Ich wollte <target> nur klarmachen, dass niemand über dem Gesetz steht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Danke für eine Hilfe! <target> sollte jetzt einsehen, dass wir hier bei uns Regeln zu befolgen haben. Du kannst <target>'s <item> behalten, wenn du magst."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/1", "value": "Erfreut. Danke, dass du dabei geholfen hast, <target> zu lehren, dass es Konsequenzen für <target.pronoun.possessiveDet> Handeln gibt. <target>'s <item> wird auch sehr nützlich sein."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/1", "value": "Danke, dass du dabei geholfen hast, <target> zu lehren, dass es Konsequenzen für <target.pronoun.possessiveDet> Handeln gibt! Ich kann mir schon ein paar Einsatzmöglichkeiten für <target>'s <item> vorstellen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Dankbar. Danke, dass du <target> beigebracht hast, dass wir hier Regeln befolgen, auch dann, wenn diese Regeln vage und eigentlich nirgendwo niedergeschrieben sind. Du kannst <target>'s <item> auch behalten, wenn du möchtest."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Lustlos. Du hast doch gerade nichts zu tun, oder? ^orange;<target>^white; hat das Gesetz gebrochen und schuldet ein Bußgeld. Wirst du diesen ^orange;Bescheid^green; zustellen^white; und ^orange;<target>'s <item>^white; als Bezahlung einsammeln? Ich würde es ja selber machen, aber ich....mag nicht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/1", "value": "Der nächste Eintrag auf unserer Liste betrifft ^orange;<taget>. <target.pronoun.capitalSubject> hat schon <target.pronoun.reflexive> bewiesen, dass er ein ziemlicher Gesetzesbrecher ist.^green; Überbringe diesen ^orange;Bescheid^green; wegen Schäden an <target.pronoun.object>,^white; <target.pronoun.subject> erklärte sich schon bereit, einen Gegenstand als Kompensation zu geben. Dabei handelt es sich um ^orange;<target>'s <item>^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floraner hat entdeckt, dasss ^orange;<target>^white; ein paar böse Dinge getan hat! Hier'sss ein Strafbescheid. ^green;Nimm ihn mit zzzu ^orange;<target>^white; und ^green;nimm ^orange;<target>'sss <item>^green; alsss Bezzzahlung für  <target.pronoun.possessiveDet> gemeinesss Handeln."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Floraner hörte, dasss ^orange;<target>^white; nicht sehr nett gewesen issst. Floraner möchte, dasss du die Sache im Stillen regelssst - ^green;Händige diesen ^orange;Strafbescheid^green; aus und zzziehe ^orange;<target>'sss <item>^green; alsss  Bezzzahlung ein^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/default/1", "value": "Danke, dass du <target> eine Lektion erteilt hast. Ich hoffe, <target.pronoun.subject> sieht ein, dass niemand über dem Gesetz steht. Du kannst <target>'s <item> ruhig behalten. Du hast es verdient."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/default/0", "value": "Gute Arbeit, das Bußgeld von <target> einzutreiben. Ich war ein wenig besorgt, dass <target.pronoun.subject> er versuchen würde, sich da irgendwie rauszuwinden. Du kannst <target>'s <item> als Vergütung behalten."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Floraner hat viel zzzu tun, so dolle beschäftigt. Wirssst du Floraner helfen? ^orange;<target> hat ein schändlichesss Verbrechen gemacht und dasss Gesetzzz musss befolgt werden! ^green;Geh, übergib diesen Strafbescheid und nimm ^orange;<target>'sss <item> alsss Bezzzahlung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/3", "value": "Ich habe dabei versagt, das Bußgeld von <taget> einzutreiben. Vielleicht sollte <questGiver> <target.pronoun.object> <questGiver.pronoun.reflexive> aufspüren."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Zerstreut. ^orange;<target>^white; hat ein Verbrechen begangen und schuldet ein Bußgeld. Wirst du ^green;diesen ^orange;Bescheid^green; vorbeibringen^white; und ^orange;<target>'s <item>^white; als Schadensersatz ^green;entgegennehmen^white;?. Es ist eine lästige Pflicht und ich bin viel zu beschäftigt dafür."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Entschieden. Zuallererst bedauere ich, dich darüber informieren, dass ^orange;<target>^white vor kurzem ein Verbrechen verübt hat. Wir hielten <target.pronoun.object> eigentlich bis jetzt als unschuldig.^green;Überbringe diesen ^orange;Strafbescheid^white; und ^green;nimm ^orange;<target>'s <item> als Kompensation entgegen^white;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Ich habe dabei versagt, den Schadensersatz von <target> für <target.pronoun.possessiveDet> Handeln einzufordern. Ich schätze, Verbrechen lohnt sich doch noch."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/glitch/1", "value": "Ernst. Es ist an der Zeit, dass wir ^orange;<target>^white; für alle Vergehen dran kriegen, die <target.pronoun.subject> begangen hat.^green;Überbringe diesen ^orange;Strafbescheid^white; und ^green;fordere ^orange;<target>'s <item>^green; als Entschädigung ein. Hoffentlich benimmt  <target.pronoun.subject> sich in Zukunft!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/default/1", "value": "Abschließend müssen wir ^orange;<target>^white; dazu bringen, für <target.pronoun.possessiveDet> zwielichtiges Handeln zu bezahlen. ^green;Überbringe diesen ^orange;Bescheid^white;. Es ist ein Beleg über angerichtete Schäden. ^green;Treibe ^orange;<target>'s <item>^green; als Schadensersatz ein.^white;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/floran/0", "value": "Floraner hat einen letzzzten Auftrag für dich. ^orange;<target>^white; hat ein schändlichesss Verbrechen begangen und der Gerechtigkeit musss Genüge getan werden! ^green;geh, übergib diesen ^orange;Strafbescheid^white und nimm ^orange;<target>'sss <item>^green; alsss Begleichung entgegen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Ich scheiterte daran, <target> den Bescheid zu überbringen und <target>'s <item> als Begleichung einzusammeln. Vielleicht eigne ich mich doch nicht als Schuldeneintreiber."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/default/0", "value": "Jetzt schuldet ^orange;<target>^white; für sein Gesetzesverstoß eine Geldbuße. ^green; Wirst du ihm diesen ^orange;Bußgeldbescheid ^green;überbringen?^white; <target.pronoun.capitalSubject> stimmte zu, einen Gegenstand als Schadensersatz zu geben. Dabei handelt es sich um ^orange;<target>'s <item>^white;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/glitch/0", "value": "Erfreut. Gute Arbeit, das Bußgeld von <target> einzutreiben! Das hat mir sicher eine Menge Aufwand erspart."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "<target> hat ein niederträchtigesss Verbrechen gemacht und musss dem Gesetzzz insss Auge schauen! Floraner denkt, dasss du diesss am besssten hinbekommssst! ^green;Geh und gib diesen ^orange;Strafbescheid^green; an ^orange;<target>^green; und nimm <target>'sss <item>^white; als Bezahlung entgegen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/glitch/1", "value": "Erleichtert. Danke, dass du <target> eine Lektion erteilt hast. Du kannst <target>'s <item> behalten, du hast es verdient."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "ein Trottel sein"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/glitch/0", "value": "Erfreut. Danke für das Eintreiben von <target>'s Bußgeld! Ich konnte es zeitlich leider nicht einrichten, aber du scheinst ja massig Zeit zu haben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/next/default/0", "value": "Danke für das Eintreiben von <target>'s Bußgeld! Ich war mir nicht sicher, ob <target.pronoun.subject> der Zahlungs-Aufforderung geflogt wäre, wenn ich selber gegangen wäre. Zum Glück siehst du wie jemand aus, mit dem <target> sich lieber nicht anlegen möchte."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Erfreut. Gut gemacht, das Bußgeld von <target> einzutreiben! Das ist eine Sache mehr, die ich aus meiner To-Do-Liste streichen kann. Denkst du, du könntest noch etwas für mich erledigen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/2", "value": "Ich habe beim Eintreiben des Bußgelds von <target> versagt. Vielleicht sollte <questGiver> aufhören, Dahergelaufene zu fragen, ob sie Aufgaben für <target.pronoun.object> erledigen können."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/0", "value": "Unaufmerksam. Ich brauche dich noch für etwas anderes - das Gesetz aufrecht zu erhalten ist ziemlich wichtig und so, aber so sind es auch die Mittagspausen. ^orange;<target>^white; schuldet ein Bußgeld - wirst du ^orange;diesen Bescheid^green; übergeben^white; und ^orange;<target>'s <item>^green; als Schadensersatz einkassieren^white;?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/glitch/1", "value": "Entschieden. Ich habe gehört, dass ^orange;<target> auf frischer Tat ertappt wurde! Ich werde dies nicht durchgehen lassen - ^green;überbringe diesen ^orange;Strafbescheid^white; und ^green;nimm ^orange;<target>'s <item>^white; als Entschädigung entgegen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/next/floran/1", "value": "Floraner hört davon, dasss <target> einige schlimme Dinge tut. Floraner hat für <target.pronoun.object> einen ^orange;Strafbescheid^white; geschrieben. ^green;Überbringe ihn und nimm ^orange;<target>'sss <item> als Begleichung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/glitch/0", "value": "Gereizt. Schlussendlich hat auch ^orange;<target>^white das Gesetz gebrochen und schuldet ein Bußgeld. Ich bin viel zu beschäftigt, um es einzukassieren. Wirst du ^green;diesen ^orange;Bescheid^green; überbringen^white; und ^orange;<target>'s <item>^white; als Schadensersatz ^green;einziehen^white;? Ich wäre dir sehr dankbar."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/floran/1", "value": "Esss issst Zzzeit, Gerechtigkeit an ^orange;<target>^white; aussszzzuüben! ^green;Bringe diesen ^orange;Strafbescheid^white;, den Floraner geschrieben hat und ^green;nimm ^orange;<target>'sss <item>^white; alsss Bezzzahlung."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/last/default/0", "value": "Zu guter Letzt schuldet ^orange;<target>^white; noch ein Bußgeld. ^green;Stelle diesen ^orange;Bescheid^white; zu und ^green; sammle ^orange;<target>'s <item>^white; als Schadensersatz ein."
+	}
+]

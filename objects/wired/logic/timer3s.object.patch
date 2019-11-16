@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Die Timer-Ausgabe wechselt alle 3 Sekunden zwischen Ein und Aus."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Timer (3 Sek)"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Die Timer-Ausssgabe wechselt alle 3 Sssekunden zwischen Ein und Aus."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neutral. Die Timer-Ausgabe wechselt alle 3 Sekunden zwischen Ein und Aus."
+	}
+]

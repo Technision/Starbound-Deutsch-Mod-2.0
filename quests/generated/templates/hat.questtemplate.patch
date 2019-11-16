@@ -1,0 +1,77 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Gib <clothingIngredients> zu <friend>"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/1", "value": "<questGiver> möchte sich <adjective> anschauen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Zum Schluss, Floraner möchte dass du ^orange;<clothingIngredients>^green; zu ^orange;<friend>^green; bringst^white;, damit  <friend.pronoun.subject> Foraner´sss ^orange;Kopfschmuck^white; machen kann. Beeil dich!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/1", "value": "Ich helfe <questGiver> nicht etwas <adjective> zum Anziehen zu finden. Ich mag <questGiver.pronoun.possessiveDet> so wie es ist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Bring das Päckchen zu <questGiver> zurück"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;^cyan;Begierig. Ich möchte <adjective> aussehen. Kannst du mir dabei helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;^cyan;Begierig. Ich möchte <adjective> aussehen und ich weiß auch schon wie."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floraner möchte <adjective> aussehen. Floraner weisss auch schon wie."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;^Cyan; Begeistert. Es ist Zeit einen neuen Look zu haben. Kannst du mir helfen <adjective> auszusehen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan; Ich möchte etwas anziehen das mich <adjective> aussehen lässt. Kannst du mir helfen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floraner wird beliebter sein wenn Floraner <adjective> aussieht."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/failureText/default/0", "value": "Ich hab´s nicht geschafft <questGiver> etwas passendes zum Anziehen zu besorgen. <questGiver.pronoun.capitalSubject>sieht besser aus als <questGiver.pronoun.subject>."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Erfreut. Dieser neue Look lässt mich <adjective> aussehen. Findest du nicht? Danke für deine Hilfe."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Geschafft! Findest du nicht auch dasss Floraner jetzzzt <adjective> aussieht? Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Floraner sieht jetzt <adjective> aus! Dasss wird Floraner helfen neue Freunde zu finden. Danke für deine Hilfe!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Zufrieden. Alles was du jetzt noch machen musst ist ^orange;<friend>^white; nach meinem neuen ^orange;Kopfschmuck.^white;zu fragen. Kannst du ^orange;<clothingIngredients>^green; zu <friend.pronoun.object> green;bringen?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Alles was jetzt noch fehlt ist ^orange;<friend>^white; nach meinem speziellen Kopfschmuck zu fragen. ^green;Gib <friend.pronoun.object> unser ^orange;<clothingIngredients>^white; dann kann <friend.pronoun.subject> es für mich herstellen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floraner hatsss bald geschafft! Floraner braucht dich um ^orange;<clothingIngredients>^white;zu ^orange;<friend>^green;bringen^white;, damit <friend.pronoun.subject> Floraners ^orange; Kopfschmuck^white; machen kann."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Geduldig. Zum Schluss musst du ^orange;<clothingIngredients>^White; zu ^orange;<friend>^green;bringen.^White;, damit  <friend.pronoun.subject> für mich einen neuen ^organge;Kopfschmuck machen kann."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Zum Schluss, flitz zu  ^orange;<friend>, er soll uns einen ganz speziellen ^organge;Kopfschmuck^white; machen. ^green; Sag^white; du kommst von mir und <friend.pronoun.object> wird dir unser ^orange;<clothingIngredients>^White;geben."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Anerkennend. Danke dir, ich sehe definitiv <adjective> aus!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/2", "value": "Helfe <questGiver> <adjective> auszusehen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/title/default/0", "value": "<questGiver>´s neuer Kopfschmuck."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Danke! Wie seh´ ich aus? Bestimmt <adjective>, da bin ich mir sicher."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Danke dir! Was denkst du? Seh´ ich jetzt nicht <adjective> aus?"
+	}
+]

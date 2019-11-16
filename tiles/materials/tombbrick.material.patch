@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Gruftziegel"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Staubige und alte Ziegelsteine"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Staubige alte Ziegelssteine"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Überrascht. Eine genauere Inspektion deutet darauf hin, dass diese Steine ​​ziemlich alt sind."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Nur alte staubige Ziegelsteine."
+	}
+]

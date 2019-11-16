@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Wandplatte"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine glatte, metallene Wandplatte."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Metallplatten machen eine glatte Wand."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Diese austauschbare Platte ist glatt und stark."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'ne Platte aus Metall."
+	}
+]

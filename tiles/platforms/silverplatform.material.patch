@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine polierte Plattform, aus reinem Silber gefertigt."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Plattform aus Silber."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Ich sehe mich selber, in dieser silbernen Plattform."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich denke, diese Plattform ist ihr Gewicht in Silber wert."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Silber Plattform"
+	}
+]

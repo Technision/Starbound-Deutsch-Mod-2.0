@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Dieser größtenteils verlassene Tempel ist laut Esther's Schlussfolgerung der Ort des avianischen Artefakts."
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/buttonText", "value": "Der Große Herrschertempel"
+	},
+	{
+		"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Besuche noch mal den Großen Herrschertempel"
+	}
+]

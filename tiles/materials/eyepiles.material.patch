@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Stapel aus Augen"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein Haufen matschiger Augäpfel."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Matsssschige Augeeeeen!"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein paar dieser Augen schauen mich direkt an."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Nachdenklich. Anders als die an der Spitze des Stapels, werden die meisten dieser Augen nur Dunkelheit kennen."
+	}
+]

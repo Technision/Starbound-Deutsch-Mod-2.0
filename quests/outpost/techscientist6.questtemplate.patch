@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Elliott;^reset; beim ^orange;Außenposten^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Bewältige den ^orange;Deformationskugel Hindernisparcours^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Rede mit ^orange;Elliott^reset;, um den ^orange;Hindernisparcours^reset; zu bewältigen."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Den Ball zum Rollen bringen"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Meine ^orange;Deformationskugel-Tech^white; ist bereit zu rollen! Ich hätte gerne, dass du ^green;sie auf dem neuen, extra dafür gemachten Hindernisparcours testest^white;. Du solltest keine Probleme haben, da drinnen in die schmalen Lücken zu gelangen.^green; Rede wieder mit mir, wenn du bereit bist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Exzellent! Die ^orange;Deformationskugel-Tech^white; hat genau so funktioniert, wie ich gehofft hatte. Bitte behalte sie - dank dir habe ich signifikante Fortschritte in meiner Forschung machen können!"
+	}
+]

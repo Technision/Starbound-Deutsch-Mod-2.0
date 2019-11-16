@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Beende den ^orange;Sprint Hindernisparcours^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Elliott^reset; zum ^orange;Außenposten^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Rede mit ^orange;Elliott^reset;, um den ^orange;Hindernisparcours^reset; zu starten."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Meine ^orange;Sprint-Tech^white; muss ausgiebig getestet werde, bevor sie in die Massenproduktion gehen kann. Würde es dir was ausmachen, ^green;sie auf Herz und Nieren in meinem ^orange;Hinderniskurs^green; zu testen? Spreche mich wieder an, wenn du bereit bist ^white;und ich kann dich dort hin bringen."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Ein Sprinter Typ"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Die ^orange;Sprint-Tech^white; scheint perfekt zu funktionieren! Wunderbar! Bitte, behalte diese Tech als Zeichen meiner Anerkennung. Ich habe auch noch weitere Prototypen die getestet werden müssen, also besuch' mich mal wieder, wenn du bereit bist."
+	}
+]

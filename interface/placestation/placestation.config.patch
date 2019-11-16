@@ -1,0 +1,50 @@
+[
+	{
+		"op": "replace", "patch": "/gui/windowtitle/title", "value": "Station Transponder Konfifuration"
+	},
+	{
+		"op": "replace", "patch": "/gui/windowtitle/subtitle", "value": "^#b9b5b2Konfiuriere und starte deine eigene Raumstation"
+	},
+	{
+		"op": "replace", "patch": "/gui/connectionLabel/value", "value": "Verbinde zu H.I.R.N..."
+	},
+	{
+		"op": "replace", "patch": "/gui/configure/children/configureLabel/value", "value": "Konfiuration"
+	},
+	{
+		"op": "replace", "patch": "/gui/configure/children/name/hint", "value": "Gebe Stations Name ein"
+	},
+	{
+		"op": "replace", "patch": "/gui/configure/children/description/hint", "value": "Gebe Stations Beschreibung ein"
+	},
+	{
+		"op": "replace", "patch": "/gui/configure/children/saveButton/caption", "value": "SPEICHERN"
+	},
+	{
+		"op": "replace", "patch": "/connect/connectText", "value": "^green;Verbinde zu H.I.R.N."
+	},
+	{
+		"op": "replace", "patch": "/connect/failText", "value": "^red;Verbindung mit hoher Bandbreit zu H.I.R.N. nicht möglich\nVersuche es auf deinem Schiff"
+	},
+	{
+		"op": "replace", "patch": "/connect/successText", "value": "^green;Hohe Bandbreitenverbindung hergestellt\nTransferiere System Daten"
+	},
+	{
+		"op": "replace", "patch": "/connectedText", "value": "^green;Verbindg hergestellt"
+	},
+	{
+		"op": "replace", "patch": "/deployingText/dispatching", "value": "^green;Sondenversand anfordern"
+	},
+	{
+		"op": "replace", "patch": "/deployingText/traveling", "value": "^green;Sonde versandt.\nSonde nähert sich dem Zielorbit"
+	},
+	{
+		"op": "replace", "patch": "/deployingText/deplyoing", "value": "^green;Sonde hat Zielorbit erreicht.\nBereitstellen der Station"
+	},
+	{
+		"op": "replace", "patch": "/deployingText/deployed", "value": "^green;Station bereitgestellt"
+	},
+	{
+		"op": "replace", "patch": "/deployingText/error", "value": "^green;Fehler beim bereitstellen der Sonde. \nVerbindung verloren..."
+	}
+]

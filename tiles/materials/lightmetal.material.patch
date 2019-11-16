@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine helle Metall Fliese, perfekt für ein Forschungslabor."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Helles Metall"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glatte Metallfliessen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Begutachtend. Diese Fliesen sind einfach zu sterilisieren."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Einige Fliesen sind aus Metall."
+	}
+]

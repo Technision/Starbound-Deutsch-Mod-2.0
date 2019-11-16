@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Magmastein"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glühend heissse Magmasteine."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Achtung. Die Temperatur dieser Magmasteine ist gefährlich hoch."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Besser ich passe in der Nähe dieser brennenden Magamasteine auf."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Magmastein. Das ist ein heißer Scheiß!"
+	}
+]

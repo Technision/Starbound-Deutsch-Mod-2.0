@@ -1,0 +1,5 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Verwandle dich in eine Kugel, die Wände hochklettert! ^green;[F]"
+	}
+]

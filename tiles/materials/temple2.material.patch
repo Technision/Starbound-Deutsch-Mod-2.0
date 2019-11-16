@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Tempel Steine"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner mag alte Steine."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Das Alter dieser Steine kann nicht genau bestimmt werden."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Schätze diese Steine liegen schon eine Weile rum."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Diese Steine sehen alt aus. Seltsame Worte sind in die Oberfläche graviert, aber ich kann sie nicht entziffern."
+	}
+]

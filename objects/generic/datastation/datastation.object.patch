@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Diese Station scheint eine Menge an Daten zu senden."}, {"op": "replace", "path": "/shortdescription", "value": "Datenstation"}]

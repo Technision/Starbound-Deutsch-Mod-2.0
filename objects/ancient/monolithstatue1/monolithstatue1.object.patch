@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Eine geheimnisvolle antike Statue."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Monolith Statue"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Diese Statue scheint eine Botschaft von vor langer Zeit zu übermitteln."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Eine großartige Darstellung eines Wesens. Vielleicht ein falscher Gott von früher?"
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner versucht, dummessss Gesicht auf die Statue zu zeichnen!"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neugierig. Gibt es diese Statue, um eine Nachricht zu übermitteln?"
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ich liebe meine antiken Ruinen mit großen antiken Statuen."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Schlicht, aber klar im Design. Eine Hylotl Statue wäre besser gealtert."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine alter Statue, wie ein Geist der Vergangenheit, bewegende Erinnerungen vor langer Zeit."
+	}
+]

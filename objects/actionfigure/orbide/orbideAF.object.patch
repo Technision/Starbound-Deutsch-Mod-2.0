@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Etwas an den Weg, wie es humpelt, lässt dich unwohl fühlen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Orbide Figur"
+	}
+]

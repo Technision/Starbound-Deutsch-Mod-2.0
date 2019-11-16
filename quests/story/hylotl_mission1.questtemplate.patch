@@ -1,0 +1,71 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Sieht so aus, als hättest du bereits ein paar Hinweise gefunden, die zum Aufenthaltsort des Artefakts führen. Ich werde meine Analysen an ihnen beginnen, während du nach Weiteren suchst!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Interessant - ich habe noch nie von der großen Pagodenbibliothek gehört. Ich benötige momentan keine weiteren Informationen mehr - ^#71f2f6;Komm zur Arche zurück, wenn du bereit bist^white;, ja?"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Wir sollten damit anfangen, dass ^orange;Hylotl-Artefakt^reset; ausfindig zu machen. Suche in Systemen mit ^orange;gemäßigten Sternen^reset; und jage die ^orange;Hinweise^reset; auf Planeten mit reichlich ^orange;Ozeanen^reset;, wo die Hylotl oberhalb und unterhalb der Wasseroberfläche wohnen. ^green;Komm wieder zu mir, wenn deine Suche beendet ist^reset;, und halte die Augen offen."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Finde Hinweise auf das Hylotl Artefakt"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Scanne Gegenstände^reset;, um ^orange;Hylotl Hinweise zu finden^reset;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Esther^reset; bei der ^orange;Arche^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Dieser letzte Hinweis hat den Aufenthaltsort des Hylotl Artefakts offenbart! Wundervolle Arbeit!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/7/text", "value": "Wie eigenartig! Aber überraschende Informationen können noch wertvoller sein, als Informationen, die man eh schon erwartete..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/9/text", "value": "Das ist alles nützlich. Suche weiter!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/3/text", "value": "Hmm, ich frage mich..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Du hast es drauf, Hylotl Antiquitäten zu sammeln! Es sieht so aus, als hättest du bereits genügend Hinweise gesammelt, damit ich den Aufenthaltsort des Artefaktes bestimmen kann!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text", "value": "Diese Bibliothek ist mit einer unglaublichen Liebe zum Detail gestaltet worden. Möglicherweise befindet sich das Artefakt an einem Ort, wie diesem."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Hmmm, wie merkwürdig... Das muss ich kreuzvergleichen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/6/text", "value": "Dies bestätigt einige meiner Spekulationen!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/4/text", "value": "Exzellent! Alles, was du findest, trägt dazu bei, eine brauchbare Theorie zu entwickeln."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text", "value": "Diese Musikbox spielt eine uralte Melodie... es muss ein Gegenstand im Gedenken an etwas oder jemand sein, ich werde nach seiner Herkunft forschen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text", "value": "Dieses Bild ist handgemacht und stellt offensichtlich ein kulturell wichtiges Gebäude dar..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/2/text", "value": "Ich kann nicht anders, als die traditionellen Hylotl zu respektieren, wie wertvoll Wissen für sie ist."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/5/text", "value": "Dieser Hinweis deutet auf versteckte Informationen hin."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text", "value": "Auf diesem Aquarium befindet sich ein Modell der Insel. Wie bemerkenswert!"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text", "value": "Die Hylotl schützen und wahren Wissen, wie ihre kostbaren Schätze... Bücher stellen dabei der größte Reichtum dar. Könnte das Artefakt inmitten einer solchen Fundgrube an Wälzern aufbewahrt werden?"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/8/text", "value": "Auch der noch so kleinste Hinweis kann helfen, die größten Geheimnisse des Universums zu lüften."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/1/text", "value": "Interessant. Die wird sicherlich Einfluss auf meine Nachforschungen haben."
+	}
+]

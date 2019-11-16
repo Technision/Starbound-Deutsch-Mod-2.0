@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein zerstörter Behälter, das Innere ist mit getrocknetem Schleim bedeckt... Ist etwas ausgebrochen? "
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Zerstörter Behälter"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ist da etwas... ausgebrochen?"
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Oh Gott, das erinnert mich an einen Film, den ich neulich sah."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Das ist ominös."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Kaputt kaputt kaputt.. Oh oh."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verstört. Scheint, als hätte etwas diese Maschine verlassen."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Das Glas wurde von Innen zerschlagen..."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Bin nicht scharf drauf, das anzufassen."
+	}
+]

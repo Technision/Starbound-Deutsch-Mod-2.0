@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Fleischbrocken"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Matschigesss Fleisch."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Angewidert. Das ist aus matschigem Fleisch gemacht."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das ist irgendeine Art Fleisch."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Irgendeine grässliche, faul-riechende Art von Fleisch"
+	}
+]

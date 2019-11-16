@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "MENSCH"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Ich habe keine Idee, was man hier hinstellt."
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Fenerox"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "HAUTFARBE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "FRISUR"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "SHIRT"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "HOSE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/4", "value": "SCHLÜPFERFARBE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "HAARFARBE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "SHIRTFARBE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "HOSENFARBE"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "PERSÖNLICHKEIT"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Ich bin dabei eine Technologie zu entwickeln, die es dem Benutzer ermöglicht, flink von einer Stelle zur anderen zu sprinten, aber mir fehlen leider ein paar wichtige Komponenten für meinen ^orange;Prototyp^white; Könntest du mir mit ^orange;10 Kupferbarren^green; aushelfen^white;?"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Jetzt wird's Technisch"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hast mir die Teile gebracht! Wunderbar! Mit ihnen sollte die ^orange;Sprint-Tech^white; fertig für den Gebrauch sein, aber es gibt nur einen Weg, dies herauszufinden..."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Elliott"
+	}
+]

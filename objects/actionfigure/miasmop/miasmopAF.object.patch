@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path" : "/description", "value": "Das Etikett sagt, \"Längerer Kontakt mit den scharfen Dämpfen wird Sie ausschalten.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Miasmop Figur"
+	}
+]

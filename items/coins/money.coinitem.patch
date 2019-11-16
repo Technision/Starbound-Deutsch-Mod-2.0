@@ -1,0 +1,4 @@
+[
+	{"op": "replace", "path": "/description", "value": "Pixel sind eine universelle Währung und werden auch für den 3D Drucker benötigt."},
+	{"op": "replace", "path": "/shortdescription", "value": "Pixel"}
+]

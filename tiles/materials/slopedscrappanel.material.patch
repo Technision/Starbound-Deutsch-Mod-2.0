@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Verrostete Schrottpaneele in einem Zustand des Verfalls."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Besorgt. Diese Metalloberfläche wirkt sehr zackig und rostig."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Metall ssssso rostig, dasssss Floraner es nicht einmal benutzen würde."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Metallplatte ist nur ein Haufen Schrott."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schrottplatte"
+	}
+]

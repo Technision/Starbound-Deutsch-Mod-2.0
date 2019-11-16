@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Roter Spielzeugblock"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein großer stapelbarer Spielzeug block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag sstapelbaren Spielzzeugblock."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Amüsiert. Diese Spielzeugblöcke stapeln und verriegeln sich."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese bunten Blöcke sind dazu bestimmt, mit ihnen zu spielen."
+	}
+]

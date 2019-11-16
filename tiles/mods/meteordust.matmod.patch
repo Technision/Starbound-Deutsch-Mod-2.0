@@ -1,0 +1,5 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Meteorit, der zu Staub zerfallen ist."
+	}
+]

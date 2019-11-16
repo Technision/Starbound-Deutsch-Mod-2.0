@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Platziere eine Nutzergesteuerte Schienenbahn das mit Schienenstopps funktioniert."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schienenbahn"
+	}
+]

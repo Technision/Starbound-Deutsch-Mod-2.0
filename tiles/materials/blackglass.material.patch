@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Interessant. Dieses Glas ist so dunkel gefärbt das es fast undurchsichtig ist."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schwarzes Glas"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein dunkel gefärbtes Glaspanel."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Glas, so dunkel das kaum die Sonne hindurch scheint."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner könnte sich hinter schwarzem Glasss verstecken."
+	}
+]

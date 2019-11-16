@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Wie es der Titel schon sagt, \"Iguarmor ist kein aggressive Spezies abder die Stacheln auf ihm können sehr shaden.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Iguarmor Figur"
+	}
+]

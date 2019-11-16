@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Zeitstecher ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Diese Klinge kann durch die Zeit selbst durchdringen."}, {"op": "replace", "path": "/shortdescription", "value": "Zeitstecher"}, {"op": "replace", "path": "/altAbility/name", "value": "Zeitstecher"}]

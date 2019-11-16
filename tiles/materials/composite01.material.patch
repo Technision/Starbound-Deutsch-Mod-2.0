@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Titanplatte"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine glatte Platte aus Titan."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glatte, glänzzzende Titanplatten."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Diese Titanplatten sind nahezu makellos."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein paar glänzend glatte Titanplatten."
+	}
+]

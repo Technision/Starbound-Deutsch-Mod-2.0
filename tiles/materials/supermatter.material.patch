@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein Kristall, für die Hyperantriebstechnologie. Man hat es immer noch nicht ganz verstanden..."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Erchiuskristall"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Gigantische, glänzzzende Krissstalle."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Erchiuskristalle enthalten eine geheimnisvolle Kraft."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein großer, alter Erchiuskristall."
+	}
+]

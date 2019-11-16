@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/destroyRuin", "value": "Geh durch die ^orange;Arche^reset; ,und ^green;vernichte^orange; den Zerstörer^reset;."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Finde einen Rückweg zum ^orange;Außenposten^reset;"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Das Öffnen der Arche"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Selbst jetzt, nach Allem, bin ich mir sicher, dass du noch viele weitere Abenteuer zu bestehen haben wirst. Nimm zumindest dies hier an, ja?"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Ich habe dir etwas mitzuteilen und zu ^orange;zeigen.^reset;^green; Es ist an der Zeit, mehr von dir zu verlangen, als ich es je getan habe^reset;... Ich glaube, dass du für diese Aufgabe bereit bist, du nicht auch?"
+	}
+]

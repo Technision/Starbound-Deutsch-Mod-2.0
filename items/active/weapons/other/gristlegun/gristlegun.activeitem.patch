@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Knorpel Waffe ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Diese Pistole erzeugt ihre eigene natürliche Munition. Igitt."}, {"op": "replace", "path": "/shortdescription", "value": "Knorpel Waffe"}]

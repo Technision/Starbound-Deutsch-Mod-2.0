@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Eine grobe Holztür. Nicht sehr sicher."}, {"op": "replace", "path": "/shortdescription", "value": "Holztür"}, {"op": "replace", "path": "/apexDescription", "value": "Eine einfache Holztür."}, {"op": "replace", "path": "/avianDescription", "value": "Eine selbstgemachte Holztür."}]

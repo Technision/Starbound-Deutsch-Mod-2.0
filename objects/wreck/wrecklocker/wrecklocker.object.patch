@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein Spind. Ich frage mich, ob es leer ist."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kaputter Spind"
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Ein alter und verrosteter Spind."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Kein besonders sicherer Behälter mehr."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Ein alter Spind. Hey! Da hängt ein Foto im Inneren..."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Dieser Spind riecht lussstig."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Neugierig. Könnte dieser Spind noch etwas beinhalten?"
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Ich würde hier nicht gerne Wertsachen aufbewahren."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ich würd' mich nicht darauf verlassen, dass irgendetwas drin ist."
+	}
+]

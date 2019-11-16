@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Wahrnehmend. Diese Wand ist subtil mit einer traditionellen Methode verziert."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kunstvolle Wand"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine traditionell wirkende Wand."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Wand isst zu sschön zum zersstören."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das ist 'ne richtig schicke Wand."
+	}
+]

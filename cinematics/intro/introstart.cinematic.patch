@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/panels/4/text", "value": "Wach auf. Du hast verschlafen."
+	},
+	{
+		"op": "replace", "path": "/panels/3/text", "value": "Wach auf..."
+	}
+]

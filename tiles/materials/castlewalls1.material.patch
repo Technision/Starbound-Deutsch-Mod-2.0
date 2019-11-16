@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Starke Steinplatten; perfekt, um eine Burg zu bauen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Schwere Steinziegel"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Großßße Steinzzziegel."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Informiert. Steinziegel wie diese werden häufig in Burgen verwendet."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Hätt's gehasst, derjenige zu sein, der diese schweren Ziegel verlegen musste."
+	}
+]

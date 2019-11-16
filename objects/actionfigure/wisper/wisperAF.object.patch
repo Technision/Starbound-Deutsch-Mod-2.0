@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Einige glauben, Wispers seien verloren Geister. In der Nacht kann ihr Schein Forscher in die Irre führen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Wisper Figur"
+	}
+]

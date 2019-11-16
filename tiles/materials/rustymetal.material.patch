@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Altes Metall, überzogen mit Rost."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Rostiges Metall"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Alarmiert. Der Rost auf diesem Metall beunruhigt mich sehr."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Altes Metall bedeckt mit dichtem Rost."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Rosstiges bedecktes Metall "
+	}
+]

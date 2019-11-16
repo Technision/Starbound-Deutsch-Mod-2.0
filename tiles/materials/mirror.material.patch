@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verwirrt. Obwohl es sich um einen Spiegel handelt, gibt es keine Reflektion."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Da stimmt was nich' mit dem Spiegel. Ich kann nix drin sehen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Spiegelblock"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein nicht reflektierender Spiegel."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzzzende Oberfläche."
+	}
+]

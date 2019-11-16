@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "'Ne große alte Schraube aus Silber."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Silber-Schraube"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine gigantische, aus Silber hergestellte Schraube."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzzende, auss Ssilber gemachte Sschraube."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verwirrt. Welchen Zweck könnte eine so große Schraube erfüllen?"
+	}
+]

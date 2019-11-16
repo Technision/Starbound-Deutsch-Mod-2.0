@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Einfach fabelhaft."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Regenbogenholz"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floraner liebt farbenfrohe Regenbogen Bretter."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Bretter, gemacht aus irgendeinem gewaltig bunten Holz."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erfreut. Diese farbenfrohe Bretter sind leuchtend hell und strahlen Freude aus.\r\n"
+	}
+]

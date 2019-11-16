@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Perfekt, um Ihrer Performance dieses synthetische Gefühl zu verleihen."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Square Wave"
+	}
+]

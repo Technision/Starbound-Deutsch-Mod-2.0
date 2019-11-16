@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "AVIANER"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Avianer sind ein buntes Vogelvolk, dessen Stammeskultur sich um die Anbetung von Kluex, dem geflügelten Gott des Äthers dreht. Ihre Soldaten werden von Geburt an trainiert wilde Krieger zu sein, die ihre Tempel um jeden Preis schützen."
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Avianer"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "Federfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "Gefieder"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "Shirt"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "Hose"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/4", "value": "Schnabel"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "Flaum"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "Shirtfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "Hosenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "Persönlichkeit"
+	}
+]

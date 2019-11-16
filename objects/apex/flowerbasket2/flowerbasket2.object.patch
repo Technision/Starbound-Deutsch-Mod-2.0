@@ -1,0 +1,29 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein herrlich hängender Korb. Nicht daran schwingen!"
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Hängender Korb"
+	},
+	{
+		"op": "replace", "path": "/apexDescription", "value": "Ein liebevoller hängender Korb."
+	},
+	{
+		"op": "replace", "path": "/avianDescription", "value": "Was für eine wundervolle Auswahl von Blüten."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floranischer Ssschwung vom Korb. Flieg weg, stürze durch Fenster. Spaß!"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Bewunderung. Ein schön kultivierter hängender Korb."
+	},
+	{
+		"op": "replace", "path": "/humanDescription", "value": "Eines davon fiel mir einmal auf den Kopf. Gute Zeiten."
+	},
+	{
+		"op": "replace", "path": "/hylotlDescription", "value": "Eine adäquate hängende Blumenpräsentation. Ich habe beeindruckendere Algen-Arrangements gesehen."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein hängender Korb. Nichts macht ein Zuhause einladender."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Staubige kleine Ziegelsteine"
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erstaunt. Diese kleinen Blöcke, zeigen ein hohes Maß an Handwerkskunst."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ein staubiger kleiner Ziegelstein."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Staubig, aber ordentliche Ziegelsteine."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kleine Tempelziegel"
+	}
+]

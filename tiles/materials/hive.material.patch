@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Bienenstockstein"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Klebrige Bienenstock aus reste von gefallenen Wesen."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Schwarm aus zzerdrückten Tieren gemacht."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Empört. Dieses lebendige Material besteht aus zerquetschten Kreaturen."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Eine Art Bienenstock aus zerquetschten Lebewesen gemacht."
+	}
+]

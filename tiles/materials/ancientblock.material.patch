@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Diese Ziegel haben offenbar den Test der Zeit überstanden."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Uralter Block"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Uralte Blöcke."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Erstaunt. Diese Blöcke sind offensichtlich sehr alt."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese Blöcke sind älter als Dreck."
+	}
+]

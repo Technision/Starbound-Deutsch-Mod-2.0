@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/healthTitleLabel/value", "value": "Schild Trefferpunkte:"}, {"op": "replace", "path": "/cooldownTitleLabel/value", "value": "Abklingzeit:"}]

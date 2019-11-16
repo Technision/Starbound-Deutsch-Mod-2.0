@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Ich habe eine letzzzte Herausssforderung für dich! Ein unheimlicher Typ in Rüssstung, der sich ^orange;Templer Inferno^white; nennt, will gegen dich kämpfen. Er mag Feuer, und ich meine damit viel Feuer. Vielleicht nimmssst du etwasss Verbrennungsss-Ssspray, um dich gegen die Horde flammender Monssster zu wehren...^green;Wie auch immer, rede mit mir, wenn du bereit bissst und ich warpe dich dorthin^white;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Gewinne den Arenakampf"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Kehre zu ^orange;Nuru^reset; am ^orange;Außenposten^reset; zurück."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Rede mit ^orange;Nuru^reset;, um zur ^orange;Arena^reset; zu reisen"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Arena des Feuers"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Du hassst esss geschafft! Sogar mit all dem Feuer! Beeindruckend! Hier, nimm Templer Inderno'sss Schwert - du verdienssst esss, Champion! Frag' nicht, wie ich daran gekommen bin."
+	}
+]

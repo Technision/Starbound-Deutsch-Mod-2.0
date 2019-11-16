@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Ein bisschen natürlich glattes Eis."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Glattes Eis"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Rutschigesss gefrorenesss Wassser."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Vorsichtig. Die Art, wie dieses Eis fror hat es ungewohnt glatt gemacht. "
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Das Eis hier ist verdammt glatt."
+	}
+]

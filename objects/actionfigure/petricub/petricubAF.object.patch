@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Sie starrt Sie erwartungsvoll mit ihren perlenartigen Augen an.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Petricub Figur"
+	}
+]

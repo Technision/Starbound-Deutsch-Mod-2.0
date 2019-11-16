@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Eindringling!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/0", "value": "ZERPFLÜCKEN UND ZERREIßEN!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/1", "value": "ZERPFLÜCKEN UND ZERREIßEN!"}]

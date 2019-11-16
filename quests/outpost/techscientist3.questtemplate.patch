@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Sprung in der Entwicklung"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Prächtig! Mit diesen Ergänzungen ist die ^orange;Impulssprung-Tech^white; zum Testen bereit! Komm und rede wieder mit mir, wenn du gerne dabei helfen möchtest."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Elliott"
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Ich arbeite an einer neuen Tech, die es dem Benutzer ermöglicht, einen Sprung mitten in der Luft auszuführen, um unglaubliche, neue Höhen zu erreichen! Unglücklicherweise benötige ich noch ein paar Komponenten, um es fertig zu stellen. ^green;Könntest du mir ^orange;10 Silberbarren^green; bringen^white;?"
+	}
+]

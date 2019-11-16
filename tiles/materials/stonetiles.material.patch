@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Steinfliesen"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Fliesen aus glatt poliertem Stein"
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "SSteine ​​poliert in schöne Fliessen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Beeindruckt. Dieser Stein wurde sorgfältig in Fliesen geglättet."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Schicke polierte Stein Fliesen."
+	}
+]

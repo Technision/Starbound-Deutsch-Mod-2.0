@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Sein unhygienischer Lebensstil lässt zu wünschen übrig.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Quagmutt Figur"
+	}
+]

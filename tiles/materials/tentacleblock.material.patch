@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Verurteilt. Diese Tentakel wurden zu einer festen Masse zusammengepeitscht."
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Eine Masse von zappelnden Tentakeln."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Tentakel Haufen"
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Buncha gruselig aussehende, zusammen gematschte, Tentakel."
+	}, 
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Floran mag keine zappelnden Tentakel."
+	}
+]

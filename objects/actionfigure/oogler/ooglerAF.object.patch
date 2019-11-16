@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es scheint verwirrend, wenn man auf neue Lebensformen trifft. Du kannst nicht anders als dich beobachtet zu fühlen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Oogler Figur"
+	}
+]

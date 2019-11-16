@@ -1,0 +1,38 @@
+[
+	{
+		"op": "replace", "path": "/charGenTextLabels/2", "value": "Shirt"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/3", "value": "Hose"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/5", "value": "Bart"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/6", "value": "Shirtfarbe"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/description", "value": "Eine Rasse von hoch intelligenten Primaten. Jahrtausendelang sind die Apex den Menschen nah gewesen, bis ein wissenschaftlicher Durchbruch ihnen erlaubt hat, physische Entwicklung gegen die intellektuelle Evolution zu tauschen."
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/0", "value": "Fellfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/1", "value": "Frisur"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/4", "value": "Hautfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/7", "value": "Hosenfarbe"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/8", "value": "APEX"
+	},
+	{
+		"op": "replace", "path": "/charGenTextLabels/9", "value": "Persönlichkeit"
+	},
+	{
+		"op": "replace", "path": "/charCreationTooltip/title", "value": "Apex"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Außenpostenplattform"
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Fasziniert. Diese Plattformen sind leicht und wegen ihrer Tragbarkeit bevorzugt."
+	},
+	{
+		"op": "replace", "path": "/description", "value": "Eine einfache Plattform, die in abgelegenen Außenposten gefunden werden kann."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Nur eine weitere Metallplattform."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Ziemlich seltsam aussehende Metallplattform."
+	}
+]

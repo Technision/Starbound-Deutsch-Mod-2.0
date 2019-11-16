@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/conditions/0/description", "value": "Finde ^orange;<itemName>^reset;: ^green;<current> / <required>^reset; "
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Turmfalken Schiffsaufrüstung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Pinguin Pete"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Dein Schiff wird sofort aufgerüstet. Die Pinguine liefern immer 'ne gute Arbeit ab."
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Du hast vier Mannschaftsmitglieder! Mit einer solchen Mannschaftsgröße qualifizierst du dich für die Turmfalkenlizenz. Herzlichen Glückwunsch!^green; Besuche Pinguin Pete^reset; mit ^orange;4 Upgrade Modulen^reset;, um dein Schiff aufzurüsten."
+	}
+]

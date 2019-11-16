@@ -1,0 +1,59 @@
+[
+	{
+		"op": "replace", "path": "/panels/7/text", "value": "Es ist leider unvermeidlich, dass wir uns treffen sollten..."
+	},
+	{
+		"op": "replace", "path": "/panels/8/text", "value": "Mein Name ist ^orange;Esther Bright^white;, zurückgezogener Großer Beschützer."
+	},
+	{
+		"op": "replace", "path": "/panels/9/text", "value": "Ich bin vor ein paar Jahren gegangen, eine unmögliche Entscheidung; aber meine Forschungen konnten nicht vernachlässigt werden."
+	},
+	{
+		"op": "replace", "path": "/panels/10/text", "value": "Ich habe lang vergessene Dinge entdeckt, die schwer auf der Gegenwart lasten."
+	},
+	{
+		"op": "replace", "path": "/panels/14/text", "value": "Unter seinem Einfluss herrschte Harmonie. So war es für Äonen."
+	},
+	{
+		"op": "replace", "path": "/panels/16/text", "value": "Aber diese Gelassenheit erwies sich als endlich. Ein Wesen erhob sich, von Hass und Vernichtung erfüllt. Es war der Zerstörer."
+	},
+	{
+		"op": "replace", "path": "/panels/17/text", "value": "Der Zerstörer konnte jegliche Form von Leben nicht ertragen und brachte Verwüstung und Vernichtung über das gesamte Universum."
+	},
+	{
+		"op": "replace", "path": "/panels/18/text", "value": "Er kämpfte um alles Leben auszulöschen und hätte Erfolg gehabt, zum Opfer des Erschaffers."
+	},
+	{
+		"op": "replace", "path": "/panels/20/text", "value": "Der Erschaffer erhob sich gegen den Zerstörer und sperrte ihn erfolgreich ein."
+	},
+	{
+		"op": "replace", "path": "/panels/21/text", "value": "Aber dabei hat der Erschaffer seine Kraft vollkommen ausgeschöpft."
+	},
+	{
+		"op": "replace", "path": "/panels/23/text", "value": "Bevor seine letzte Energie erlosch, beschenkte der Erschaffer sechs auserwählte Rassen mit kostbaren Artefakten."
+	},
+	{
+		"op": "replace", "path": "/panels/25/text", "value": "Diese sechs Artefakte, wenn vereint, bilden den Schlüssel für das Tor zum Zerstörer."
+	},
+	{
+		"op": "replace", "path": "/panels/26/text", "value": "Die Verteidigungen sind am Bröckeln. Wir müssen die Artefakte vereinen, den Zerstörer erreichen und ihn vollkommen vernichten."
+	},
+	{
+		"op": "replace", "path": "/panels/29/text", "value": "Das ist viel Arbeit und eine große Bitte an dich... Aber ich bräuchte deine Hilfe."
+	},
+	{
+		"op": "replace", "path": "/panels/30/text", "value": "Die Artefakte sind über die Sterne verstreut, alleine kann ich sie nicht finden."
+	},
+	{
+		"op": "replace", "path": "/panels/31/text", "value": "Wir müssen sie finden und den Zerstörer vernichten bevor anderen Planeten dasselbe Schicksal wie der Erde ereilt."
+	},
+	{
+		"op": "replace", "path": "/panels/5/text", "value": "Hallo! Ist das ein Materie Manipulator, den du da trägst? Exzellent, also bist du ein Protektor."
+	},
+	{
+		"op": "replace", "path": "/panels/13/text", "value": "Vor langer Zeit gab es eine mächtige Kraft, bekannt als der Erschaffer. Sie hielt das Gleichgewicht im Universum aufrecht."
+	},
+	{
+		"op": "replace", "path": "/panels/6/text", "value": "Es tut mir leid das zu sagen, vielleicht zum letzten Mal, nach der... Der grausamen Zerstörung der Erde."
+	}
+]

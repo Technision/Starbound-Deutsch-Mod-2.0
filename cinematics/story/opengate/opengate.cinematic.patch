@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/panels/36/text", "value": "Nur ein Artefakt dasss noch fehlt!"
+	},
+	{
+		"op": "replace", "path": "/panels/37/text", "value": "Ja, und gemäß unseren Forschungen..."
+	},
+	{
+		"op": "replace", "path": "/panels/38/text", "value": "Tatsächlich scheinen wir keine aufgezeichneten Daten über das letzte Artefakt zu haben."
+	},
+	{
+		"op": "replace", "path": "/panels/39/text", "value": "Korrekt. Der Grund dafür ist , dass er die ganze Zeit in unserem Besitz gewesen ist."
+	},
+	{
+		"op": "replace", "path": "/panels/40/text", "value": "Der Materie Manipulator, den ich hier halte, ist der einzige seiner Art."
+	},
+	{
+		"op": "replace", "path": "/panels/41/text", "value": "Es ist das Original - der ^orange;Meister Manipulator^white; - und es scheint auch das Artefakt zu sein, dass den Menschen geschenkt wurde."
+	}
+]

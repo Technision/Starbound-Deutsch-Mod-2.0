@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/conditions/0/description", "value": "Finde ^orange;<itemName>^reset;: ^green;<current> / <required>^reset; "
+	},
+	{
+		"op": "replace", "path": "/text", "value": "Glückwunsch - mit sechs Mannschaftsmitgliedern qualifizierst du dich nun für die Falkenlizenz! ^green;Suche Pinguin Pete^reset; mit ^orange;6 Upgrade Modulen^reset; auf, um dein Schiff weiter aufzurüsten."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^green;Falken Schiffsverbesserung"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Pinguin Pete"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Ein Schiffsausbau - kommt sofort!"
+	}
+]

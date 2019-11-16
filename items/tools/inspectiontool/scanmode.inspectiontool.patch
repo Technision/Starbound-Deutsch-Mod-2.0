@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Beschreibe Dinge in der Welt und scanne Objekte zum Drucken. ^green;Schnellwahl mit der Taste [N]."}, {"op": "replace", "path": "/shortdescription", "value": "Scan Modus"}]

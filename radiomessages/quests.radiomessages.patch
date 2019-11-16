@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace", "path": "/gaterepair-findGate/text", "value": "Meine Scans zeigen mir, dass es eine Art ^orange;Arkane Energiequelle^reset; auf diesem Planeten gibt. Meine Rechnungen ergeben, dass es eine ^green;32% Chance gibt, dass es Wert ist nachzuschauen^reset; und eine 98% Chance, dass du sowieso nichts besseres zu tun hast."
+	},
+	{
+		"op": "replace", "path": "/gaterepair-gateOpened2/text", "value": "^green;Bitte komm^reset;. Ich brauche deine Hilfe! Das Überleben des Universums hängt davon ab. ^orange;Verwende dieses Uralte Tor und triff mich in den Ruinen, direkt hinter dem Außenposten^reset;."
+	},
+	{
+		"op": "replace", "path": "/gaterepair-gateOpened1/text", "value": "Es sieht so aus als hättest du das Tor aktiviert. Und ich erhalte eine weiter ^orange;Nachricht^reset; ."
+	},
+	{
+		"op": "replace", "path": "/gaterepair-gateFound1b/text", "value": "Wenn du diese Nachricht erhalten hast, musst du ein ^orange;Uraltes Tor^reset; gefunden haben. Bitte verwende es und finde mich. ^green;Du kannst das Tor mithilfe von ^orange;20 Kernfragmenten^reset; aktivieren."
+	},
+	{
+		"op": "replace", "path": "/gaterepair-gateFound1/text", "value": "Ich erhalte ein unbekanntes Signal in der Nähe dieser ^orange;Energiequelle^reset; . Ich werde es nun übermitteln."
+	},
+	{
+		"op": "replace", "path": "/gaterepair-gateFound2/text", "value": "Ich habe den Planeten nach nahen ^orange;Kernfragmenten^reset; überprüft. Es erscheint, als würden sie ^green;tief im Inneren des Planeten^reset; vorkommen, in der Nähe des Planetenkerns."
+	}
+]

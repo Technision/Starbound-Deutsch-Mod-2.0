@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Rostiges Gerüst, sieht nicht sehr sicher aus."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Rossstig und unsicher. Floraner mag."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Alarmiert. Dieses rostige Gerüst scheint brüchig zu sein."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Diese rostige Plattform sieht kurz vor'm Zerfallen aus."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Ruinierte Plattform"
+	}
+]

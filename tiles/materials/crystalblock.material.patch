@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzender Block ausss Kristallen."
+	}, 
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Kristall-Block"
+	}, 
+	{
+		"op": "replace", "path": "/description", "value": "Ein schimmernder Block aus Kristallen."
+	}, 
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Ruhig. Dieser Kristall-Block hat eine beruhigende Optik."
+	}, 
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Die Kristalle in diesem Block sind wirklich hübsch."
+	}
+]

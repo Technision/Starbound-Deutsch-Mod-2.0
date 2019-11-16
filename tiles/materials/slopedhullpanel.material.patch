@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Günstige, elastische Verkleidung, die häufig für den Schiffs- und Stationssbau verwendet wird."
+	},
+	{
+		"op": "replace", "path": "/glitchDescription", "value": "Aufmerksam. Diese Verkleidung wird häufig für den Schiffs- und Stationssbau verwendet."
+	},
+	{
+		"op": "replace", "path": "/floranDescription", "value": "Glänzendes glattesssss Weltraummetall."
+	},
+	{
+		"op": "replace", "path": "/novakidDescription", "value": "Etwas dicke Metallbeschichtung, sieht mächtig massiv aus."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Rumpfplatte"
+	}
+]

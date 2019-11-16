@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/0", "value": "Ungeduldig. Ich habe einige Köpfe einige Ziet nicht getrennt."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/0", "value": "Aufgeregt. Ich habe viel innere Wut, die ich gerne mit meiner Axt ausdrücken möchte."
+	}
+]

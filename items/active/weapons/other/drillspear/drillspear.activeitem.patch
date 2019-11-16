@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Durchbohren Sie den Himmel oder zumindest die Erde."
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Bohrspieß"
+	}
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Eine Salbe um Wunden zu heilen. Stellt 50 Gesundheit in 10 Sekunden wieder her."}, {"op": "replace", "path": "/shortdescription", "value": "Heilsalbe"}]

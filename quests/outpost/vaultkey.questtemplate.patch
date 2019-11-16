@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Die Winde flüstern von dem, was du getan hast - Du hast es weit gewagt. Aber es gibt immer noch Türen, die du noch öffnen musst.  ^green;Ich kann ^orange;Schlüssel^green;mit dir Handeln^white;, wenn du ^green;die ^orange;Alten Tore öffnen willst^green; die über die Sterne verstreut sind^white;. "
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Ich habe ein ^orange;Altes Gewölbe erreicht!^white; Ich frage mich, welche Geheimnisse diese Ruine verbirgt? Ich denke, dass ich sie mir ansehen sollte..."
+	},
+	{
+		"op": "replace", "path": "/title", "value": "^orange;Die Endgrenze"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Der Händler"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace", "path": "/text", "value": "Ich kann das Schiff reparieren, aber dafür braucht's 20^orange; Erchiuskristalle^reset;... Solltest dich dafür mal ^green;zur Erchius-Bergbauanlage bewegen^reset;. Ich hab' die Koordinaten an ^green;dein Schiffs-HIRN^reset; gesendet."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/findCrystals", "value": "^green;Besorge ^orange;Erchiuskristalle^white; aus der ^orange; Erchius-Bergbauanlage^white;"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "^green;Kehre^white; zum^orange;Kapitän der Schiffswerft^white; beim^orange;Außenposten^white; zurück"
+	},
+	{
+		"op": "replace", "path": "/title", "value": "Die Erchius-Bergbauanlage"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questComplete/title", "value": "Pinguin Pete"
+	},
+	{
+		"op": "replace", "path": "/completionText", "value": "Perfekt! Mit denen sollt's klappen. Ich werd' dein Schiff sofort in Schuss bringen."
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/portraits/questStarted/title", "value": "Pinguin Pete"
+	},
+	{
+		"op": "replace", "path": "/scriptConfig/missionRadioMessage/text", "value": "Ich habe die Koordinaten der ^orange;Erchius-Bergbauanlage^reset; erhalten. ^green;Kehre zu deinem Schiff zurück;^reset;, um über meine Missionsoberfläche direkt dorthin zu teleportieren."
+	}
+]

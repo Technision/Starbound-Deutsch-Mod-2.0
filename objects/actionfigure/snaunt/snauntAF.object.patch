@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace", "path": "/description", "value": "Das Etikett sagt, \"Es ist berüchtigt für ihn, Gemüsebeete zu stehlen.\""
+	},
+	{
+		"op": "replace", "path": "/shortdescription", "value": "Snaunt Figur"
+	}
+]
